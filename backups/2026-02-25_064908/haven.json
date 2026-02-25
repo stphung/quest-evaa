@@ -1,20 +1,20 @@
 {
   "discovered": true,
   "rooms": {
-    "AlchemyLab": 3,
-    "Hearthstone": 3,
-    "Watchtower": 2,
-    "StormForge": 0,
-    "TrainingYard": 2,
-    "Armory": 3,
     "Library": 2,
+    "Armory": 3,
     "Bedroom": 3,
     "WarRoom": 2,
+    "Hearthstone": 3,
     "FishingDock": 3,
     "TrophyHall": 2,
     "Garden": 2,
     "Workshop": 2,
-    "Vault": 3
+    "Vault": 3,
+    "StormForge": 0,
+    "AlchemyLab": 3,
+    "TrainingYard": 2,
+    "Watchtower": 2
   },
   "last_vault_selections": [
     "Gloves",
