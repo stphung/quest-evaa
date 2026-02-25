@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 18,
-  "character_xp": 6710,
+  "character_level": 31,
+  "character_xp": 15675,
   "attributes": {
     "values": [
-      20,
-      20,
-      16,
-      17,
-      19,
-      19
+      25,
+      32,
+      21,
+      22,
+      25,
+      25
     ]
   },
   "prestige_rank": 7,
   "total_prestige_count": 113,
-  "last_save_time": 1772031040,
-  "play_time_seconds": 868925,
+  "last_save_time": 1772031445,
+  "play_time_seconds": 869308,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 934,
-    "player_max_hp": 984,
+    "player_current_hp": 942,
+    "player_max_hp": 994,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -69,28 +69,74 @@
     },
     "armor": {
       "slot": "Armor",
-      "rarity": "Magic",
-      "ilvl": 10,
-      "tier": 4,
-      "base_name": "Fine Scale Mail",
-      "display_name": "Fine Scale Mail",
+      "rarity": "Legendary",
+      "ilvl": 20,
+      "tier": 1,
+      "base_name": "Leather Armor of Carnage",
+      "display_name": "Leather Armor of Carnage",
       "attributes": {
-        "str": 1,
+        "str": 0,
         "dex": 0,
-        "con": 1,
+        "con": 0,
         "int": 0,
-        "wis": 1,
-        "cha": 0
+        "wis": 3,
+        "cha": 6
       },
       "affixes": [
         {
-          "affix_type": "HPBonus",
-          "value": 10.0
+          "affix_type": "CritMultiplier",
+          "value": 0.14
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 5.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 5.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 4.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.16
         }
       ],
       "god_item_id": null
     },
-    "helmet": null,
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "tier": 0,
+      "base_name": "Armored Helm",
+      "display_name": "Armored Helm",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 2,
+        "wis": 2,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReduction",
+          "value": 3.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 3.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 3.0
+        }
+      ],
+      "god_item_id": null
+    },
     "gloves": {
       "slot": "Gloves",
       "rarity": "Legendary",
@@ -250,12 +296,12 @@
   },
   "fishing": {
     "rank": 30,
-    "total_fish_caught": 36104,
+    "total_fish_caught": 36128,
     "fish_toward_next_rank": 0,
-    "legendary_catches": 676
+    "legendary_catches": 677
   },
   "zone_progression": {
-    "current_zone_id": 2,
+    "current_zone_id": 3,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -268,6 +314,18 @@
       ],
       [
         1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
         3
       ]
     ],
@@ -282,7 +340,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 25484,
+  "stormglass": 26396,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 1,
