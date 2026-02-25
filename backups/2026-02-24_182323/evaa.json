@@ -2,28 +2,34 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 8,
+  "character_xp": 391,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      12,
+      13,
+      15,
+      12,
+      17,
+      12
     ]
   },
-  "prestige_rank": 4,
-  "total_prestige_count": 110,
-  "last_save_time": 1771988237,
-  "play_time_seconds": 860541,
+  "prestige_rank": 5,
+  "total_prestige_count": 99,
+  "last_save_time": 1771946563,
+  "play_time_seconds": 841363,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Flower Toad",
+      "max_hp": 60,
+      "current_hp": 60,
+      "damage": 6,
+      "defense": 0
+    },
+    "player_current_hp": 882,
+    "player_max_hp": 921,
+    "player_attack_timer": 0.1,
+    "enemy_attack_timer": 0.1,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -68,7 +74,24 @@
       ],
       "god_item_id": null
     },
-    "helmet": null,
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Common",
+      "ilvl": 10,
+      "tier": 4,
+      "base_name": "Crown",
+      "display_name": "Crown",
+      "attributes": {
+        "str": 1,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [],
+      "god_item_id": null
+    },
     "gloves": {
       "slot": "Gloves",
       "rarity": "Legendary",
@@ -228,9 +251,9 @@
   },
   "fishing": {
     "rank": 30,
-    "total_fish_caught": 35608,
+    "total_fish_caught": 34288,
     "fish_toward_next_rank": 0,
-    "legendary_catches": 665
+    "legendary_catches": 634
   },
   "zone_progression": {
     "current_zone_id": 1,
@@ -239,22 +262,27 @@
     "unlocked_zones": [
       1,
       2,
+      3,
+      4,
       11
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 6,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 15711,
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  },
+  "stormglass": 30121,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 1,
     "sigils": [
-      {
-        "effect": "OfflineXpPercent",
-        "value": 15.9,
-        "grade": "A"
-      },
+      null,
       null,
       null,
       null,
