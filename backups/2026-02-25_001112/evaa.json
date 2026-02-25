@@ -2,28 +2,34 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 48,
+  "character_xp": 7454,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      42,
+      37,
+      23,
+      24,
+      36,
+      39
     ]
   },
-  "prestige_rank": 7,
-  "total_prestige_count": 113,
-  "last_save_time": 1772030938,
-  "play_time_seconds": 868843,
+  "prestige_rank": 6,
+  "total_prestige_count": 112,
+  "last_save_time": 1772007068,
+  "play_time_seconds": 866777,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Ancient Shade",
+      "max_hp": 286,
+      "current_hp": 286,
+      "damage": 40,
+      "defense": 16
+    },
+    "player_current_hp": 1017,
+    "player_max_hp": 1060,
+    "player_attack_timer": 0.4,
+    "enemy_attack_timer": 0.4,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -67,8 +73,76 @@
       ],
       "god_item_id": null
     },
-    "armor": null,
-    "helmet": null,
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Epic",
+      "ilvl": 40,
+      "tier": 3,
+      "base_name": "Armored Scale Mail",
+      "display_name": "Armored Scale Mail",
+      "attributes": {
+        "str": 0,
+        "dex": 5,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReduction",
+          "value": 5.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 5.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 61.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Legendary",
+      "ilvl": 40,
+      "tier": 1,
+      "base_name": "Regenerating Cap",
+      "display_name": "Regenerating Cap",
+      "attributes": {
+        "str": 0,
+        "dex": 11,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 5
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 6.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 7.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 9.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 7.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 7.0
+        }
+      ],
+      "god_item_id": null
+    },
     "gloves": {
       "slot": "Gloves",
       "rarity": "Legendary",
@@ -228,14 +302,63 @@
   },
   "fishing": {
     "rank": 30,
-    "total_fish_caught": 36100,
+    "total_fish_caught": 35954,
     "fish_toward_next_rank": 0,
-    "legendary_catches": 675
+    "legendary_catches": 672
   },
   "zone_progression": {
-    "current_zone_id": 1,
-    "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "current_zone_id": 4,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ]
+    ],
     "unlocked_zones": [
       1,
       2,
@@ -243,11 +366,11 @@
       4,
       11
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 6,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 25447,
+  "stormglass": 23897,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 1,
