@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 17,
-  "character_xp": 6245,
+  "character_level": 32,
+  "character_xp": 5111,
   "attributes": {
     "values": [
+      26,
       19,
-      15,
-      15,
-      19,
-      22,
-      18
+      25,
+      30,
+      29,
+      24
     ]
   },
   "prestige_rank": 8,
   "total_prestige_count": 114,
-  "last_save_time": 1772041617,
-  "play_time_seconds": 873182,
+  "last_save_time": 1772042046,
+  "play_time_seconds": 873586,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 964,
-    "player_max_hp": 1018,
+    "player_current_hp": 1101,
+    "player_max_hp": 1162,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -69,27 +69,35 @@
     },
     "armor": {
       "slot": "Armor",
-      "rarity": "Rare",
-      "ilvl": 10,
-      "tier": 0,
-      "base_name": "Deadly Leather Armor",
-      "display_name": "Deadly Leather Armor",
+      "rarity": "Legendary",
+      "ilvl": 20,
+      "tier": 4,
+      "base_name": "Chain Mail of Vitality",
+      "display_name": "Chain Mail of Vitality",
       "attributes": {
-        "str": 1,
-        "dex": 0,
-        "con": 0,
+        "str": 0,
+        "dex": 4,
+        "con": 5,
         "int": 0,
-        "wis": 1,
+        "wis": 5,
         "cha": 0
       },
       "affixes": [
         {
+          "affix_type": "HPBonus",
+          "value": 64.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.27
+        },
+        {
           "affix_type": "CritChance",
-          "value": 2.0
+          "value": 7.0
         },
         {
           "affix_type": "XPGain",
-          "value": 1.0
+          "value": 9.0
         }
       ],
       "god_item_id": null
@@ -288,12 +296,12 @@
   },
   "fishing": {
     "rank": 30,
-    "total_fish_caught": 36356,
+    "total_fish_caught": 36366,
     "fish_toward_next_rank": 0,
     "legendary_catches": 680
   },
   "zone_progression": {
-    "current_zone_id": 2,
+    "current_zone_id": 3,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -306,6 +314,18 @@
       ],
       [
         1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
         3
       ]
     ],
@@ -320,7 +340,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 34744,
+  "stormglass": 36351,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 1,
