@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 25,
-  "character_xp": 977,
+  "character_level": 34,
+  "character_xp": 9472,
   "attributes": {
     "values": [
-      22,
-      26,
+      31,
+      28,
       21,
-      17,
       20,
-      26
+      28,
+      31
     ]
   },
   "prestige_rank": 6,
   "total_prestige_count": 112,
-  "last_save_time": 1772005885,
-  "play_time_seconds": 865866,
+  "last_save_time": 1772006301,
+  "play_time_seconds": 866146,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 962,
-    "player_max_hp": 1006,
+    "player_current_hp": 1001,
+    "player_max_hp": 1047,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -104,23 +104,35 @@
     },
     "helmet": {
       "slot": "Helmet",
-      "rarity": "Magic",
-      "ilvl": 10,
-      "tier": 3,
-      "base_name": "Fine Coif",
-      "display_name": "Fine Coif",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "tier": 1,
+      "base_name": "Helm of Learning",
+      "display_name": "Helm of Learning",
       "attributes": {
         "str": 0,
-        "dex": 1,
+        "dex": 3,
         "con": 0,
-        "int": 1,
+        "int": 5,
         "wis": 0,
         "cha": 0
       },
       "affixes": [
         {
+          "affix_type": "XPGain",
+          "value": 3.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 31.0
+        },
+        {
           "affix_type": "CritMultiplier",
-          "value": 0.04
+          "value": 0.12
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 3.0
         }
       ],
       "god_item_id": null
@@ -289,7 +301,7 @@
     "legendary_catches": 672
   },
   "zone_progression": {
-    "current_zone_id": 2,
+    "current_zone_id": 3,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -302,6 +314,18 @@
       ],
       [
         1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
         3
       ]
     ],
@@ -316,7 +340,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 21709,
+  "stormglass": 22749,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 1,
