@@ -1,0 +1,312 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 59,
+  "character_xp": 42954,
+  "attributes": {
+    "values": [
+      25,
+      25,
+      25,
+      25,
+      25,
+      25
+    ]
+  },
+  "prestige_rank": 1,
+  "total_prestige_count": 17,
+  "last_save_time": 1771192559,
+  "play_time_seconds": 370915,
+  "combat_state": {
+    "current_enemy": {
+      "name": "Thorn Bat",
+      "max_hp": 121,
+      "current_hp": 22,
+      "damage": 20,
+      "defense": 4
+    },
+    "player_current_hp": 463,
+    "player_max_hp": 479,
+    "player_attack_timer": 0.7,
+    "enemy_attack_timer": 0.0,
+    "regen_timer": 0.0,
+    "is_regenerating": false
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Legendary",
+      "ilvl": 20,
+      "base_name": "Vicious Sword",
+      "display_name": "Vicious Sword",
+      "attributes": {
+        "str": 0,
+        "dex": 7,
+        "con": 0,
+        "int": 0,
+        "wis": 5,
+        "cha": 7
+      },
+      "affixes": [
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.28
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 10.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 86.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 95.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 10.0
+        }
+      ]
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "base_name": "Armored Plate Mail",
+      "display_name": "Armored Plate Mail",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 5,
+        "wis": 0,
+        "cha": 8
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReduction",
+          "value": 6.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 7.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 54.0
+        }
+      ]
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "base_name": "Cap of Carnage",
+      "display_name": "Cap of Carnage",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 10,
+        "wis": 5,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.2
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.31
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 65.0
+        }
+      ]
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "ilvl": 20,
+      "base_name": "Gauntlets of Protection",
+      "display_name": "Gauntlets of Protection",
+      "attributes": {
+        "str": 0,
+        "dex": 8,
+        "con": 0,
+        "int": 0,
+        "wis": 7,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReduction",
+          "value": 11.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 10.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 11.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 8.0
+        }
+      ]
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Rare",
+      "ilvl": 20,
+      "base_name": "Greaves of Vitality",
+      "display_name": "Greaves of Vitality",
+      "attributes": {
+        "str": 8,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 3,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 44.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 5.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 5.0
+        }
+      ]
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "base_name": "Wise Pendant",
+      "display_name": "Wise Pendant",
+      "attributes": {
+        "str": 5,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 9,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "XPGain",
+          "value": 7.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 6.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 6.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 7.0
+        }
+      ]
+    },
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "base_name": "Swift Loop",
+      "display_name": "Swift Loop",
+      "attributes": {
+        "str": 10,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 4
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 6.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 6.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 6.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 7.0
+        }
+      ]
+    }
+  },
+  "fishing": {
+    "rank": 24,
+    "total_fish_caught": 12023,
+    "fish_toward_next_rank": 23,
+    "legendary_catches": 199
+  },
+  "zone_progression": {
+    "current_zone_id": 2,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2,
+      11
+    ],
+    "kills_in_subzone": 8,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

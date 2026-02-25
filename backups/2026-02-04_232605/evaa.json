@@ -1,0 +1,317 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 96,
+  "character_xp": 74075,
+  "attributes": {
+    "values": [
+      35,
+      35,
+      35,
+      35,
+      35,
+      35
+    ]
+  },
+  "prestige_rank": 3,
+  "total_prestige_count": 2,
+  "last_save_time": 1770275926,
+  "play_time_seconds": 37110,
+  "combat_state": {
+    "current_enemy": null,
+    "player_current_hp": 1093,
+    "player_max_hp": 1097,
+    "attack_timer": 0.0,
+    "regen_timer": 1.0999999999999999,
+    "is_regenerating": true
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Legendary",
+      "base_name": "Cruel Axe",
+      "display_name": "Cruel Axe",
+      "attributes": {
+        "str": 0,
+        "dex": 14,
+        "con": 0,
+        "int": 10,
+        "wis": 13,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 43.85960977384931
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 46.684713558689424
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 27.610592771816655
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 35.77930654730179
+        }
+      ]
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Legendary",
+      "base_name": "Wise Leather Armor",
+      "display_name": "Wise Leather Armor",
+      "attributes": {
+        "str": 13,
+        "dex": 13,
+        "con": 0,
+        "int": 10,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "XPGain",
+          "value": 31.900183130968237
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 25.103665450415253
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 30.472718016508956
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 30.40660846834707
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 35.84915125279355
+        }
+      ]
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Legendary",
+      "base_name": "Helm of Learning",
+      "display_name": "Helm of Learning",
+      "attributes": {
+        "str": 0,
+        "dex": 11,
+        "con": 12,
+        "int": 12,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "XPGain",
+          "value": 27.88126520335272
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 146.41769794128078
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 44.130232688823824
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 45.89260795966811
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 35.501612087676754
+        }
+      ]
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "base_name": "Gloves of Power",
+      "display_name": "Gloves of Power",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 14,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 49.409394969535214
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 48.88421869301695
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 42.907852884887745
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 119.03904711892666
+        }
+      ]
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Legendary",
+      "base_name": "Wise Greaves",
+      "display_name": "Wise Greaves",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 19,
+        "cha": 13
+      },
+      "affixes": [
+        {
+          "affix_type": "XPGain",
+          "value": 30.49822316156455
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 104.9672753071135
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 33.57996527100043
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 34.452249751910756
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 41.01261402264876
+        }
+      ]
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Legendary",
+      "base_name": "Sturdy Necklace",
+      "display_name": "Sturdy Necklace",
+      "attributes": {
+        "str": 13,
+        "dex": 0,
+        "con": 9,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 141.6213610513748
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 135.5964238568686
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 99.68172756887643
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 47.36182169402615
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 27.12631668966154
+        }
+      ]
+    },
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Epic",
+      "base_name": "Circle of Carnage",
+      "display_name": "Circle of Carnage",
+      "attributes": {
+        "str": 10,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 10,
+        "cha": 8
+      },
+      "affixes": [
+        {
+          "affix_type": "CritMultiplier",
+          "value": 27.215285119927405
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 29.532280344356458
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 22.376742695153915
+        }
+      ]
+    }
+  },
+  "fishing": {
+    "rank": 9,
+    "total_fish_caught": 1233,
+    "fish_toward_next_rank": 133,
+    "legendary_catches": 18
+  },
+  "zone_progression": {
+    "current_zone_id": 2,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2
+    ],
+    "kills_in_subzone": 0,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

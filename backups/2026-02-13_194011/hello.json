@@ -1,0 +1,305 @@
+{
+  "version": 2,
+  "character_id": "239d7bc4-e7e2-4131-893e-9fb9d6c56c5f",
+  "character_name": "Hello",
+  "character_level": 36,
+  "character_xp": 14590,
+  "attributes": {
+    "values": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ]
+  },
+  "prestige_rank": 0,
+  "total_prestige_count": 0,
+  "last_save_time": 1770968582,
+  "play_time_seconds": 3522,
+  "combat_state": {
+    "current_enemy": null,
+    "player_current_hp": 201,
+    "player_max_hp": 202,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
+    "regen_timer": 1.7000000000000004,
+    "is_regenerating": true
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "base_name": "Cruel Greatsword",
+      "display_name": "Cruel Greatsword",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 9,
+        "wis": 5,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 7.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 7.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 7.0
+        }
+      ]
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Rare",
+      "ilvl": 20,
+      "base_name": "Plate Mail of Thorns",
+      "display_name": "Plate Mail of Thorns",
+      "attributes": {
+        "str": 4,
+        "dex": 0,
+        "con": 0,
+        "int": 4,
+        "wis": 3,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReflection",
+          "value": 3.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 5.0
+        }
+      ]
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Legendary",
+      "ilvl": 20,
+      "base_name": "Regenerating Helm",
+      "display_name": "Regenerating Helm",
+      "attributes": {
+        "str": 0,
+        "dex": 12,
+        "con": 5,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 12.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 12.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 12.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.35
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 13.0
+        }
+      ]
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "ilvl": 20,
+      "base_name": "Gloves of Power",
+      "display_name": "Gloves of Power",
+      "attributes": {
+        "str": 14,
+        "dex": 0,
+        "con": 0,
+        "int": 7,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 10.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 13.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 12.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 9.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 11.0
+        }
+      ]
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Epic",
+      "ilvl": 10,
+      "base_name": "Deadly Greaves",
+      "display_name": "Deadly Greaves",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 3,
+        "wis": 4,
+        "cha": 3
+      },
+      "affixes": [
+        {
+          "affix_type": "CritChance",
+          "value": 5.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 5.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 35.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 5.0
+        }
+      ]
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "base_name": "Sturdy Necklace",
+      "display_name": "Sturdy Necklace",
+      "attributes": {
+        "str": 0,
+        "dex": 5,
+        "con": 0,
+        "int": 5,
+        "wis": 4,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 47.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 8.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 6.0
+        }
+      ]
+    },
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "base_name": "Cruel Circle",
+      "display_name": "Cruel Circle",
+      "attributes": {
+        "str": 5,
+        "dex": 5,
+        "con": 0,
+        "int": 4,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 7.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 6.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 8.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 6.0
+        }
+      ]
+    }
+  },
+  "fishing": {
+    "rank": 1,
+    "total_fish_caught": 93,
+    "fish_toward_next_rank": 93,
+    "legendary_catches": 1
+  },
+  "zone_progression": {
+    "current_zone_id": 2,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2
+    ],
+    "kills_in_subzone": 1,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

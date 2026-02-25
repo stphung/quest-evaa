@@ -1,0 +1,175 @@
+{
+  "version": 2,
+  "character_id": "bad08196-0157-404c-9152-b66a4aacd2a5",
+  "character_name": "Test",
+  "character_level": 22,
+  "character_xp": 7049,
+  "attributes": {
+    "values": [
+      21,
+      20,
+      19,
+      24,
+      22,
+      17
+    ]
+  },
+  "prestige_rank": 1,
+  "total_prestige_count": 1,
+  "last_save_time": 1770579039,
+  "play_time_seconds": 1019,
+  "combat_state": {
+    "current_enemy": null,
+    "player_current_hp": 205,
+    "player_max_hp": 206,
+    "attack_timer": 0.0,
+    "regen_timer": 1.6000000000000003,
+    "is_regenerating": true
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Rare",
+      "base_name": "Spear of Power",
+      "display_name": "Spear of Power",
+      "attributes": {
+        "str": 5,
+        "dex": 4,
+        "con": 6,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 13.4686991776367
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 56.86224987160719
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 16.716361281215725
+        }
+      ]
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Rare",
+      "base_name": "Thorned Leather Armor",
+      "display_name": "Thorned Leather Armor",
+      "attributes": {
+        "str": 5,
+        "dex": 0,
+        "con": 4,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReflection",
+          "value": 13.358443677988037
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 10.198151786311511
+        }
+      ]
+    },
+    "helmet": null,
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Common",
+      "base_name": "Gloves",
+      "display_name": "Gloves",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 2,
+        "int": 2,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": []
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Magic",
+      "base_name": "Fine Shoes",
+      "display_name": "Fine Shoes",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 4,
+        "wis": 0,
+        "cha": 6
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 9.276208448720324
+        }
+      ]
+    },
+    "amulet": null,
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Magic",
+      "base_name": "Fine Band",
+      "display_name": "Fine Band",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 3,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 9.216535429088283
+        }
+      ]
+    }
+  },
+  "fishing": {
+    "rank": 1,
+    "total_fish_caught": 24,
+    "fish_toward_next_rank": 24,
+    "legendary_catches": 0
+  },
+  "zone_progression": {
+    "current_zone_id": 1,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2,
+      11
+    ],
+    "kills_in_subzone": 0,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

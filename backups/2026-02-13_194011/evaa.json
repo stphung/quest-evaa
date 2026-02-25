@@ -1,0 +1,252 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 21,
+  "character_xp": 1515,
+  "attributes": {
+    "values": [
+      19,
+      17,
+      18,
+      24,
+      20,
+      22
+    ]
+  },
+  "prestige_rank": 5,
+  "total_prestige_count": 12,
+  "last_save_time": 1771038487,
+  "play_time_seconds": 333600,
+  "combat_state": {
+    "current_enemy": null,
+    "player_current_hp": 184,
+    "player_max_hp": 213,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
+    "regen_timer": 0.7,
+    "is_regenerating": true
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Legendary",
+      "ilvl": 10,
+      "base_name": "Sword of Carnage",
+      "display_name": "Sword of Carnage",
+      "attributes": {
+        "str": 5,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 5
+      },
+      "affixes": [
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.34
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 7.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 10.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 8.0
+        }
+      ]
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Magic",
+      "ilvl": 30,
+      "base_name": "Fine Plate Mail",
+      "display_name": "Fine Plate Mail",
+      "attributes": {
+        "str": 0,
+        "dex": 2,
+        "con": 0,
+        "int": 0,
+        "wis": 3,
+        "cha": 2
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReduction",
+          "value": 3.0
+        }
+      ]
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Common",
+      "ilvl": 20,
+      "base_name": "Cap",
+      "display_name": "Cap",
+      "attributes": {
+        "str": 1,
+        "dex": 0,
+        "con": 2,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": []
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Magic",
+      "ilvl": 10,
+      "base_name": "Fine Gauntlets",
+      "display_name": "Fine Gauntlets",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 2,
+        "int": 0,
+        "wis": 0,
+        "cha": 1
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 2.0
+        }
+      ]
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Common",
+      "ilvl": 20,
+      "base_name": "Boots",
+      "display_name": "Boots",
+      "attributes": {
+        "str": 1,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": []
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Rare",
+      "ilvl": 20,
+      "base_name": "Cruel Pendant",
+      "display_name": "Cruel Pendant",
+      "attributes": {
+        "str": 0,
+        "dex": 4,
+        "con": 0,
+        "int": 6,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 3.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 33.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 4.0
+        }
+      ]
+    },
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Rare",
+      "ilvl": 20,
+      "base_name": "Armored Band",
+      "display_name": "Armored Band",
+      "attributes": {
+        "str": 0,
+        "dex": 4,
+        "con": 0,
+        "int": 7,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReduction",
+          "value": 4.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 4.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 31.0
+        }
+      ]
+    }
+  },
+  "fishing": {
+    "rank": 23,
+    "total_fish_caught": 10786,
+    "fish_toward_next_rank": 286,
+    "legendary_catches": 174
+  },
+  "zone_progression": {
+    "current_zone_id": 3,
+    "current_subzone_id": 1,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      11
+    ],
+    "kills_in_subzone": 2,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

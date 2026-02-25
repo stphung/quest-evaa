@@ -1,0 +1,79 @@
+{
+  "unlocked": {
+    "FishCatcherII": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "Level100": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "Zone2Complete": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "FirstPrestige": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "FishermanII": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "Zone1Complete": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "Level10": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "Level75": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "PrestigeV": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "GoneFishing": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "Level25": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "FishCatcherI": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "Zone4Complete": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "Zone3Complete": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "FishermanI": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    },
+    "Level50": {
+      "unlocked_at": 1770532944,
+      "character_name": "Evaa"
+    }
+  },
+  "progress": {},
+  "total_kills": 3,
+  "total_bosses_defeated": 0,
+  "total_fish_caught": 7627,
+  "total_dungeons_completed": 0,
+  "total_minigame_wins": 0,
+  "highest_prestige_rank": 6,
+  "highest_level": 147,
+  "highest_fishing_rank": 21,
+  "zones_fully_cleared": 4,
+  "expanse_cycles_completed": 0
+}

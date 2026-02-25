@@ -1,0 +1,71 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 5,
+  "character_xp": 256,
+  "attributes": {
+    "values": [
+      12,
+      12,
+      13,
+      11,
+      11,
+      13
+    ]
+  },
+  "prestige_rank": 2,
+  "total_prestige_count": 18,
+  "last_save_time": 1771211342,
+  "play_time_seconds": 388900,
+  "combat_state": {
+    "current_enemy": {
+      "name": "Flower Rabbit",
+      "max_hp": 53,
+      "current_hp": 33,
+      "damage": 6,
+      "defense": 0
+    },
+    "player_current_hp": 59,
+    "player_max_hp": 82,
+    "player_attack_timer": 1.2,
+    "enemy_attack_timer": 0.7,
+    "regen_timer": 0.0,
+    "is_regenerating": false
+  },
+  "equipment": {
+    "weapon": null,
+    "armor": null,
+    "helmet": null,
+    "gloves": null,
+    "boots": null,
+    "amulet": null,
+    "ring": null
+  },
+  "fishing": {
+    "rank": 24,
+    "total_fish_caught": 12688,
+    "fish_toward_next_rank": 688,
+    "legendary_catches": 206
+  },
+  "zone_progression": {
+    "current_zone_id": 1,
+    "current_subzone_id": 1,
+    "defeated_bosses": [],
+    "unlocked_zones": [
+      1,
+      2,
+      11
+    ],
+    "kills_in_subzone": 3,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

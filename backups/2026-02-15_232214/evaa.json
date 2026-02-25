@@ -1,0 +1,109 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 8,
+  "character_xp": 928,
+  "attributes": {
+    "values": [
+      14,
+      15,
+      12,
+      14,
+      14,
+      12
+    ]
+  },
+  "prestige_rank": 2,
+  "total_prestige_count": 26,
+  "last_save_time": 1771226528,
+  "play_time_seconds": 400957,
+  "combat_state": {
+    "current_enemy": null,
+    "player_current_hp": 105,
+    "player_max_hp": 132,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
+    "regen_timer": 0.30000000000000004,
+    "is_regenerating": true
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Magic",
+      "ilvl": 10,
+      "base_name": "Fine Spear",
+      "display_name": "Fine Spear",
+      "attributes": {
+        "str": 1,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 16.0
+        }
+      ]
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Rare",
+      "ilvl": 10,
+      "base_name": "Sturdy Leather Armor",
+      "display_name": "Sturdy Leather Armor",
+      "attributes": {
+        "str": 0,
+        "dex": 2,
+        "con": 0,
+        "int": 2,
+        "wis": 3,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 34.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 4.0
+        }
+      ]
+    },
+    "helmet": null,
+    "gloves": null,
+    "boots": null,
+    "amulet": null,
+    "ring": null
+  },
+  "fishing": {
+    "rank": 24,
+    "total_fish_caught": 13103,
+    "fish_toward_next_rank": 1103,
+    "legendary_catches": 212
+  },
+  "zone_progression": {
+    "current_zone_id": 1,
+    "current_subzone_id": 1,
+    "defeated_bosses": [],
+    "unlocked_zones": [
+      1,
+      2,
+      11
+    ],
+    "kills_in_subzone": 3,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

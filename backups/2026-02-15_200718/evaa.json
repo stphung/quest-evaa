@@ -1,0 +1,71 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 6,
+  "character_xp": 688,
+  "attributes": {
+    "values": [
+      11,
+      14,
+      11,
+      16,
+      11,
+      12
+    ]
+  },
+  "prestige_rank": 1,
+  "total_prestige_count": 21,
+  "last_save_time": 1771214833,
+  "play_time_seconds": 392103,
+  "combat_state": {
+    "current_enemy": {
+      "name": "Sunny Boar",
+      "max_hp": 59,
+      "current_hp": 17,
+      "damage": 6,
+      "defense": 0
+    },
+    "player_current_hp": 49,
+    "player_max_hp": 65,
+    "player_attack_timer": 0.8999999999999999,
+    "enemy_attack_timer": 1.9000000000000006,
+    "regen_timer": 0.0,
+    "is_regenerating": false
+  },
+  "equipment": {
+    "weapon": null,
+    "armor": null,
+    "helmet": null,
+    "gloves": null,
+    "boots": null,
+    "amulet": null,
+    "ring": null
+  },
+  "fishing": {
+    "rank": 24,
+    "total_fish_caught": 12790,
+    "fish_toward_next_rank": 790,
+    "legendary_catches": 207
+  },
+  "zone_progression": {
+    "current_zone_id": 1,
+    "current_subzone_id": 1,
+    "defeated_bosses": [],
+    "unlocked_zones": [
+      1,
+      2,
+      11
+    ],
+    "kills_in_subzone": 6,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

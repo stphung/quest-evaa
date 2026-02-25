@@ -1,0 +1,24 @@
+{
+  "discovered": true,
+  "rooms": {
+    "FishingDock": 1,
+    "Workshop": 1,
+    "Hearthstone": 3,
+    "TrophyHall": 1,
+    "Armory": 2,
+    "Bedroom": 3,
+    "Watchtower": 2,
+    "Vault": 2,
+    "AlchemyLab": 2,
+    "TrainingYard": 2,
+    "StormForge": 0,
+    "WarRoom": 1,
+    "Garden": 2,
+    "Library": 1
+  },
+  "last_vault_selections": [
+    "Gloves",
+    "Ring",
+    "Boots"
+  ]
+}

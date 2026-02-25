@@ -1,0 +1,159 @@
+{
+  "unlocked": {
+    "SlayerII": {
+      "unlocked_at": 1770581509,
+      "character_name": "Evaa"
+    },
+    "GoneFishing": {
+      "unlocked_at": 1770579057,
+      "character_name": "Evaa"
+    },
+    "BossHunterII": {
+      "unlocked_at": 1770579963,
+      "character_name": "Evaa"
+    },
+    "Zone4Complete": {
+      "unlocked_at": 1770580957,
+      "character_name": "Evaa"
+    },
+    "Level50": {
+      "unlocked_at": 1770580243,
+      "character_name": "Evaa"
+    },
+    "FishCatcherIII": {
+      "unlocked_at": 1770867973,
+      "character_name": "Evaa"
+    },
+    "SlayerIV": {
+      "unlocked_at": 1770600190,
+      "character_name": "Evaa"
+    },
+    "FishCatcherII": {
+      "unlocked_at": 1770579057,
+      "character_name": "Evaa"
+    },
+    "FishCatcherI": {
+      "unlocked_at": 1770579057,
+      "character_name": "Evaa"
+    },
+    "BossHunterIV": {
+      "unlocked_at": 1770584848,
+      "character_name": "Evaa"
+    },
+    "SlayerV": {
+      "unlocked_at": 1770886350,
+      "character_name": "Evaa"
+    },
+    "SlayerI": {
+      "unlocked_at": 1770579664,
+      "character_name": "Evaa"
+    },
+    "FishermanI": {
+      "unlocked_at": 1770579057,
+      "character_name": "Evaa"
+    },
+    "FishermanII": {
+      "unlocked_at": 1770579057,
+      "character_name": "Evaa"
+    },
+    "DungeonDiver": {
+      "unlocked_at": 1770579192,
+      "character_name": "Evaa"
+    },
+    "DungeonMasterIII": {
+      "unlocked_at": 1770908823,
+      "character_name": "Evaa"
+    },
+    "Zone5Complete": {
+      "unlocked_at": 1770967368,
+      "character_name": "Evaa"
+    },
+    "BossHunterIII": {
+      "unlocked_at": 1770582190,
+      "character_name": "Evaa"
+    },
+    "FirstPrestige": {
+      "unlocked_at": 1770579057,
+      "character_name": "Evaa"
+    },
+    "DungeonMasterI": {
+      "unlocked_at": 1770583335,
+      "character_name": "Evaa"
+    },
+    "SlayerIII": {
+      "unlocked_at": 1770583445,
+      "character_name": "Evaa"
+    },
+    "Level100": {
+      "unlocked_at": 1770584464,
+      "character_name": "Evaa"
+    },
+    "Level150": {
+      "unlocked_at": 1770617045,
+      "character_name": "Evaa"
+    },
+    "BossHunterI": {
+      "unlocked_at": 1770579165,
+      "character_name": "Evaa"
+    },
+    "Zone3Complete": {
+      "unlocked_at": 1770580485,
+      "character_name": "Evaa"
+    },
+    "HavenDiscovered": {
+      "unlocked_at": 1770879269,
+      "character_name": "Evaa"
+    },
+    "Level200": {
+      "unlocked_at": 1770991682,
+      "character_name": "Evaa"
+    },
+    "Zone2Complete": {
+      "unlocked_at": 1770579977,
+      "character_name": "Evaa"
+    },
+    "Zone1Complete": {
+      "unlocked_at": 1770579542,
+      "character_name": "Evaa"
+    },
+    "Level25": {
+      "unlocked_at": 1770579057,
+      "character_name": "Evaa"
+    },
+    "PrestigeX": {
+      "unlocked_at": 1770617157,
+      "character_name": "Evaa"
+    },
+    "Level10": {
+      "unlocked_at": 1770579057,
+      "character_name": "Evaa"
+    },
+    "BossHunterV": {
+      "unlocked_at": 1770611319,
+      "character_name": "Evaa"
+    },
+    "Zone6Complete": {
+      "unlocked_at": 1770967578,
+      "character_name": "Evaa"
+    },
+    "PrestigeV": {
+      "unlocked_at": 1770579057,
+      "character_name": "Evaa"
+    },
+    "DungeonMasterII": {
+      "unlocked_at": 1770599680,
+      "character_name": "Evaa"
+    }
+  },
+  "progress": {},
+  "total_kills": 14266,
+  "total_bosses_defeated": 911,
+  "total_fish_caught": 10780,
+  "total_dungeons_completed": 138,
+  "total_minigame_wins": 0,
+  "highest_prestige_rank": 13,
+  "highest_level": 211,
+  "highest_fishing_rank": 23,
+  "zones_fully_cleared": 645,
+  "expanse_cycles_completed": 0
+}

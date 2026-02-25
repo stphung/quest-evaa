@@ -1,0 +1,213 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 25,
+  "character_xp": 836,
+  "attributes": {
+    "values": [
+      19,
+      20,
+      26,
+      20,
+      23,
+      24
+    ]
+  },
+  "prestige_rank": 2,
+  "total_prestige_count": 1,
+  "last_save_time": 1770192147,
+  "play_time_seconds": 1818,
+  "combat_state": {
+    "current_enemy": {
+      "name": "Field Beetle",
+      "max_hp": 290,
+      "current_hp": 290,
+      "damage": 33
+    },
+    "player_current_hp": 242,
+    "player_max_hp": 242,
+    "attack_timer": 1.0999999999999999,
+    "regen_timer": 0.0,
+    "is_regenerating": false
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Common",
+      "base_name": "Greatsword",
+      "display_name": "Greatsword",
+      "attributes": {
+        "str": 1,
+        "dex": 0,
+        "con": 3,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": []
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Magic",
+      "base_name": "Fine Plate Mail",
+      "display_name": "Fine Plate Mail",
+      "attributes": {
+        "str": 0,
+        "dex": 4,
+        "con": 0,
+        "int": 0,
+        "wis": 3,
+        "cha": 3
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReduction",
+          "value": 9.87846199343701
+        }
+      ]
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Rare",
+      "base_name": "Wise Helm",
+      "display_name": "Wise Helm",
+      "attributes": {
+        "str": 0,
+        "dex": 5,
+        "con": 0,
+        "int": 0,
+        "wis": 4,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "XPGain",
+          "value": 15.5362476607498
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 15.008385076886835
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 10.621135793401258
+        }
+      ]
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Rare",
+      "base_name": "Handwraps of Learning",
+      "display_name": "Handwraps of Learning",
+      "attributes": {
+        "str": 0,
+        "dex": 6,
+        "con": 6,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "XPGain",
+          "value": 14.252281181212041
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 19.21954334853249
+        }
+      ]
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Magic",
+      "base_name": "Fine Shoes",
+      "display_name": "Fine Shoes",
+      "attributes": {
+        "str": 3,
+        "dex": 0,
+        "con": 3,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "CritChance",
+          "value": 7.145726151937914
+        }
+      ]
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Magic",
+      "base_name": "Fine Amulet",
+      "display_name": "Fine Amulet",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 5,
+        "int": 0,
+        "wis": 0,
+        "cha": 3
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 22.27520980291534
+        }
+      ]
+    },
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Magic",
+      "base_name": "Fine Ring",
+      "display_name": "Fine Ring",
+      "attributes": {
+        "str": 4,
+        "dex": 0,
+        "con": 2,
+        "int": 3,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 6.936548860335613
+        }
+      ]
+    }
+  },
+  "fishing": {
+    "rank": 1,
+    "total_fish_caught": 32,
+    "fish_toward_next_rank": 32,
+    "legendary_catches": 0
+  },
+  "zone_progression": {
+    "current_zone_id": 1,
+    "current_subzone_id": 2,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2
+    ],
+    "kills_in_subzone": 0,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

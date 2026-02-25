@@ -1,0 +1,1368 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 259,
+  "character_xp": 403884,
+  "attributes": {
+    "values": [
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+    ]
+  },
+  "prestige_rank": 5,
+  "total_prestige_count": 4,
+  "last_save_time": 1770449483,
+  "play_time_seconds": 175876,
+  "combat_state": {
+    "current_enemy": null,
+    "player_current_hp": 1184,
+    "player_max_hp": 1184,
+    "attack_timer": 0.0,
+    "regen_timer": 0.2,
+    "is_regenerating": true
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Legendary",
+      "base_name": "Mace of Power",
+      "display_name": "Mace of Power",
+      "attributes": {
+        "str": 13,
+        "dex": 0,
+        "con": 11,
+        "int": 0,
+        "wis": 15,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 42.00167177203025
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 26.76211504022173
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 34.09153426149406
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 30.850487210092936
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 48.82544068791668
+        }
+      ]
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Legendary",
+      "base_name": "Swift Chain Mail",
+      "display_name": "Swift Chain Mail",
+      "attributes": {
+        "str": 13,
+        "dex": 0,
+        "con": 14,
+        "int": 15,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 35.54445538021578
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 37.61827045019627
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 29.955346908937226
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 39.72922629984884
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 46.25964301929511
+        }
+      ]
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Legendary",
+      "base_name": "Cap of Renewal",
+      "display_name": "Cap of Renewal",
+      "attributes": {
+        "str": 14,
+        "dex": 14,
+        "con": 0,
+        "int": 0,
+        "wis": 15,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 45.74750697927631
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 28.044373186180074
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 149.1325727793507
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 39.7299834515876
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 32.63670393711131
+        }
+      ]
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "base_name": "Cruel Handwraps",
+      "display_name": "Cruel Handwraps",
+      "attributes": {
+        "str": 0,
+        "dex": 23,
+        "con": 0,
+        "int": 0,
+        "wis": 13,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 43.50912673622564
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 118.08642503801445
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 38.12136118270792
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 42.70469859980709
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 45.69360642781676
+        }
+      ]
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Legendary",
+      "base_name": "Shoes of Power",
+      "display_name": "Shoes of Power",
+      "attributes": {
+        "str": 0,
+        "dex": 12,
+        "con": 30,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 47.55929413483456
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 44.85952529834198
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 43.90010096201485
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 38.48175329830639
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 31.155867796339408
+        }
+      ]
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Legendary",
+      "base_name": "Necklace of Learning",
+      "display_name": "Necklace of Learning",
+      "attributes": {
+        "str": 28,
+        "dex": 0,
+        "con": 15,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "XPGain",
+          "value": 40.83079846612852
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 41.69424091847488
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 129.8183254514683
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 147.81493484377162
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 26.909720981171187
+        }
+      ]
+    },
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Legendary",
+      "base_name": "Regenerating Loop",
+      "display_name": "Regenerating Loop",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 14,
+        "int": 15,
+        "wis": 15,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 40.99717563130639
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 40.28934357459272
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 37.72369110473049
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 44.4903897697675
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 35.89565965554503
+        }
+      ]
+    }
+  },
+  "active_dungeon": {
+    "size": "Legendary",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            4,
+            0
+          ],
+          "connections": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "room_type": "Treasure",
+          "state": "Hidden",
+          "position": [
+            5,
+            0
+          ],
+          "connections": [
+            false,
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            6,
+            0
+          ],
+          "connections": [
+            false,
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Revealed",
+          "position": [
+            7,
+            0
+          ],
+          "connections": [
+            false,
+            false,
+            true,
+            true
+          ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            3,
+            1
+          ],
+          "connections": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            4,
+            1
+          ],
+          "connections": [
+            true,
+            false,
+            false,
+            true
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            5,
+            1
+          ],
+          "connections": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            6,
+            1
+          ],
+          "connections": [
+            false,
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Current",
+          "position": [
+            7,
+            1
+          ],
+          "connections": [
+            true,
+            false,
+            false,
+            true
+          ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            2,
+            2
+          ],
+          "connections": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "room_type": "Treasure",
+          "state": "Hidden",
+          "position": [
+            3,
+            2
+          ],
+          "connections": [
+            true,
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "room_type": "Boss",
+          "state": "Hidden",
+          "position": [
+            4,
+            2
+          ],
+          "connections": [
+            false,
+            false,
+            false,
+            true
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            5,
+            2
+          ],
+          "connections": [
+            true,
+            false,
+            true,
+            false
+          ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            1,
+            3
+          ],
+          "connections": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            2,
+            3
+          ],
+          "connections": [
+            true,
+            false,
+            false,
+            true
+          ]
+        },
+        null,
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            4,
+            3
+          ],
+          "connections": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            5,
+            3
+          ],
+          "connections": [
+            true,
+            false,
+            false,
+            true
+          ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            0,
+            4
+          ],
+          "connections": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            1,
+            4
+          ],
+          "connections": [
+            true,
+            false,
+            false,
+            true
+          ]
+        },
+        null,
+        null,
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            4,
+            4
+          ],
+          "connections": [
+            true,
+            false,
+            true,
+            false
+          ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "room_type": "Treasure",
+          "state": "Hidden",
+          "position": [
+            0,
+            5
+          ],
+          "connections": [
+            true,
+            false,
+            true,
+            false
+          ]
+        },
+        null,
+        null,
+        null,
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            4,
+            5
+          ],
+          "connections": [
+            true,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "room_type": "Treasure",
+          "state": "Cleared",
+          "position": [
+            5,
+            5
+          ],
+          "connections": [
+            false,
+            false,
+            true,
+            true
+          ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            0,
+            6
+          ],
+          "connections": [
+            true,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            1,
+            6
+          ],
+          "connections": [
+            false,
+            false,
+            true,
+            true
+          ]
+        },
+        null,
+        null,
+        null,
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            5,
+            6
+          ],
+          "connections": [
+            true,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "room_type": "Elite",
+          "state": "Revealed",
+          "position": [
+            6,
+            6
+          ],
+          "connections": [
+            false,
+            false,
+            false,
+            true
+          ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            0,
+            7
+          ],
+          "connections": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            1,
+            7
+          ],
+          "connections": [
+            true,
+            false,
+            false,
+            true
+          ]
+        },
+        null,
+        null,
+        null,
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            5,
+            7
+          ],
+          "connections": [
+            true,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Revealed",
+          "position": [
+            6,
+            7
+          ],
+          "connections": [
+            false,
+            false,
+            false,
+            true
+          ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            0,
+            8
+          ],
+          "connections": [
+            true,
+            false,
+            true,
+            false
+          ]
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            5,
+            8
+          ],
+          "connections": [
+            true,
+            false,
+            true,
+            false
+          ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            0,
+            9
+          ],
+          "connections": [
+            true,
+            false,
+            true,
+            false
+          ]
+        },
+        null,
+        null,
+        null,
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            4,
+            9
+          ],
+          "connections": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            5,
+            9
+          ],
+          "connections": [
+            true,
+            false,
+            false,
+            true
+          ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "room_type": "Combat",
+          "state": "Hidden",
+          "position": [
+            0,
+            10
+          ],
+          "connections": [
+            true,
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            1,
+            10
+          ],
+          "connections": [
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            2,
+            10
+          ],
+          "connections": [
+            false,
+            false,
+            true,
+            true
+          ]
+        },
+        null,
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            4,
+            10
+          ],
+          "connections": [
+            true,
+            false,
+            true,
+            false
+          ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "room_type": "Treasure",
+          "state": "Revealed",
+          "position": [
+            0,
+            11
+          ],
+          "connections": [
+            true,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            1,
+            11
+          ],
+          "connections": [
+            true,
+            false,
+            true,
+            true
+          ]
+        },
+        {
+          "room_type": "Treasure",
+          "state": "Cleared",
+          "position": [
+            2,
+            11
+          ],
+          "connections": [
+            true,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            3,
+            11
+          ],
+          "connections": [
+            false,
+            false,
+            true,
+            true
+          ]
+        },
+        {
+          "room_type": "Treasure",
+          "state": "Cleared",
+          "position": [
+            4,
+            11
+          ],
+          "connections": [
+            true,
+            false,
+            true,
+            false
+          ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "room_type": "Entrance",
+          "state": "Cleared",
+          "position": [
+            0,
+            12
+          ],
+          "connections": [
+            false,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            1,
+            12
+          ],
+          "connections": [
+            true,
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            2,
+            12
+          ],
+          "connections": [
+            false,
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "room_type": "Combat",
+          "state": "Cleared",
+          "position": [
+            3,
+            12
+          ],
+          "connections": [
+            true,
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "room_type": "Treasure",
+          "state": "Cleared",
+          "position": [
+            4,
+            12
+          ],
+          "connections": [
+            true,
+            false,
+            false,
+            true
+          ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "player_position": [
+      7,
+      1
+    ],
+    "entrance_position": [
+      0,
+      12
+    ],
+    "boss_position": [
+      4,
+      2
+    ],
+    "has_key": false,
+    "move_timer": 0.2,
+    "collected_items": [
+      {
+        "slot": "Armor",
+        "rarity": "Legendary",
+        "base_name": "Leather Armor of Learning",
+        "display_name": "Leather Armor of Learning",
+        "attributes": {
+          "str": 12,
+          "dex": 0,
+          "con": 0,
+          "int": 0,
+          "wis": 0,
+          "cha": 0
+        },
+        "affixes": [
+          {
+            "affix_type": "XPGain",
+            "value": 30.12039747852363
+          },
+          {
+            "affix_type": "DamageReduction",
+            "value": 33.139600377390174
+          },
+          {
+            "affix_type": "DamageReflection",
+            "value": 26.288909776214986
+          },
+          {
+            "affix_type": "HPRegen",
+            "value": 37.387232011278755
+          },
+          {
+            "affix_type": "CritChance",
+            "value": 43.916000776274814
+          }
+        ]
+      },
+      {
+        "slot": "Weapon",
+        "rarity": "Legendary",
+        "base_name": "Axe of Thorns",
+        "display_name": "Axe of Thorns",
+        "attributes": {
+          "str": 13,
+          "dex": 15,
+          "con": 0,
+          "int": 11,
+          "wis": 0,
+          "cha": 0
+        },
+        "affixes": [
+          {
+            "affix_type": "DamageReflection",
+            "value": 37.081117121243466
+          },
+          {
+            "affix_type": "HPRegen",
+            "value": 30.050490239307994
+          },
+          {
+            "affix_type": "DamageReflection",
+            "value": 36.65468461809069
+          },
+          {
+            "affix_type": "DamageReflection",
+            "value": 44.176349915851475
+          },
+          {
+            "affix_type": "DamageReflection",
+            "value": 28.808109335917297
+          }
+        ]
+      },
+      {
+        "slot": "Armor",
+        "rarity": "Epic",
+        "base_name": "Swift Leather Armor",
+        "display_name": "Swift Leather Armor",
+        "attributes": {
+          "str": 0,
+          "dex": 0,
+          "con": 0,
+          "int": 19,
+          "wis": 6,
+          "cha": 0
+        },
+        "affixes": [
+          {
+            "affix_type": "AttackSpeed",
+            "value": 22.277255188554072
+          },
+          {
+            "affix_type": "CritChance",
+            "value": 20.86062792722896
+          },
+          {
+            "affix_type": "DamageReduction",
+            "value": 18.93028098901954
+          },
+          {
+            "affix_type": "CritMultiplier",
+            "value": 20.515502329126896
+          }
+        ]
+      },
+      {
+        "slot": "Weapon",
+        "rarity": "Legendary",
+        "base_name": "Spear of Protection",
+        "display_name": "Spear of Protection",
+        "attributes": {
+          "str": 8,
+          "dex": 8,
+          "con": 0,
+          "int": 0,
+          "wis": 0,
+          "cha": 0
+        },
+        "affixes": [
+          {
+            "affix_type": "DamageReduction",
+            "value": 42.78682943679955
+          },
+          {
+            "affix_type": "DamagePercent",
+            "value": 47.07357720073391
+          },
+          {
+            "affix_type": "XPGain",
+            "value": 32.894388786767905
+          },
+          {
+            "affix_type": "CritMultiplier",
+            "value": 47.039085164509004
+          },
+          {
+            "affix_type": "DamagePercent",
+            "value": 34.10367114044581
+          }
+        ]
+      }
+    ],
+    "xp_earned": 51871,
+    "rooms_cleared": 25,
+    "current_room_cleared": true
+  },
+  "fishing": {
+    "rank": 19,
+    "total_fish_caught": 6014,
+    "fish_toward_next_rank": 114,
+    "legendary_catches": 103
+  },
+  "zone_progression": {
+    "current_zone_id": 4,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "kills_in_subzone": 9,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

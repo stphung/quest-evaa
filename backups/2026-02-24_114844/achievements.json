@@ -1,0 +1,526 @@
+{
+  "unlocked": {
+    "SigilSurgeNovice": {
+      "unlocked_at": 1771649559,
+      "character_name": "Evaa"
+    },
+    "SlayerVI": {
+      "unlocked_at": 1771511708,
+      "character_name": "Evaa"
+    },
+    "BossHunterIII": {
+      "unlocked_at": 1771150460,
+      "character_name": "Evaa"
+    },
+    "HavenBuilderI": {
+      "unlocked_at": 1771463030,
+      "character_name": "Evaa"
+    },
+    "FishCatcherII": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "SnakeNovice": {
+      "unlocked_at": 1771174175,
+      "character_name": "Evaa"
+    },
+    "BossHunterVI": {
+      "unlocked_at": 1771219486,
+      "character_name": "Evaa"
+    },
+    "Zone1Complete": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "DungeonMasterII": {
+      "unlocked_at": 1771170265,
+      "character_name": "Evaa"
+    },
+    "Level50": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "FirstPrestige": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "Level10": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "SlayerI": {
+      "unlocked_at": 1771124298,
+      "character_name": "Evaa"
+    },
+    "SigilSurgeApprentice": {
+      "unlocked_at": 1771580329,
+      "character_name": "Evaa"
+    },
+    "SnakeApprentice": {
+      "unlocked_at": 1771559993,
+      "character_name": "Evaa"
+    },
+    "SlayerV": {
+      "unlocked_at": 1771208371,
+      "character_name": "Evaa"
+    },
+    "SlayerIII": {
+      "unlocked_at": 1771152564,
+      "character_name": "Evaa"
+    },
+    "SlayerII": {
+      "unlocked_at": 1771149750,
+      "character_name": "Evaa"
+    },
+    "Level25": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "SlayerIV": {
+      "unlocked_at": 1771172049,
+      "character_name": "Evaa"
+    },
+    "BossHunterVII": {
+      "unlocked_at": 1771575827,
+      "character_name": "Evaa"
+    },
+    "BossHunterI": {
+      "unlocked_at": 1771087994,
+      "character_name": "Evaa"
+    },
+    "FlappyNovice": {
+      "unlocked_at": 1771211808,
+      "character_name": "Evaa"
+    },
+    "DungeonDiver": {
+      "unlocked_at": 1771124075,
+      "character_name": "Evaa"
+    },
+    "SlayerVII": {
+      "unlocked_at": 1771803207,
+      "character_name": "Evaa"
+    },
+    "PrestigeV": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "ContainmentBreachNovice": {
+      "unlocked_at": 1771342093,
+      "character_name": "Evaa"
+    },
+    "Zone4Complete": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "FishermanIII": {
+      "unlocked_at": 1771586214,
+      "character_name": "Evaa"
+    },
+    "GoneFishing": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "BossHunterII": {
+      "unlocked_at": 1771126813,
+      "character_name": "Evaa"
+    },
+    "FlappyApprentice": {
+      "unlocked_at": 1771560081,
+      "character_name": "Evaa"
+    },
+    "RuneApprentice": {
+      "unlocked_at": 1771231106,
+      "character_name": "Evaa"
+    },
+    "HavenDiscovered": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "FishCatcherIII": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "Zone3Complete": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "BossHunterIV": {
+      "unlocked_at": 1771153309,
+      "character_name": "Evaa"
+    },
+    "DungeonMasterI": {
+      "unlocked_at": 1771153989,
+      "character_name": "Evaa"
+    },
+    "Zone2Complete": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "BossHunterV": {
+      "unlocked_at": 1771188137,
+      "character_name": "Evaa"
+    },
+    "FishermanII": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "FishCatcherI": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "Level150": {
+      "unlocked_at": 1771421993,
+      "character_name": "Evaa"
+    },
+    "DungeonMasterIII": {
+      "unlocked_at": 1771200096,
+      "character_name": "Evaa"
+    },
+    "FishermanI": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    },
+    "RuneNovice": {
+      "unlocked_at": 1771211726,
+      "character_name": "Evaa"
+    },
+    "Level100": {
+      "unlocked_at": 1771087975,
+      "character_name": "Evaa"
+    }
+  },
+  "progress": {
+    "DungeonMasterIV": {
+      "current": 866,
+      "target": 1000
+    },
+    "Level250": {
+      "current": 36,
+      "target": 250
+    },
+    "BossHunterVII": {
+      "current": 9774,
+      "target": 5000
+    },
+    "SlayerII": {
+      "current": 113549,
+      "target": 500
+    },
+    "BossHunterIII": {
+      "current": 9774,
+      "target": 50
+    },
+    "FishCatcherVII": {
+      "current": 37871,
+      "target": 5000000
+    },
+    "BossHunterII": {
+      "current": 9774,
+      "target": 10
+    },
+    "SlayerXI": {
+      "current": 113551,
+      "target": 10000000
+    },
+    "FishCatcherI": {
+      "current": 37871,
+      "target": 100
+    },
+    "GrandChampion": {
+      "current": 11,
+      "target": 100
+    },
+    "FishCatcherIX": {
+      "current": 37871,
+      "target": 50000000
+    },
+    "FishCatcherV": {
+      "current": 37871,
+      "target": 500000
+    },
+    "SlayerXIII": {
+      "current": 113551,
+      "target": 100000000
+    },
+    "DungeonMasterX": {
+      "current": 866,
+      "target": 1000000
+    },
+    "SlayerXII": {
+      "current": 113551,
+      "target": 50000000
+    },
+    "SlayerXV": {
+      "current": 113551,
+      "target": 1000000000
+    },
+    "SlayerXIV": {
+      "current": 113551,
+      "target": 500000000
+    },
+    "Level100": {
+      "current": 14,
+      "target": 100
+    },
+    "FishCatcherII": {
+      "current": 37871,
+      "target": 1000
+    },
+    "DungeonMasterIII": {
+      "current": 866,
+      "target": 100
+    },
+    "BossHunterVI": {
+      "current": 9774,
+      "target": 1000
+    },
+    "Level1000": {
+      "current": 36,
+      "target": 1000
+    },
+    "SlayerIII": {
+      "current": 113549,
+      "target": 1000
+    },
+    "BossHunterIX": {
+      "current": 9774,
+      "target": 25000
+    },
+    "Level750": {
+      "current": 36,
+      "target": 750
+    },
+    "FishCatcherVI": {
+      "current": 37871,
+      "target": 1000000
+    },
+    "PrestigeL": {
+      "current": 2,
+      "target": 50
+    },
+    "Level1500": {
+      "current": 36,
+      "target": 1500
+    },
+    "PrestigeXXX": {
+      "current": 2,
+      "target": 30
+    },
+    "BossHunterXIII": {
+      "current": 9774,
+      "target": 2500000
+    },
+    "PrestigeXV": {
+      "current": 2,
+      "target": 15
+    },
+    "FirstPrestige": {
+      "current": 1,
+      "target": 1
+    },
+    "FishCatcherVIII": {
+      "current": 37871,
+      "target": 10000000
+    },
+    "DungeonMasterII": {
+      "current": 866,
+      "target": 50
+    },
+    "FishCatcherIII": {
+      "current": 37871,
+      "target": 10000
+    },
+    "FishermanIV": {
+      "current": 30,
+      "target": 40
+    },
+    "GoneFishing": {
+      "current": 37871,
+      "target": 1
+    },
+    "FishermanIII": {
+      "current": 29,
+      "target": 30
+    },
+    "SlayerIX": {
+      "current": 113551,
+      "target": 1000000
+    },
+    "SlayerVII": {
+      "current": 113549,
+      "target": 100000
+    },
+    "SlayerI": {
+      "current": 113549,
+      "target": 100
+    },
+    "PrestigeXXV": {
+      "current": 2,
+      "target": 25
+    },
+    "PrestigeXC": {
+      "current": 2,
+      "target": 90
+    },
+    "Level10": {
+      "current": 14,
+      "target": 10
+    },
+    "PrestigeX": {
+      "current": 2,
+      "target": 10
+    },
+    "PrestigeXX": {
+      "current": 2,
+      "target": 20
+    },
+    "BossHunterXV": {
+      "current": 9774,
+      "target": 10000000
+    },
+    "BossHunterIV": {
+      "current": 9774,
+      "target": 100
+    },
+    "BossHunterXII": {
+      "current": 9774,
+      "target": 750000
+    },
+    "BossHunterX": {
+      "current": 9774,
+      "target": 75000
+    },
+    "SlayerIV": {
+      "current": 113549,
+      "target": 5000
+    },
+    "DungeonMasterVII": {
+      "current": 866,
+      "target": 25000
+    },
+    "PrestigeV": {
+      "current": 1,
+      "target": 5
+    },
+    "PrestigeXL": {
+      "current": 2,
+      "target": 40
+    },
+    "BossHunterXI": {
+      "current": 9774,
+      "target": 250000
+    },
+    "FishCatcherX": {
+      "current": 37871,
+      "target": 100000000
+    },
+    "Eternal": {
+      "current": 2,
+      "target": 100
+    },
+    "SlayerVIII": {
+      "current": 113551,
+      "target": 500000
+    },
+    "SlayerVI": {
+      "current": 113549,
+      "target": 50000
+    },
+    "PrestigeLXX": {
+      "current": 2,
+      "target": 70
+    },
+    "DungeonDiver": {
+      "current": 866,
+      "target": 1
+    },
+    "Level500": {
+      "current": 36,
+      "target": 500
+    },
+    "Level50": {
+      "current": 14,
+      "target": 50
+    },
+    "FishermanI": {
+      "current": 24,
+      "target": 10
+    },
+    "DungeonMasterV": {
+      "current": 866,
+      "target": 5000
+    },
+    "FishCatcherIV": {
+      "current": 37871,
+      "target": 100000
+    },
+    "FishermanII": {
+      "current": 24,
+      "target": 20
+    },
+    "DungeonMasterVIII": {
+      "current": 866,
+      "target": 100000
+    },
+    "BossHunterV": {
+      "current": 9774,
+      "target": 500
+    },
+    "BossHunterXIV": {
+      "current": 9774,
+      "target": 5000000
+    },
+    "DungeonMasterVI": {
+      "current": 866,
+      "target": 10000
+    },
+    "DungeonMasterIX": {
+      "current": 866,
+      "target": 500000
+    },
+    "Level25": {
+      "current": 14,
+      "target": 25
+    },
+    "DungeonMasterI": {
+      "current": 866,
+      "target": 10
+    },
+    "SlayerV": {
+      "current": 113549,
+      "target": 10000
+    },
+    "BossHunterVIII": {
+      "current": 9774,
+      "target": 10000
+    },
+    "BossHunterI": {
+      "current": 9774,
+      "target": 1
+    },
+    "Level200": {
+      "current": 36,
+      "target": 200
+    },
+    "SlayerX": {
+      "current": 113551,
+      "target": 2500000
+    },
+    "Level150": {
+      "current": 149,
+      "target": 150
+    }
+  },
+  "total_kills": 113551,
+  "total_bosses_defeated": 9774,
+  "total_fish_caught": 37871,
+  "total_dungeons_completed": 866,
+  "total_minigame_wins": 11,
+  "highest_prestige_rank": 7,
+  "highest_level": 184,
+  "highest_fishing_rank": 30,
+  "zones_fully_cleared": 7901,
+  "expanse_cycles_completed": 0,
+  "ui_border_style": "Classic",
+  "selected_title": "SlayerV"
+}

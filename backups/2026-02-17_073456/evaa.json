@@ -1,0 +1,256 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 20,
+  "character_xp": 6027,
+  "attributes": {
+    "values": [
+      19,
+      17,
+      22,
+      19,
+      17,
+      23
+    ]
+  },
+  "prestige_rank": 2,
+  "total_prestige_count": 40,
+  "last_save_time": 1771342489,
+  "play_time_seconds": 486213,
+  "combat_state": {
+    "current_enemy": {
+      "name": "Wild Treant",
+      "max_hp": 108,
+      "current_hp": 66,
+      "damage": 17,
+      "defense": 4
+    },
+    "player_current_hp": 201,
+    "player_max_hp": 232,
+    "player_attack_timer": 0.8999999999999999,
+    "enemy_attack_timer": 0.4,
+    "regen_timer": 0.0,
+    "is_regenerating": false
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "base_name": "Spear of Protection",
+      "display_name": "Spear of Protection",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 5,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReduction",
+          "value": 5.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 50.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 7.0
+        }
+      ]
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "base_name": "Thorned Plate Mail",
+      "display_name": "Thorned Plate Mail",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 5,
+        "int": 4,
+        "wis": 4,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReflection",
+          "value": 6.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 6.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.27
+        }
+      ]
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Rare",
+      "ilvl": 10,
+      "base_name": "Crown of Haste",
+      "display_name": "Crown of Haste",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 3,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 3.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 2.0
+        }
+      ]
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Rare",
+      "ilvl": 10,
+      "base_name": "Mitts of Learning",
+      "display_name": "Mitts of Learning",
+      "attributes": {
+        "str": 2,
+        "dex": 0,
+        "con": 2,
+        "int": 0,
+        "wis": 0,
+        "cha": 2
+      },
+      "affixes": [
+        {
+          "affix_type": "XPGain",
+          "value": 3.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 4.0
+        }
+      ]
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Magic",
+      "ilvl": 10,
+      "base_name": "Fine Greaves",
+      "display_name": "Fine Greaves",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 3,
+        "int": 0,
+        "wis": 1,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReflection",
+          "value": 1.0
+        }
+      ]
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Magic",
+      "ilvl": 20,
+      "base_name": "Fine Necklace",
+      "display_name": "Fine Necklace",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 3,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 2.0
+        }
+      ]
+    },
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Magic",
+      "ilvl": 10,
+      "base_name": "Fine Ring",
+      "display_name": "Fine Ring",
+      "attributes": {
+        "str": 0,
+        "dex": 2,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.06
+        }
+      ]
+    }
+  },
+  "fishing": {
+    "rank": 26,
+    "total_fish_caught": 16778,
+    "fish_toward_next_rank": 1778,
+    "legendary_catches": 275
+  },
+  "zone_progression": {
+    "current_zone_id": 2,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2,
+      11
+    ],
+    "kills_in_subzone": 4,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

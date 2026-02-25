@@ -1,0 +1,146 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 8,
+  "character_xp": 3391,
+  "attributes": {
+    "values": [
+      16,
+      14,
+      12,
+      13,
+      11,
+      15
+    ]
+  },
+  "prestige_rank": 2,
+  "total_prestige_count": 49,
+  "last_save_time": 1771485062,
+  "play_time_seconds": 559936,
+  "combat_state": {
+    "current_enemy": null,
+    "player_current_hp": 108,
+    "player_max_hp": 109,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
+    "regen_timer": 0.0,
+    "is_regenerating": true
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Legendary",
+      "ilvl": 20,
+      "tier": 4,
+      "base_name": "Axe of Protection",
+      "display_name": "Axe of Protection",
+      "attributes": {
+        "str": 0,
+        "dex": 9,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 4
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReduction",
+          "value": 8.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 7.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 49.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 8.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "armor": null,
+    "helmet": null,
+    "gloves": null,
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Common",
+      "ilvl": 10,
+      "tier": 3,
+      "base_name": "Sabatons",
+      "display_name": "Sabatons",
+      "attributes": {
+        "str": 0,
+        "dex": 2,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [],
+      "god_item_id": null
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Rare",
+      "ilvl": 10,
+      "tier": 4,
+      "base_name": "Pendant of Haste",
+      "display_name": "Pendant of Haste",
+      "attributes": {
+        "str": 2,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 1.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 2.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 3.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "ring": null
+  },
+  "fishing": {
+    "rank": 28,
+    "total_fish_caught": 19916,
+    "fish_toward_next_rank": 916,
+    "legendary_catches": 350
+  },
+  "zone_progression": {
+    "current_zone_id": 1,
+    "current_subzone_id": 1,
+    "defeated_bosses": [],
+    "unlocked_zones": [
+      1,
+      2,
+      11
+    ],
+    "kills_in_subzone": 6,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

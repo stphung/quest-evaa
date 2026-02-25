@@ -1,0 +1,378 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 138,
+  "character_xp": 28227,
+  "attributes": {
+    "values": [
+      78,
+      80,
+      80,
+      80,
+      80,
+      73
+    ]
+  },
+  "prestige_rank": 12,
+  "total_prestige_count": 11,
+  "last_save_time": 1770964917,
+  "play_time_seconds": 320522,
+  "combat_state": {
+    "current_enemy": null,
+    "player_current_hp": 1324,
+    "player_max_hp": 1866,
+    "player_attack_timer": 0.7999999999999999,
+    "enemy_attack_timer": 0.0,
+    "regen_timer": 0.30000000000000004,
+    "is_regenerating": true
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Legendary",
+      "ilvl": 50,
+      "base_name": "Dagger of Precision",
+      "display_name": "Dagger of Precision",
+      "attributes": {
+        "str": 0,
+        "dex": 14,
+        "con": 0,
+        "int": 0,
+        "wis": 14,
+        "cha": 14
+      },
+      "affixes": [
+        {
+          "affix_type": "CritChance",
+          "value": 20.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 14.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 130.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 21.0
+        }
+      ]
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Legendary",
+      "ilvl": 50,
+      "base_name": "Chain Mail of Protection",
+      "display_name": "Chain Mail of Protection",
+      "attributes": {
+        "str": 0,
+        "dex": 26,
+        "con": 0,
+        "int": 12,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReduction",
+          "value": 18.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.81
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 19.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 15.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 23.0
+        }
+      ]
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Legendary",
+      "ilvl": 50,
+      "base_name": "Wise Cap",
+      "display_name": "Wise Cap",
+      "attributes": {
+        "str": 0,
+        "dex": 28,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "XPGain",
+          "value": 21.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.78
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 23.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 117.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 21.0
+        }
+      ]
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "ilvl": 50,
+      "base_name": "Sturdy Mitts",
+      "display_name": "Sturdy Mitts",
+      "attributes": {
+        "str": 12,
+        "dex": 12,
+        "con": 14,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 152.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 14.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 18.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 17.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.69
+        }
+      ]
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Legendary",
+      "ilvl": 50,
+      "base_name": "Sabatons of Renewal",
+      "display_name": "Sabatons of Renewal",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 14,
+        "wis": 12,
+        "cha": 12
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 18.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 21.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 173.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 16.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 22.0
+        }
+      ]
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Legendary",
+      "ilvl": 50,
+      "base_name": "Regenerating Amulet",
+      "display_name": "Regenerating Amulet",
+      "attributes": {
+        "str": 0,
+        "dex": 12,
+        "con": 0,
+        "int": 9,
+        "wis": 14,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 16.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 149.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 15.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 163.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 19.0
+        }
+      ]
+    },
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Legendary",
+      "ilvl": 50,
+      "base_name": "Swift Loop",
+      "display_name": "Swift Loop",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 23,
+        "int": 0,
+        "wis": 0,
+        "cha": 12
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 18.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 16.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 177.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 159.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 22.0
+        }
+      ]
+    }
+  },
+  "fishing": {
+    "rank": 22,
+    "total_fish_caught": 10357,
+    "fish_toward_next_rank": 1357,
+    "legendary_catches": 166
+  },
+  "zone_progression": {
+    "current_zone_id": 5,
+    "current_subzone_id": 4,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      11
+    ],
+    "kills_in_subzone": 10,
+    "fighting_boss": true,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

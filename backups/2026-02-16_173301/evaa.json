@@ -1,0 +1,290 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 49,
+  "character_xp": 3854,
+  "attributes": {
+    "values": [
+      33,
+      35,
+      35,
+      35,
+      31,
+      35
+    ]
+  },
+  "prestige_rank": 3,
+  "total_prestige_count": 34,
+  "last_save_time": 1771291978,
+  "play_time_seconds": 447046,
+  "combat_state": {
+    "current_enemy": null,
+    "player_current_hp": 585,
+    "player_max_hp": 585,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
+    "regen_timer": 0.0,
+    "is_regenerating": true
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Epic",
+      "ilvl": 10,
+      "base_name": "Swift Axe",
+      "display_name": "Swift Axe",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 4,
+        "int": 0,
+        "wis": 7,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 6.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 5.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 5.0
+        }
+      ]
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Rare",
+      "ilvl": 20,
+      "base_name": "Deadly Chain Mail",
+      "display_name": "Deadly Chain Mail",
+      "attributes": {
+        "str": 0,
+        "dex": 4,
+        "con": 4,
+        "int": 0,
+        "wis": 4,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "CritChance",
+          "value": 5.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 30.0
+        }
+      ]
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "base_name": "Cap of Vitality",
+      "display_name": "Cap of Vitality",
+      "attributes": {
+        "str": 0,
+        "dex": 5,
+        "con": 0,
+        "int": 5,
+        "wis": 0,
+        "cha": 4
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 51.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 7.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 51.0
+        }
+      ]
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "base_name": "Gloves of Vitality",
+      "display_name": "Gloves of Vitality",
+      "attributes": {
+        "str": 0,
+        "dex": 5,
+        "con": 4,
+        "int": 0,
+        "wis": 0,
+        "cha": 4
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 58.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 6.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 7.0
+        }
+      ]
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Rare",
+      "ilvl": 20,
+      "base_name": "Shoes of Vitality",
+      "display_name": "Shoes of Vitality",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 4,
+        "int": 4,
+        "wis": 4,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 40.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 3.0
+        }
+      ]
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Legendary",
+      "ilvl": 20,
+      "base_name": "Necklace of Vitality",
+      "display_name": "Necklace of Vitality",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 15,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 105.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 10.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.46
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 12.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 8.0
+        }
+      ]
+    },
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "base_name": "Ring of Learning",
+      "display_name": "Ring of Learning",
+      "attributes": {
+        "str": 0,
+        "dex": 10,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "XPGain",
+          "value": 8.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 5.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 7.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 6.0
+        }
+      ]
+    }
+  },
+  "fishing": {
+    "rank": 26,
+    "total_fish_caught": 15023,
+    "fish_toward_next_rank": 23,
+    "legendary_catches": 240
+  },
+  "zone_progression": {
+    "current_zone_id": 2,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2,
+      11
+    ],
+    "kills_in_subzone": 1,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 38,
+  "character_xp": 447,
+  "attributes": {
+    "values": [
+      28,
+      27,
+      26,
+      36,
+      27,
+      27
+    ]
+  },
+  "prestige_rank": 6,
+  "total_prestige_count": 5,
+  "last_save_time": 1770537201,
+  "play_time_seconds": 225402,
+  "combat_state": {
+    "current_enemy": {
+      "name": "Thicket Horror",
+      "max_hp": 1890,
+      "current_hp": 958,
+      "damage": 202
+    },
+    "player_current_hp": 563,
+    "player_max_hp": 913,
+    "attack_timer": 0.30000000000000004,
+    "regen_timer": 0.0,
+    "is_regenerating": false
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Legendary",
+      "base_name": "Sturdy Sword",
+      "display_name": "Sturdy Sword",
+      "attributes": {
+        "str": 15,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 14
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 104.46928103637404
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 41.59585660466868
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 136.49459524327438
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 119.9470129071533
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 48.73580026393189
+        }
+      ]
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Magic",
+      "base_name": "Fine Plate Mail",
+      "display_name": "Fine Plate Mail",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 3,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 5.65760534173517
+        }
+      ]
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Epic",
+      "base_name": "Deadly Cap",
+      "display_name": "Deadly Cap",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 10,
+        "int": 7,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "CritChance",
+          "value": 29.726680089109493
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 21.48151346012587
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 28.070487560261537
+        }
+      ]
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "base_name": "Vicious Gauntlets",
+      "display_name": "Vicious Gauntlets",
+      "attributes": {
+        "str": 10,
+        "dex": 13,
+        "con": 0,
+        "int": 0,
+        "wis": 15,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "CritMultiplier",
+          "value": 36.42111936684056
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 33.05067224478071
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 38.58003309815339
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 145.01793480121546
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 38.74247742919779
+        }
+      ]
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Rare",
+      "base_name": "Wise Greaves",
+      "display_name": "Wise Greaves",
+      "attributes": {
+        "str": 0,
+        "dex": 6,
+        "con": 6,
+        "int": 0,
+        "wis": 3,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "XPGain",
+          "value": 12.994423464900985
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 13.380050135731809
+        }
+      ]
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Epic",
+      "base_name": "Amulet of Vitality",
+      "display_name": "Amulet of Vitality",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 12,
+        "int": 0,
+        "wis": 0,
+        "cha": 10
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 87.14695890523095
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 26.110732020847685
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 24.081572215329636
+        }
+      ]
+    },
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Legendary",
+      "base_name": "Circle of Carnage",
+      "display_name": "Circle of Carnage",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 11,
+        "int": 0,
+        "wis": 24,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "CritMultiplier",
+          "value": 42.413474063737766
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 32.55143200072171
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 32.71226377104296
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 32.32364521036014
+        }
+      ]
+    }
+  },
+  "fishing": {
+    "rank": 21,
+    "total_fish_caught": 7628,
+    "fish_toward_next_rank": 128,
+    "legendary_catches": 114
+  },
+  "zone_progression": {
+    "current_zone_id": 1,
+    "current_subzone_id": 2,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2,
+      3,
+      4,
+      11
+    ],
+    "kills_in_subzone": 10,
+    "fighting_boss": true,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

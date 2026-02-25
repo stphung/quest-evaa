@@ -1,0 +1,223 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 16,
+  "character_xp": 1064,
+  "attributes": {
+    "values": [
+      17,
+      21,
+      15,
+      17,
+      17,
+      18
+    ]
+  },
+  "prestige_rank": 0,
+  "total_prestige_count": 18,
+  "last_save_time": 1771212004,
+  "play_time_seconds": 389552,
+  "combat_state": {
+    "current_enemy": {
+      "name": "Field Boar",
+      "max_hp": 77,
+      "current_hp": 42,
+      "damage": 11,
+      "defense": 0
+    },
+    "player_current_hp": 137,
+    "player_max_hp": 142,
+    "player_attack_timer": 0.9999999999999999,
+    "enemy_attack_timer": 0.4,
+    "regen_timer": 0.0,
+    "is_regenerating": false
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Magic",
+      "ilvl": 10,
+      "base_name": "Fine Spear",
+      "display_name": "Fine Spear",
+      "attributes": {
+        "str": 1,
+        "dex": 0,
+        "con": 0,
+        "int": 2,
+        "wis": 2,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 1.0
+        }
+      ]
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Epic",
+      "ilvl": 10,
+      "base_name": "Thorned Scale Mail",
+      "display_name": "Thorned Scale Mail",
+      "attributes": {
+        "str": 3,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 6,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReflection",
+          "value": 4.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 4.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 5.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.25
+        }
+      ]
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Common",
+      "ilvl": 10,
+      "base_name": "Cap",
+      "display_name": "Cap",
+      "attributes": {
+        "str": 1,
+        "dex": 1,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": []
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Epic",
+      "ilvl": 10,
+      "base_name": "Mitts of Haste",
+      "display_name": "Mitts of Haste",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 3,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 4.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 4.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 5.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 42.0
+        }
+      ]
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Magic",
+      "ilvl": 10,
+      "base_name": "Fine Boots",
+      "display_name": "Fine Boots",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 3,
+        "int": 0,
+        "wis": 0,
+        "cha": 2
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReflection",
+          "value": 1.0
+        }
+      ]
+    },
+    "amulet": null,
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Rare",
+      "ilvl": 10,
+      "base_name": "Band of Thorns",
+      "display_name": "Band of Thorns",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 2,
+        "int": 0,
+        "wis": 0,
+        "cha": 5
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReflection",
+          "value": 3.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 2.0
+        }
+      ]
+    }
+  },
+  "fishing": {
+    "rank": 24,
+    "total_fish_caught": 12717,
+    "fish_toward_next_rank": 717,
+    "legendary_catches": 206
+  },
+  "zone_progression": {
+    "current_zone_id": 1,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2,
+      11
+    ],
+    "kills_in_subzone": 8,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

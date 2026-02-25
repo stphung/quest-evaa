@@ -1,0 +1,305 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 54,
+  "character_xp": 36372,
+  "attributes": {
+    "values": [
+      35,
+      35,
+      35,
+      35,
+      35,
+      35
+    ]
+  },
+  "prestige_rank": 3,
+  "total_prestige_count": 2,
+  "last_save_time": 1770267607,
+  "play_time_seconds": 29196,
+  "combat_state": {
+    "current_enemy": null,
+    "player_current_hp": 924,
+    "player_max_hp": 925,
+    "attack_timer": 0.0,
+    "regen_timer": 0.7,
+    "is_regenerating": true
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Epic",
+      "base_name": "Sturdy Greatsword",
+      "display_name": "Sturdy Greatsword",
+      "attributes": {
+        "str": 0,
+        "dex": 9,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 69.95434645989894
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 29.516816445058343
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 19.81583367278209
+        }
+      ]
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Legendary",
+      "base_name": "Chain Mail of Haste",
+      "display_name": "Chain Mail of Haste",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 25,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 44.04685718244343
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 45.93813583115848
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 45.70294342613759
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 33.125201848205855
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 48.31204372022392
+        }
+      ]
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Legendary",
+      "base_name": "Armored Cap",
+      "display_name": "Armored Cap",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 15
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReduction",
+          "value": 45.471985644704375
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 48.16905454587145
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 27.03010930069999
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 115.2207358332891
+        }
+      ]
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "base_name": "Gloves of Power",
+      "display_name": "Gloves of Power",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 14,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 49.409394969535214
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 48.88421869301695
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 42.907852884887745
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 119.03904711892666
+        }
+      ]
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Legendary",
+      "base_name": "Sturdy Boots",
+      "display_name": "Sturdy Boots",
+      "attributes": {
+        "str": 0,
+        "dex": 10,
+        "con": 12,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 103.1244061320408
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 47.56218526489256
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 35.66214245763711
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 45.14586787384479
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 133.0669851439402
+        }
+      ]
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Epic",
+      "base_name": "Deadly Pendant",
+      "display_name": "Deadly Pendant",
+      "attributes": {
+        "str": 7,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 12
+      },
+      "affixes": [
+        {
+          "affix_type": "CritChance",
+          "value": 23.152607582242208
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 24.139349351905945
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 22.052802924764805
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 54.77895376828895
+        }
+      ]
+    },
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Epic",
+      "base_name": "Ring of Learning",
+      "display_name": "Ring of Learning",
+      "attributes": {
+        "str": 6,
+        "dex": 0,
+        "con": 5,
+        "int": 0,
+        "wis": 5,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "XPGain",
+          "value": 25.41992896384765
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 25.034971319030394
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 18.35670923132818
+        }
+      ]
+    }
+  },
+  "fishing": {
+    "rank": 8,
+    "total_fish_caught": 931,
+    "fish_toward_next_rank": 31,
+    "legendary_catches": 12
+  },
+  "zone_progression": {
+    "current_zone_id": 2,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2
+    ],
+    "kills_in_subzone": 10,
+    "fighting_boss": true,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

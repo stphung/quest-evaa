@@ -1,0 +1,304 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 12,
+  "character_xp": 4150,
+  "attributes": {
+    "values": [
+      14,
+      17,
+      12,
+      14,
+      17,
+      19
+    ]
+  },
+  "prestige_rank": 2,
+  "total_prestige_count": 96,
+  "last_save_time": 1771831586,
+  "play_time_seconds": 820432,
+  "combat_state": {
+    "current_enemy": {
+      "name": "Sunny Mantis",
+      "max_hp": 68,
+      "current_hp": 68,
+      "damage": 8,
+      "defense": 0
+    },
+    "player_current_hp": 802,
+    "player_max_hp": 802,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
+    "regen_timer": 0.0,
+    "is_regenerating": false
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Rare",
+      "ilvl": 10,
+      "tier": 0,
+      "base_name": "Sword of Power",
+      "display_name": "Sword of Power",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 1,
+        "wis": 0,
+        "cha": 2
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 1.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 1.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Legendary",
+      "ilvl": 40,
+      "tier": 3,
+      "base_name": "Chain Mail of Power",
+      "display_name": "Chain Mail of Power",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 6,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 10.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 11.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 93.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.3
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 8.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "helmet": null,
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "ilvl": 40,
+      "tier": 2,
+      "base_name": "Mitts of Power",
+      "display_name": "Mitts of Power",
+      "attributes": {
+        "str": 0,
+        "dex": 5,
+        "con": 0,
+        "int": 5,
+        "wis": 0,
+        "cha": 5
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 7.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 11.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 76.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 8.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 7.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Legendary",
+      "ilvl": 20,
+      "tier": 5,
+      "base_name": "Sturdy Boots",
+      "display_name": "Sturdy Boots",
+      "attributes": {
+        "str": 11,
+        "dex": 0,
+        "con": 0,
+        "int": 5,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 68.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 77.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 53.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 9.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 9.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Legendary",
+      "ilvl": 40,
+      "tier": 5,
+      "base_name": "Regenerating Pendant",
+      "display_name": "Regenerating Pendant",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 7,
+        "wis": 0,
+        "cha": 14
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 13.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 15.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 77.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 13.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 13.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Legendary",
+      "ilvl": 40,
+      "tier": 6,
+      "base_name": "Sturdy Ring",
+      "display_name": "Sturdy Ring",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 6,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 125.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 14.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.53
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 15.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 121.0
+        }
+      ],
+      "god_item_id": null
+    }
+  },
+  "fishing": {
+    "rank": 30,
+    "total_fish_caught": 32812,
+    "fish_toward_next_rank": 0,
+    "legendary_catches": 611
+  },
+  "zone_progression": {
+    "current_zone_id": 1,
+    "current_subzone_id": 2,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2,
+      11
+    ],
+    "kills_in_subzone": 9,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  },
+  "stormglass": 7709,
+  "stormglass_discovered": true,
+  "storm_sigils": {
+    "slots_unlocked": 1,
+    "sigils": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

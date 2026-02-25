@@ -1,0 +1,19 @@
+{
+  "discovered": true,
+  "rooms": {
+    "Bedroom": 2,
+    "WarRoom": 1,
+    "Workshop": 1,
+    "FishingDock": 1,
+    "Garden": 2,
+    "Library": 1,
+    "Armory": 1,
+    "StormForge": 0,
+    "TrophyHall": 1,
+    "TrainingYard": 2,
+    "AlchemyLab": 2,
+    "Vault": 1,
+    "Hearthstone": 3,
+    "Watchtower": 1
+  }
+}

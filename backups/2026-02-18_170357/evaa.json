@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 4,
+  "character_xp": 80,
+  "attributes": {
+    "values": [
+      13,
+      10,
+      11,
+      11,
+      12,
+      12
+    ]
+  },
+  "prestige_rank": 0,
+  "total_prestige_count": 44,
+  "last_save_time": 1771463033,
+  "play_time_seconds": 544619,
+  "combat_state": {
+    "current_enemy": null,
+    "player_current_hp": 44,
+    "player_max_hp": 50,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
+    "regen_timer": 0.2,
+    "is_regenerating": true
+  },
+  "equipment": {
+    "weapon": null,
+    "armor": null,
+    "helmet": null,
+    "gloves": null,
+    "boots": null,
+    "amulet": null,
+    "ring": null
+  },
+  "fishing": {
+    "rank": 28,
+    "total_fish_caught": 19334,
+    "fish_toward_next_rank": 334,
+    "legendary_catches": 336
+  },
+  "zone_progression": {
+    "current_zone_id": 1,
+    "current_subzone_id": 1,
+    "defeated_bosses": [],
+    "unlocked_zones": [
+      1,
+      2,
+      11
+    ],
+    "kills_in_subzone": 2,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

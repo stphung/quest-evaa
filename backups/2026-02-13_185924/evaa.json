@@ -1,0 +1,400 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 211,
+  "character_xp": 294683,
+  "attributes": {
+    "values": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+    ]
+  },
+  "prestige_rank": 12,
+  "total_prestige_count": 11,
+  "last_save_time": 1771037938,
+  "play_time_seconds": 333108,
+  "combat_state": {
+    "current_enemy": {
+      "name": "Glacial Mammoth",
+      "max_hp": 472,
+      "current_hp": 472,
+      "damage": 82,
+      "defense": 34
+    },
+    "player_current_hp": 2247,
+    "player_max_hp": 2313,
+    "player_attack_timer": 0.6,
+    "enemy_attack_timer": 0.6,
+    "regen_timer": 0.0,
+    "is_regenerating": false
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Legendary",
+      "ilvl": 50,
+      "base_name": "Dagger of Precision",
+      "display_name": "Dagger of Precision",
+      "attributes": {
+        "str": 0,
+        "dex": 14,
+        "con": 0,
+        "int": 0,
+        "wis": 14,
+        "cha": 14
+      },
+      "affixes": [
+        {
+          "affix_type": "CritChance",
+          "value": 20.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 14.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 130.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 21.0
+        }
+      ]
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Legendary",
+      "ilvl": 60,
+      "base_name": "Chain Mail of Vitality",
+      "display_name": "Chain Mail of Vitality",
+      "attributes": {
+        "str": 0,
+        "dex": 16,
+        "con": 13,
+        "int": 0,
+        "wis": 0,
+        "cha": 13
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 209.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 189.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 21.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 16.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 20.0
+        }
+      ]
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Legendary",
+      "ilvl": 60,
+      "base_name": "Helm of Haste",
+      "display_name": "Helm of Haste",
+      "attributes": {
+        "str": 16,
+        "dex": 0,
+        "con": 16,
+        "int": 0,
+        "wis": 0,
+        "cha": 11
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 23.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 179.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 24.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 25.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 26.0
+        }
+      ]
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "ilvl": 60,
+      "base_name": "Mitts of Learning",
+      "display_name": "Mitts of Learning",
+      "attributes": {
+        "str": 13,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 13,
+        "cha": 13
+      },
+      "affixes": [
+        {
+          "affix_type": "XPGain",
+          "value": 17.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 23.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 200.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 22.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.59
+        }
+      ]
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Legendary",
+      "ilvl": 60,
+      "base_name": "Sturdy Boots",
+      "display_name": "Sturdy Boots",
+      "attributes": {
+        "str": 0,
+        "dex": 16,
+        "con": 0,
+        "int": 16,
+        "wis": 16,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 203.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 158.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 24.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 19.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 19.0
+        }
+      ]
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Legendary",
+      "ilvl": 60,
+      "base_name": "Deadly Necklace",
+      "display_name": "Deadly Necklace",
+      "attributes": {
+        "str": 0,
+        "dex": 16,
+        "con": 27,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "CritChance",
+          "value": 26.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 146.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 17.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 26.0
+        }
+      ]
+    },
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Legendary",
+      "ilvl": 60,
+      "base_name": "Deadly Loop",
+      "display_name": "Deadly Loop",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 16,
+        "wis": 16,
+        "cha": 16
+      },
+      "affixes": [
+        {
+          "affix_type": "CritChance",
+          "value": 25.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 20.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 21.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 153.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 18.0
+        }
+      ]
+    }
+  },
+  "fishing": {
+    "rank": 23,
+    "total_fish_caught": 10775,
+    "fish_toward_next_rank": 275,
+    "legendary_catches": 174
+  },
+  "zone_progression": {
+    "current_zone_id": 6,
+    "current_subzone_id": 4,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        4
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      11
+    ],
+    "kills_in_subzone": 7,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}

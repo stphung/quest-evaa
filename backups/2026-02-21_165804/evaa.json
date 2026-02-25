@@ -1,0 +1,358 @@
+{
+  "version": 2,
+  "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
+  "character_name": "Evaa",
+  "character_level": 100,
+  "character_xp": 62923,
+  "attributes": {
+    "values": [
+      35,
+      35,
+      35,
+      35,
+      35,
+      35
+    ]
+  },
+  "prestige_rank": 3,
+  "total_prestige_count": 75,
+  "last_save_time": 1771721880,
+  "play_time_seconds": 747732,
+  "combat_state": {
+    "current_enemy": {
+      "name": "Forest Spider",
+      "max_hp": 110,
+      "current_hp": 110,
+      "damage": 18,
+      "defense": 4
+    },
+    "player_current_hp": 971,
+    "player_max_hp": 999,
+    "player_attack_timer": 1.0999999999999999,
+    "enemy_attack_timer": 1.0999999999999999,
+    "regen_timer": 0.0,
+    "is_regenerating": false
+  },
+  "equipment": {
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "tier": 1,
+      "base_name": "Sturdy Greatsword",
+      "display_name": "Sturdy Greatsword",
+      "attributes": {
+        "str": 5,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 2,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 26.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 25.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 29.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.11
+        }
+      ],
+      "god_item_id": null
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Legendary",
+      "ilvl": 20,
+      "tier": 0,
+      "base_name": "Scale Mail of Vitality",
+      "display_name": "Scale Mail of Vitality",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 3,
+        "int": 0,
+        "wis": 3,
+        "cha": 2
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 42.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 4.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 30.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 32.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 3.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "tier": 3,
+      "base_name": "Coif of Power",
+      "display_name": "Coif of Power",
+      "attributes": {
+        "str": 0,
+        "dex": 3,
+        "con": 0,
+        "int": 0,
+        "wis": 5,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 4.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 4.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 4.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 4.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "ilvl": 40,
+      "tier": 2,
+      "base_name": "Mitts of Power",
+      "display_name": "Mitts of Power",
+      "attributes": {
+        "str": 0,
+        "dex": 5,
+        "con": 0,
+        "int": 5,
+        "wis": 0,
+        "cha": 5
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 7.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 11.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 76.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 8.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 7.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "boots": {
+      "slot": "Boots",
+      "rarity": "Legendary",
+      "ilvl": 20,
+      "tier": 5,
+      "base_name": "Sturdy Boots",
+      "display_name": "Sturdy Boots",
+      "attributes": {
+        "str": 11,
+        "dex": 0,
+        "con": 0,
+        "int": 5,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 68.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 77.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 53.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 9.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 9.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "tier": 6,
+      "base_name": "Pendant of Carnage",
+      "display_name": "Pendant of Carnage",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 3,
+        "wis": 0,
+        "cha": 8
+      },
+      "affixes": [
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.22
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 47.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 6.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "ring": {
+      "slot": "Ring",
+      "rarity": "Legendary",
+      "ilvl": 40,
+      "tier": 6,
+      "base_name": "Sturdy Ring",
+      "display_name": "Sturdy Ring",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 6,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 125.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 14.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.53
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 15.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 121.0
+        }
+      ],
+      "god_item_id": null
+    }
+  },
+  "fishing": {
+    "rank": 30,
+    "total_fish_caught": 28384,
+    "fish_toward_next_rank": 0,
+    "legendary_catches": 520
+  },
+  "zone_progression": {
+    "current_zone_id": 2,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "unlocked_zones": [
+      1,
+      2,
+      11
+    ],
+    "kills_in_subzone": 7,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  },
+  "stormglass": 6910,
+  "stormglass_discovered": true,
+  "storm_sigils": {
+    "slots_unlocked": 0,
+    "sigils": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

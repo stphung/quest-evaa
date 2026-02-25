@@ -1,0 +1,70 @@
+{
+  "version": 2,
+  "character_id": "329f66e4-1188-40b5-83aa-8d9f43c62ab3",
+  "character_name": "Hi",
+  "character_level": 6,
+  "character_xp": 917,
+  "attributes": {
+    "values": [
+      13,
+      13,
+      13,
+      11,
+      14,
+      11
+    ]
+  },
+  "prestige_rank": 0,
+  "total_prestige_count": 0,
+  "last_save_time": 1770969856,
+  "play_time_seconds": 59,
+  "combat_state": {
+    "current_enemy": {
+      "name": "Meadow Beetle",
+      "max_hp": 51,
+      "current_hp": 15,
+      "damage": 6,
+      "defense": 0
+    },
+    "player_current_hp": 50,
+    "player_max_hp": 60,
+    "player_attack_timer": 0.9999999999999999,
+    "enemy_attack_timer": 0.0,
+    "regen_timer": 0.0,
+    "is_regenerating": false
+  },
+  "equipment": {
+    "weapon": null,
+    "armor": null,
+    "helmet": null,
+    "gloves": null,
+    "boots": null,
+    "amulet": null,
+    "ring": null
+  },
+  "fishing": {
+    "rank": 1,
+    "total_fish_caught": 0,
+    "fish_toward_next_rank": 0,
+    "legendary_catches": 0
+  },
+  "zone_progression": {
+    "current_zone_id": 1,
+    "current_subzone_id": 1,
+    "defeated_bosses": [],
+    "unlocked_zones": [
+      1,
+      2
+    ],
+    "kills_in_subzone": 6,
+    "fighting_boss": false,
+    "has_stormbreaker": false
+  },
+  "chess_stats": {
+    "games_played": 0,
+    "games_won": 0,
+    "games_lost": 0,
+    "games_drawn": 0,
+    "prestige_earned": 0
+  }
+}
