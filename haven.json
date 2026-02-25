@@ -1,19 +1,19 @@
 {
   "discovered": true,
   "rooms": {
-    "FishingDock": 3,
-    "StormForge": 0,
-    "Workshop": 2,
-    "TrophyHall": 2,
-    "Garden": 2,
-    "Armory": 3,
+    "AlchemyLab": 3,
     "Bedroom": 3,
+    "FishingDock": 3,
+    "Library": 2,
+    "Armory": 3,
+    "Garden": 2,
+    "Workshop": 2,
     "Hearthstone": 3,
     "Vault": 3,
-    "Library": 2,
+    "TrophyHall": 2,
     "Watchtower": 2,
-    "AlchemyLab": 3,
     "WarRoom": 2,
+    "StormForge": 0,
     "TrainingYard": 2
   },
   "last_vault_selections": [
