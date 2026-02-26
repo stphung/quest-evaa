@@ -2,36 +2,30 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 6,
+  "character_xp": 410,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      13,
+      12,
+      12,
+      11,
+      11,
+      16
     ]
   },
-  "prestige_rank": 10,
+  "prestige_rank": 0,
   "total_prestige_count": 116,
-  "last_save_time": 1772084823,
-  "play_time_seconds": 894297,
+  "last_save_time": 1772084830,
+  "play_time_seconds": 894303,
   "combat_state": {
-    "current_enemy": {
-      "name": "Sunny Toad",
-      "max_hp": 54,
-      "current_hp": 54,
-      "damage": 7,
-      "defense": 0
-    },
+    "current_enemy": null,
     "player_current_hp": 50,
-    "player_max_hp": 1086,
+    "player_max_hp": 1037,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": false
+    "is_regenerating": true
   },
   "equipment": {
     "weapon": {
@@ -230,7 +224,7 @@
   },
   "fishing": {
     "rank": 30,
-    "total_fish_caught": 37516,
+    "total_fish_caught": 37518,
     "fish_toward_next_rank": 0,
     "legendary_catches": 698
   },
@@ -247,7 +241,7 @@
       6,
       11
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 1,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
