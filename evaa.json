@@ -19,9 +19,15 @@
   "last_save_time": 1772084823,
   "play_time_seconds": 894297,
   "combat_state": {
-    "current_enemy": null,
+    "current_enemy": {
+      "name": "Sunny Toad",
+      "max_hp": 54,
+      "current_hp": 54,
+      "damage": 7,
+      "defense": 0
+    },
     "player_current_hp": 50,
-    "player_max_hp": 50,
+    "player_max_hp": 1086,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
