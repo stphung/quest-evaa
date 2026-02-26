@@ -2,30 +2,30 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 31,
-  "character_xp": 16488,
+  "character_level": 1,
+  "character_xp": 0,
   "attributes": {
     "values": [
-      24,
-      26,
-      26,
-      28,
-      20,
-      26
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
     ]
   },
-  "prestige_rank": 9,
-  "total_prestige_count": 115,
-  "last_save_time": 1772061438,
-  "play_time_seconds": 885966,
+  "prestige_rank": 10,
+  "total_prestige_count": 116,
+  "last_save_time": 1772084823,
+  "play_time_seconds": 894297,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 951,
-    "player_max_hp": 1127,
+    "player_current_hp": 50,
+    "player_max_hp": 50,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
     "weapon": {
@@ -67,68 +67,38 @@
       ],
       "god_item_id": null
     },
-    "armor": {
-      "slot": "Armor",
-      "rarity": "Rare",
-      "ilvl": 30,
-      "tier": 1,
-      "base_name": "Sturdy Leather Armor",
-      "display_name": "Sturdy Leather Armor",
-      "attributes": {
-        "str": 0,
-        "dex": 0,
-        "con": 2,
-        "int": 0,
-        "wis": 0,
-        "cha": 0
-      },
-      "affixes": [
-        {
-          "affix_type": "HPBonus",
-          "value": 22.0
-        },
-        {
-          "affix_type": "CritMultiplier",
-          "value": 0.12
-        },
-        {
-          "affix_type": "DamageReduction",
-          "value": 2.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "armor": null,
     "helmet": {
       "slot": "Helmet",
-      "rarity": "Epic",
-      "ilvl": 20,
-      "tier": 2,
-      "base_name": "Cap of Haste",
-      "display_name": "Cap of Haste",
+      "rarity": "Legendary",
+      "ilvl": 40,
+      "tier": 3,
+      "base_name": "Helm of Power",
+      "display_name": "Helm of Power",
       "attributes": {
-        "str": 0,
-        "dex": 3,
+        "str": 7,
+        "dex": 6,
         "con": 0,
-        "int": 2,
+        "int": 0,
         "wis": 0,
-        "cha": 0
+        "cha": 6
       },
       "affixes": [
         {
+          "affix_type": "DamagePercent",
+          "value": 12.0
+        },
+        {
           "affix_type": "AttackSpeed",
-          "value": 1.0
-        },
-        {
-          "affix_type": "HPRegen",
-          "value": 3.0
-        },
-        {
-          "affix_type": "XPGain",
           "value": 4.0
         },
         {
-          "affix_type": "DamageReduction",
-          "value": 3.0
+          "affix_type": "HPBonus",
+          "value": 81.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 64.0
         }
       ],
       "god_item_id": null
@@ -211,45 +181,7 @@
       ],
       "god_item_id": null
     },
-    "amulet": {
-      "slot": "Amulet",
-      "rarity": "Legendary",
-      "ilvl": 40,
-      "tier": 5,
-      "base_name": "Regenerating Pendant",
-      "display_name": "Regenerating Pendant",
-      "attributes": {
-        "str": 0,
-        "dex": 0,
-        "con": 0,
-        "int": 7,
-        "wis": 0,
-        "cha": 14
-      },
-      "affixes": [
-        {
-          "affix_type": "HPRegen",
-          "value": 13.0
-        },
-        {
-          "affix_type": "HPRegen",
-          "value": 15.0
-        },
-        {
-          "affix_type": "HPBonus",
-          "value": 77.0
-        },
-        {
-          "affix_type": "XPGain",
-          "value": 13.0
-        },
-        {
-          "affix_type": "DamageReduction",
-          "value": 13.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "amulet": null,
     "ring": {
       "slot": "Ring",
       "rarity": "Legendary",
@@ -292,66 +224,31 @@
   },
   "fishing": {
     "rank": 30,
-    "total_fish_caught": 37010,
+    "total_fish_caught": 37516,
     "fish_toward_next_rank": 0,
-    "legendary_catches": 690
+    "legendary_catches": 698
   },
   "zone_progression": {
-    "current_zone_id": 4,
+    "current_zone_id": 1,
     "current_subzone_id": 1,
-    "defeated_bosses": [
-      [
-        1,
-        1
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        3,
-        3
-      ]
-    ],
+    "defeated_bosses": [],
     "unlocked_zones": [
       1,
       2,
       3,
       4,
+      5,
+      6,
       11
     ],
     "kills_in_subzone": 0,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 59422,
+  "stormglass": 23156,
   "stormglass_discovered": true,
   "storm_sigils": {
-    "slots_unlocked": 1,
+    "slots_unlocked": 2,
     "sigils": [
       {
         "effect": "OfflineXpPercent",
