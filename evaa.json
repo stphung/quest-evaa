@@ -2,30 +2,30 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 15,
+  "character_xp": 699,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      15,
+      15,
+      22,
+      18,
+      15,
+      17
     ]
   },
   "prestige_rank": 6,
   "total_prestige_count": 122,
-  "last_save_time": 1772250455,
-  "play_time_seconds": 930577,
+  "last_save_time": 1772250530,
+  "play_time_seconds": 930649,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
+    "player_current_hp": 1110,
+    "player_max_hp": 1156,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": false
+    "is_regenerating": true
   },
   "equipment": {
     "weapon": {
@@ -67,7 +67,29 @@
       ],
       "god_item_id": null
     },
-    "armor": null,
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Magic",
+      "ilvl": 10,
+      "tier": 3,
+      "base_name": "Fine Scale Mail",
+      "display_name": "Fine Scale Mail",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 1,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 1.0
+        }
+      ],
+      "god_item_id": null
+    },
     "helmet": {
       "slot": "Helmet",
       "rarity": "Legendary",
@@ -181,7 +203,41 @@
       ],
       "god_item_id": null
     },
-    "amulet": null,
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Epic",
+      "ilvl": 10,
+      "tier": 2,
+      "base_name": "Armored Talisman",
+      "display_name": "Armored Talisman",
+      "attributes": {
+        "str": 2,
+        "dex": 0,
+        "con": 0,
+        "int": 2,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReduction",
+          "value": 2.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.09
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 1.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 26.0
+        }
+      ],
+      "god_item_id": null
+    },
     "ring": {
       "slot": "Ring",
       "rarity": "Legendary",
@@ -229,9 +285,22 @@
     "legendary_catches": 748
   },
   "zone_progression": {
-    "current_zone_id": 1,
+    "current_zone_id": 2,
     "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ],
     "unlocked_zones": [
       1,
       2,
@@ -243,7 +312,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 31734,
+  "stormglass": 31745,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
