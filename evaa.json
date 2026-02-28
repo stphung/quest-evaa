@@ -16,8 +16,8 @@
   },
   "prestige_rank": 7,
   "total_prestige_count": 123,
-  "last_save_time": 1772267584,
-  "play_time_seconds": 939592,
+  "last_save_time": 1772295211,
+  "play_time_seconds": 940038,
   "combat_state": {
     "current_enemy": null,
     "player_current_hp": 50,
@@ -224,8 +224,8 @@
   },
   "fishing": {
     "rank": 31,
-    "total_fish_caught": 40406,
-    "fish_toward_next_rank": 888,
+    "total_fish_caught": 40418,
+    "fish_toward_next_rank": 900,
     "legendary_catches": 760
   },
   "zone_progression": {
@@ -243,7 +243,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 45309,
+  "stormglass": 46267,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
