@@ -2,28 +2,34 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 8,
+  "character_xp": 1534,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      15,
+      11,
+      12,
+      12,
+      17,
+      14
     ]
   },
-  "prestige_rank": 7,
+  "prestige_rank": 1,
   "total_prestige_count": 123,
-  "last_save_time": 1772295211,
-  "play_time_seconds": 940038,
+  "last_save_time": 1772295233,
+  "play_time_seconds": 940054,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Sunny Rabbit",
+      "max_hp": 57,
+      "current_hp": 57,
+      "damage": 7,
+      "defense": 0
+    },
+    "player_current_hp": 1037,
+    "player_max_hp": 1085,
+    "player_attack_timer": 1.2,
+    "enemy_attack_timer": 1.2,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -67,7 +73,24 @@
       ],
       "god_item_id": null
     },
-    "armor": null,
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Common",
+      "ilvl": 10,
+      "tier": 2,
+      "base_name": "Scale Mail",
+      "display_name": "Scale Mail",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 1,
+        "wis": 0,
+        "cha": 1
+      },
+      "affixes": [],
+      "god_item_id": null
+    },
     "helmet": {
       "slot": "Helmet",
       "rarity": "Legendary",
@@ -239,7 +262,7 @@
       4,
       11
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 7,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
