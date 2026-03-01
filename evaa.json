@@ -16,7 +16,7 @@
   },
   "prestige_rank": 18,
   "total_prestige_count": 141,
-  "last_save_time": 1772402843,
+  "last_save_time": 1772402844,
   "play_time_seconds": 1115553,
   "combat_state": {
     "current_enemy": {
@@ -26,10 +26,10 @@
       "damage": 55,
       "defense": 22
     },
-    "player_current_hp": 1849,
-    "player_max_hp": 1849,
-    "player_attack_timer": 0.1,
-    "enemy_attack_timer": 0.1,
+    "player_current_hp": 1846,
+    "player_max_hp": 1846,
+    "player_attack_timer": 0.2,
+    "enemy_attack_timer": 0.2,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
