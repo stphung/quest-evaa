@@ -3,7 +3,7 @@
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
   "character_level": 68,
-  "character_xp": 2830,
+  "character_xp": 27662,
   "attributes": {
     "values": [
       52,
@@ -14,22 +14,22 @@
       41
     ]
   },
-  "prestige_rank": 18,
+  "prestige_rank": 17,
   "total_prestige_count": 141,
-  "last_save_time": 1772402844,
-  "play_time_seconds": 1115553,
+  "last_save_time": 1772402865,
+  "play_time_seconds": 1115572,
   "combat_state": {
     "current_enemy": {
-      "name": "Frozen Wendigo",
-      "max_hp": 342,
-      "current_hp": 342,
-      "damage": 55,
-      "defense": 22
+      "name": "Dire Wolf Alpha",
+      "max_hp": 1206,
+      "current_hp": 1206,
+      "damage": 82,
+      "defense": 39
     },
     "player_current_hp": 1846,
     "player_max_hp": 1846,
-    "player_attack_timer": 0.2,
-    "enemy_attack_timer": 0.2,
+    "player_attack_timer": 0.1,
+    "enemy_attack_timer": 0.1,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -290,8 +290,8 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 50662,
-    "fish_toward_next_rank": 1144,
+    "total_fish_caught": 50666,
+    "fish_toward_next_rank": 1148,
     "legendary_catches": 993
   },
   "zone_progression": {
@@ -373,11 +373,11 @@
       7,
       8
     ],
-    "kills_in_subzone": 6,
-    "fighting_boss": false,
+    "kills_in_subzone": 10,
+    "fighting_boss": true,
     "has_stormbreaker": false
   },
-  "stormglass": 6771,
+  "stormglass": 6773,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
