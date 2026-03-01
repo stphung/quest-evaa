@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 25,
-  "character_xp": 7812,
+  "character_level": 31,
+  "character_xp": 16376,
   "attributes": {
     "values": [
+      25,
       23,
-      20,
-      27,
-      16,
-      26,
-      20
+      29,
+      17,
+      29,
+      27
     ]
   },
   "prestige_rank": 7,
   "total_prestige_count": 129,
-  "last_save_time": 1772393272,
-  "play_time_seconds": 967014,
+  "last_save_time": 1772393439,
+  "play_time_seconds": 967173,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 1157,
-    "player_max_hp": 1196,
+    "player_current_hp": 1118,
+    "player_max_hp": 1214,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -218,22 +218,22 @@
     "amulet": {
       "slot": "Amulet",
       "rarity": "Magic",
-      "ilvl": 20,
-      "tier": 3,
-      "base_name": "Fine Pendant",
-      "display_name": "Fine Pendant",
+      "ilvl": 30,
+      "tier": 0,
+      "base_name": "Fine Necklace",
+      "display_name": "Fine Necklace",
       "attributes": {
         "str": 0,
-        "dex": 0,
+        "dex": 1,
         "con": 0,
         "int": 0,
-        "wis": 2,
-        "cha": 0
+        "wis": 0,
+        "cha": 1
       },
       "affixes": [
         {
-          "affix_type": "CritMultiplier",
-          "value": 0.06
+          "affix_type": "HPBonus",
+          "value": 8.0
         }
       ],
       "god_item_id": null
@@ -280,12 +280,12 @@
   },
   "fishing": {
     "rank": 31,
-    "total_fish_caught": 42376,
-    "fish_toward_next_rank": 2858,
-    "legendary_catches": 798
+    "total_fish_caught": 42400,
+    "fish_toward_next_rank": 2882,
+    "legendary_catches": 799
   },
   "zone_progression": {
-    "current_zone_id": 3,
+    "current_zone_id": 4,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -311,6 +311,18 @@
       [
         2,
         3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
       ]
     ],
     "unlocked_zones": [
@@ -323,7 +335,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 68892,
+  "stormglass": 68906,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
