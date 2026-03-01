@@ -2,68 +2,112 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 258,
+  "character_xp": 98000,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      110,
+      110,
+      110,
+      110,
+      110,
+      110
     ]
   },
   "prestige_rank": 18,
   "total_prestige_count": 140,
-  "last_save_time": 1772401542,
-  "play_time_seconds": 1099934,
+  "last_save_time": 1772401553,
+  "play_time_seconds": 1114338,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "The Drowned King",
+      "max_hp": 3690,
+      "current_hp": 2721,
+      "damage": 181,
+      "defense": 132
+    },
+    "player_current_hp": 2576,
+    "player_max_hp": 2655,
+    "player_attack_timer": 0.7999999999999999,
+    "enemy_attack_timer": 0.6,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
   "equipment": {
-    "weapon": null,
-    "armor": {
-      "slot": "Armor",
+    "weapon": {
+      "slot": "Weapon",
       "rarity": "Legendary",
-      "ilvl": 60,
-      "tier": 4,
-      "base_name": "Wise Plate Mail",
-      "display_name": "Wise Plate Mail",
+      "ilvl": 80,
+      "tier": 5,
+      "base_name": "Greatsword of Power",
+      "display_name": "Greatsword of Power",
       "attributes": {
         "str": 0,
-        "dex": 22,
+        "dex": 0,
         "con": 0,
         "int": 0,
-        "wis": 11,
-        "cha": 0
+        "wis": 0,
+        "cha": 10
       },
       "affixes": [
         {
-          "affix_type": "XPGain",
-          "value": 17.0
-        },
-        {
           "affix_type": "DamagePercent",
-          "value": 16.0
-        },
-        {
-          "affix_type": "CritChance",
           "value": 16.0
         },
         {
           "affix_type": "HPBonus",
-          "value": 106.0
+          "value": 193.0
         },
         {
-          "affix_type": "DamagePercent",
-          "value": 15.0
+          "affix_type": "HPRegen",
+          "value": 17.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 23.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 19.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Legendary",
+      "ilvl": 80,
+      "tier": 5,
+      "base_name": "Leather Armor of Haste",
+      "display_name": "Leather Armor of Haste",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 15,
+        "int": 15,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 5.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 171.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 23.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 151.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 19.0
         }
       ],
       "god_item_id": null
@@ -107,17 +151,51 @@
       ],
       "god_item_id": null
     },
-    "gloves": null,
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "ilvl": 70,
+      "tier": 4,
+      "base_name": "Gloves of Vitality",
+      "display_name": "Gloves of Vitality",
+      "attributes": {
+        "str": 10,
+        "dex": 8,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 12
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 125.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 15.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 131.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 15.0
+        }
+      ],
+      "god_item_id": null
+    },
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
-      "ilvl": 60,
+      "ilvl": 80,
       "tier": 6,
-      "base_name": "Sturdy Greaves",
-      "display_name": "Sturdy Greaves",
+      "base_name": "Sturdy Sabatons",
+      "display_name": "Sturdy Sabatons",
       "attributes": {
-        "str": 9,
-        "dex": 11,
+        "str": 16,
+        "dex": 0,
         "con": 0,
         "int": 0,
         "wis": 0,
@@ -126,23 +204,23 @@
       "affixes": [
         {
           "affix_type": "HPBonus",
-          "value": 146.0
+          "value": 202.0
         },
         {
-          "affix_type": "DamagePercent",
-          "value": 14.0
+          "affix_type": "AttackSpeed",
+          "value": 6.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 25.0
         },
         {
           "affix_type": "HPBonus",
-          "value": 121.0
+          "value": 184.0
         },
         {
-          "affix_type": "CritMultiplier",
-          "value": 0.48
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 20.0
+          "affix_type": "XPGain",
+          "value": 18.0
         }
       ],
       "god_item_id": null
@@ -151,37 +229,37 @@
       "slot": "Amulet",
       "rarity": "Legendary",
       "ilvl": 80,
-      "tier": 3,
-      "base_name": "Wise Pendant",
-      "display_name": "Wise Pendant",
+      "tier": 8,
+      "base_name": "Thorned Talisman",
+      "display_name": "Thorned Talisman",
       "attributes": {
         "str": 0,
         "dex": 0,
         "con": 0,
-        "int": 12,
+        "int": 0,
         "wis": 0,
-        "cha": 0
+        "cha": 38
       },
       "affixes": [
         {
-          "affix_type": "XPGain",
-          "value": 13.0
+          "affix_type": "DamageReflection",
+          "value": 24.0
         },
         {
           "affix_type": "HPBonus",
-          "value": 127.0
+          "value": 175.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 30.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 26.0
         },
         {
           "affix_type": "HPBonus",
-          "value": 138.0
-        },
-        {
-          "affix_type": "HPBonus",
-          "value": 148.0
-        },
-        {
-          "affix_type": "HPRegen",
-          "value": 15.0
+          "value": 170.0
         }
       ],
       "god_item_id": null
@@ -224,14 +302,127 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 49890,
-    "fish_toward_next_rank": 372,
-    "legendary_catches": 973
+    "total_fish_caught": 50596,
+    "fish_toward_next_rank": 1078,
+    "legendary_catches": 989
   },
   "zone_progression": {
-    "current_zone_id": 1,
-    "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "current_zone_id": 8,
+    "current_subzone_id": 4,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        8,
+        4
+      ]
+    ],
     "unlocked_zones": [
       1,
       2,
@@ -242,11 +433,11 @@
       7,
       8
     ],
-    "kills_in_subzone": 0,
-    "fighting_boss": false,
+    "kills_in_subzone": 10,
+    "fighting_boss": true,
     "has_stormbreaker": false
   },
-  "stormglass": 11805,
+  "stormglass": 3806,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
