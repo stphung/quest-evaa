@@ -2,71 +2,33 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 212,
-  "character_xp": 110794,
+  "character_level": 1,
+  "character_xp": 0,
   "attributes": {
     "values": [
-      80,
-      80,
-      80,
-      80,
-      80,
-      80
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
     ]
   },
-  "prestige_rank": 12,
-  "total_prestige_count": 134,
-  "last_save_time": 1772401398,
-  "play_time_seconds": 1027831,
+  "prestige_rank": 13,
+  "total_prestige_count": 135,
+  "last_save_time": 1772401419,
+  "play_time_seconds": 1027851,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 1888,
-    "player_max_hp": 1888,
+    "player_current_hp": 50,
+    "player_max_hp": 50,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
-    "weapon": {
-      "slot": "Weapon",
-      "rarity": "Legendary",
-      "ilvl": 40,
-      "tier": 7,
-      "base_name": "Axe of Precision",
-      "display_name": "Axe of Precision",
-      "attributes": {
-        "str": 0,
-        "dex": 0,
-        "con": 0,
-        "int": 9,
-        "wis": 0,
-        "cha": 0
-      },
-      "affixes": [
-        {
-          "affix_type": "CritChance",
-          "value": 11.0
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 13.0
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 17.0
-        },
-        {
-          "affix_type": "HPBonus",
-          "value": 91.0
-        },
-        {
-          "affix_type": "HPBonus",
-          "value": 128.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "weapon": null,
     "armor": {
       "slot": "Armor",
       "rarity": "Legendary",
@@ -145,41 +107,7 @@
       ],
       "god_item_id": null
     },
-    "gloves": {
-      "slot": "Gloves",
-      "rarity": "Legendary",
-      "ilvl": 60,
-      "tier": 5,
-      "base_name": "Mitts of Learning",
-      "display_name": "Mitts of Learning",
-      "attributes": {
-        "str": 0,
-        "dex": 12,
-        "con": 0,
-        "int": 10,
-        "wis": 0,
-        "cha": 12
-      },
-      "affixes": [
-        {
-          "affix_type": "XPGain",
-          "value": 12.0
-        },
-        {
-          "affix_type": "AttackSpeed",
-          "value": 5.0
-        },
-        {
-          "affix_type": "HPBonus",
-          "value": 128.0
-        },
-        {
-          "affix_type": "HPBonus",
-          "value": 109.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "gloves": null,
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -296,95 +224,14 @@
   },
   "fishing": {
     "rank": 32,
-    "total_fish_caught": 45692,
-    "fish_toward_next_rank": 2174,
+    "total_fish_caught": 45694,
+    "fish_toward_next_rank": 2176,
     "legendary_catches": 874
   },
   "zone_progression": {
-    "current_zone_id": 6,
-    "current_subzone_id": 4,
-    "defeated_bosses": [
-      [
-        1,
-        1
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        5,
-        1
-      ],
-      [
-        5,
-        2
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        6,
-        1
-      ],
-      [
-        6,
-        2
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        6,
-        4
-      ]
-    ],
+    "current_zone_id": 1,
+    "current_subzone_id": 1,
+    "defeated_bosses": [],
     "unlocked_zones": [
       1,
       2,
@@ -393,11 +240,11 @@
       5,
       6
     ],
-    "kills_in_subzone": 8,
+    "kills_in_subzone": 0,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 51799,
+  "stormglass": 51802,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
