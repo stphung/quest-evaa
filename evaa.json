@@ -2,77 +2,33 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 258,
-  "character_xp": 98000,
+  "character_level": 1,
+  "character_xp": 0,
   "attributes": {
     "values": [
-      110,
-      110,
-      110,
-      110,
-      110,
-      110
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
     ]
   },
-  "prestige_rank": 18,
-  "total_prestige_count": 140,
-  "last_save_time": 1772401553,
-  "play_time_seconds": 1114338,
+  "prestige_rank": 19,
+  "total_prestige_count": 141,
+  "last_save_time": 1772401556,
+  "play_time_seconds": 1114340,
   "combat_state": {
-    "current_enemy": {
-      "name": "The Drowned King",
-      "max_hp": 3690,
-      "current_hp": 2721,
-      "damage": 181,
-      "defense": 132
-    },
-    "player_current_hp": 2576,
-    "player_max_hp": 2655,
-    "player_attack_timer": 0.7999999999999999,
-    "enemy_attack_timer": 0.6,
+    "current_enemy": null,
+    "player_current_hp": 50,
+    "player_max_hp": 50,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
   "equipment": {
-    "weapon": {
-      "slot": "Weapon",
-      "rarity": "Legendary",
-      "ilvl": 80,
-      "tier": 5,
-      "base_name": "Greatsword of Power",
-      "display_name": "Greatsword of Power",
-      "attributes": {
-        "str": 0,
-        "dex": 0,
-        "con": 0,
-        "int": 0,
-        "wis": 0,
-        "cha": 10
-      },
-      "affixes": [
-        {
-          "affix_type": "DamagePercent",
-          "value": 16.0
-        },
-        {
-          "affix_type": "HPBonus",
-          "value": 193.0
-        },
-        {
-          "affix_type": "HPRegen",
-          "value": 17.0
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 23.0
-        },
-        {
-          "affix_type": "DamageReflection",
-          "value": 19.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "weapon": null,
     "armor": {
       "slot": "Armor",
       "rarity": "Legendary",
@@ -151,41 +107,7 @@
       ],
       "god_item_id": null
     },
-    "gloves": {
-      "slot": "Gloves",
-      "rarity": "Legendary",
-      "ilvl": 70,
-      "tier": 4,
-      "base_name": "Gloves of Vitality",
-      "display_name": "Gloves of Vitality",
-      "attributes": {
-        "str": 10,
-        "dex": 8,
-        "con": 0,
-        "int": 0,
-        "wis": 0,
-        "cha": 12
-      },
-      "affixes": [
-        {
-          "affix_type": "HPBonus",
-          "value": 125.0
-        },
-        {
-          "affix_type": "XPGain",
-          "value": 15.0
-        },
-        {
-          "affix_type": "HPBonus",
-          "value": 131.0
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 15.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "gloves": null,
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -307,122 +229,9 @@
     "legendary_catches": 989
   },
   "zone_progression": {
-    "current_zone_id": 8,
-    "current_subzone_id": 4,
-    "defeated_bosses": [
-      [
-        1,
-        1
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        5,
-        1
-      ],
-      [
-        5,
-        2
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        6,
-        1
-      ],
-      [
-        6,
-        2
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        6,
-        4
-      ],
-      [
-        7,
-        1
-      ],
-      [
-        7,
-        2
-      ],
-      [
-        7,
-        3
-      ],
-      [
-        7,
-        4
-      ],
-      [
-        8,
-        1
-      ],
-      [
-        8,
-        2
-      ],
-      [
-        8,
-        3
-      ],
-      [
-        8,
-        4
-      ]
-    ],
+    "current_zone_id": 1,
+    "current_subzone_id": 1,
+    "defeated_bosses": [],
     "unlocked_zones": [
       1,
       2,
@@ -433,8 +242,8 @@
       7,
       8
     ],
-    "kills_in_subzone": 10,
-    "fighting_boss": true,
+    "kills_in_subzone": 0,
+    "fighting_boss": false,
     "has_stormbreaker": false
   },
   "stormglass": 3806,
