@@ -2,8 +2,8 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 127,
-  "character_xp": 82612,
+  "character_level": 138,
+  "character_xp": 76465,
   "attributes": {
     "values": [
       65,
@@ -16,20 +16,20 @@
   },
   "prestige_rank": 9,
   "total_prestige_count": 131,
-  "last_save_time": 1772401330,
-  "play_time_seconds": 983694,
+  "last_save_time": 1772401341,
+  "play_time_seconds": 984597,
   "combat_state": {
     "current_enemy": {
-      "name": "Forgotten Revenant",
-      "max_hp": 264,
-      "current_hp": 264,
-      "damage": 46,
+      "name": "Cursed Lich",
+      "max_hp": 294,
+      "current_hp": 294,
+      "damage": 42,
       "defense": 16
     },
-    "player_current_hp": 1555,
-    "player_max_hp": 1555,
-    "player_attack_timer": 1.2,
-    "enemy_attack_timer": 1.2,
+    "player_current_hp": 1669,
+    "player_max_hp": 1669,
+    "player_attack_timer": 0.7,
+    "enemy_attack_timer": 0.7,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -227,35 +227,39 @@
     },
     "amulet": {
       "slot": "Amulet",
-      "rarity": "Epic",
+      "rarity": "Legendary",
       "ilvl": 40,
-      "tier": 1,
-      "base_name": "Necklace of Renewal",
-      "display_name": "Necklace of Renewal",
+      "tier": 0,
+      "base_name": "Necklace of Learning",
+      "display_name": "Necklace of Learning",
       "attributes": {
         "str": 0,
-        "dex": 3,
-        "con": 4,
-        "int": 4,
+        "dex": 5,
+        "con": 0,
+        "int": 0,
         "wis": 0,
         "cha": 0
       },
       "affixes": [
         {
-          "affix_type": "HPRegen",
-          "value": 5.0
-        },
-        {
           "affix_type": "XPGain",
-          "value": 5.0
-        },
-        {
-          "affix_type": "DamageReflection",
-          "value": 6.0
+          "value": 7.0
         },
         {
           "affix_type": "HPBonus",
-          "value": 38.0
+          "value": 62.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 46.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 2.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 64.0
         }
       ],
       "god_item_id": null
@@ -302,8 +306,8 @@
   },
   "fishing": {
     "rank": 31,
-    "total_fish_caught": 43356,
-    "fish_toward_next_rank": 3838,
+    "total_fish_caught": 43402,
+    "fish_toward_next_rank": 3884,
     "legendary_catches": 822
   },
   "zone_progression": {
@@ -365,11 +369,11 @@
       3,
       4
     ],
-    "kills_in_subzone": 1,
+    "kills_in_subzone": 5,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 76294,
+  "stormglass": 75794,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
