@@ -2,30 +2,36 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 67,
-  "character_xp": 27110,
+  "character_level": 68,
+  "character_xp": 2830,
   "attributes": {
     "values": [
       52,
-      43,
+      45,
       38,
-      34,
+      35,
       50,
       41
     ]
   },
-  "prestige_rank": 19,
+  "prestige_rank": 18,
   "total_prestige_count": 141,
-  "last_save_time": 1772402830,
-  "play_time_seconds": 1115540,
+  "last_save_time": 1772402843,
+  "play_time_seconds": 1115553,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 1701,
+    "current_enemy": {
+      "name": "Frozen Wendigo",
+      "max_hp": 342,
+      "current_hp": 342,
+      "damage": 55,
+      "defense": 22
+    },
+    "player_current_hp": 1849,
     "player_max_hp": 1849,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "player_attack_timer": 0.1,
+    "enemy_attack_timer": 0.1,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
     "weapon": {
@@ -367,11 +373,11 @@
       7,
       8
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 6,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 6768,
+  "stormglass": 6771,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
