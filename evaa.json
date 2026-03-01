@@ -2,30 +2,30 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 200,
-  "character_xp": 120342,
+  "character_level": 1,
+  "character_xp": 0,
   "attributes": {
     "values": [
-      75,
-      75,
-      75,
-      75,
-      75,
-      75
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
     ]
   },
-  "prestige_rank": 11,
-  "total_prestige_count": 133,
-  "last_save_time": 1772401374,
-  "play_time_seconds": 1013416,
+  "prestige_rank": 12,
+  "total_prestige_count": 134,
+  "last_save_time": 1772401383,
+  "play_time_seconds": 1013424,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 1774,
-    "player_max_hp": 1774,
+    "player_current_hp": 50,
+    "player_max_hp": 50,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
     "weapon": {
@@ -67,45 +67,7 @@
       ],
       "god_item_id": null
     },
-    "armor": {
-      "slot": "Armor",
-      "rarity": "Legendary",
-      "ilvl": 60,
-      "tier": 4,
-      "base_name": "Scale Mail of Power",
-      "display_name": "Scale Mail of Power",
-      "attributes": {
-        "str": 9,
-        "dex": 11,
-        "con": 0,
-        "int": 0,
-        "wis": 11,
-        "cha": 0
-      },
-      "affixes": [
-        {
-          "affix_type": "DamagePercent",
-          "value": 14.0
-        },
-        {
-          "affix_type": "HPRegen",
-          "value": 17.0
-        },
-        {
-          "affix_type": "DamagePercent",
-          "value": 14.0
-        },
-        {
-          "affix_type": "DamagePercent",
-          "value": 15.0
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 13.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "armor": null,
     "helmet": {
       "slot": "Helmet",
       "rarity": "Legendary",
@@ -219,41 +181,7 @@
       ],
       "god_item_id": null
     },
-    "amulet": {
-      "slot": "Amulet",
-      "rarity": "Epic",
-      "ilvl": 60,
-      "tier": 7,
-      "base_name": "Sturdy Amulet",
-      "display_name": "Sturdy Amulet",
-      "attributes": {
-        "str": 0,
-        "dex": 9,
-        "con": 0,
-        "int": 0,
-        "wis": 0,
-        "cha": 0
-      },
-      "affixes": [
-        {
-          "affix_type": "HPBonus",
-          "value": 99.0
-        },
-        {
-          "affix_type": "DamagePercent",
-          "value": 9.0
-        },
-        {
-          "affix_type": "HPBonus",
-          "value": 97.0
-        },
-        {
-          "affix_type": "DamageReduction",
-          "value": 12.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "amulet": null,
     "ring": {
       "slot": "Ring",
       "rarity": "Legendary",
@@ -292,95 +220,14 @@
   },
   "fishing": {
     "rank": 32,
-    "total_fish_caught": 44864,
-    "fish_toward_next_rank": 1346,
+    "total_fish_caught": 44866,
+    "fish_toward_next_rank": 1348,
     "legendary_catches": 860
   },
   "zone_progression": {
-    "current_zone_id": 6,
-    "current_subzone_id": 4,
-    "defeated_bosses": [
-      [
-        1,
-        1
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        5,
-        1
-      ],
-      [
-        5,
-        2
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        6,
-        1
-      ],
-      [
-        6,
-        2
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        6,
-        4
-      ]
-    ],
+    "current_zone_id": 1,
+    "current_subzone_id": 1,
+    "defeated_bosses": [],
     "unlocked_zones": [
       1,
       2,
@@ -389,7 +236,7 @@
       5,
       6
     ],
-    "kills_in_subzone": 7,
+    "kills_in_subzone": 0,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
