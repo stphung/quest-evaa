@@ -2,28 +2,34 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 41,
+  "character_xp": 23041,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      30,
+      25,
+      31,
+      37,
+      33,
+      24
     ]
   },
-  "prestige_rank": 6,
-  "total_prestige_count": 128,
-  "last_save_time": 1772384711,
-  "play_time_seconds": 958905,
+  "prestige_rank": 5,
+  "total_prestige_count": 127,
+  "last_save_time": 1772343122,
+  "play_time_seconds": 958903,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Cursed Shade",
+      "max_hp": 266,
+      "current_hp": 266,
+      "damage": 41,
+      "defense": 16
+    },
+    "player_current_hp": 1354,
+    "player_max_hp": 1354,
+    "player_attack_timer": 0.9999999999999999,
+    "enemy_attack_timer": 0.9999999999999999,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -67,7 +73,45 @@
       ],
       "god_item_id": null
     },
-    "armor": null,
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Legendary",
+      "ilvl": 40,
+      "tier": 4,
+      "base_name": "Swift Chain Mail",
+      "display_name": "Swift Chain Mail",
+      "attributes": {
+        "str": 15,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 4.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 8.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 9.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 3.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 92.0
+        }
+      ],
+      "god_item_id": null
+    },
     "helmet": {
       "slot": "Helmet",
       "rarity": "Legendary",
@@ -181,7 +225,41 @@
       ],
       "god_item_id": null
     },
-    "amulet": null,
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Epic",
+      "ilvl": 40,
+      "tier": 4,
+      "base_name": "Regenerating Talisman",
+      "display_name": "Regenerating Talisman",
+      "attributes": {
+        "str": 5,
+        "dex": 0,
+        "con": 10,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 6.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 6.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 46.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.21
+        }
+      ],
+      "god_item_id": null
+    },
     "ring": {
       "slot": "Ring",
       "rarity": "Legendary",
@@ -229,20 +307,69 @@
     "legendary_catches": 788
   },
   "zone_progression": {
-    "current_zone_id": 1,
-    "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "current_zone_id": 4,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ]
+    ],
     "unlocked_zones": [
       1,
       2,
       3,
       4
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 8,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 58264,
+  "stormglass": 58263,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
