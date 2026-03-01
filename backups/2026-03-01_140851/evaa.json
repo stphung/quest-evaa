@@ -2,30 +2,36 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 71,
-  "character_xp": 20038,
+  "character_level": 69,
+  "character_xp": 49667,
   "attributes": {
     "values": [
       53,
-      46,
-      40,
+      45,
+      38,
       36,
-      52,
-      43
+      50,
+      42
     ]
   },
   "prestige_rank": 17,
   "total_prestige_count": 141,
-  "last_save_time": 1772402988,
-  "play_time_seconds": 1115673,
+  "last_save_time": 1772402926,
+  "play_time_seconds": 1115624,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 1460,
-    "player_max_hp": 1880,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Glacial Banshee",
+      "max_hp": 416,
+      "current_hp": 416,
+      "damage": 71,
+      "defense": 30
+    },
+    "player_current_hp": 1870,
+    "player_max_hp": 1870,
+    "player_attack_timer": 0.8999999999999999,
+    "enemy_attack_timer": 0.8999999999999999,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
     "weapon": {
@@ -289,8 +295,8 @@
     "legendary_catches": 993
   },
   "zone_progression": {
-    "current_zone_id": 7,
-    "current_subzone_id": 1,
+    "current_zone_id": 6,
+    "current_subzone_id": 3,
     "defeated_bosses": [
       [
         1,
@@ -363,14 +369,6 @@
       [
         6,
         2
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        6,
-        4
       ]
     ],
     "unlocked_zones": [
@@ -383,11 +381,11 @@
       7,
       8
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 4,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 6811,
+  "stormglass": 6794,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
