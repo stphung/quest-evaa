@@ -2,28 +2,34 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 103,
+  "character_xp": 51072,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      57,
+      49,
+      65,
+      65,
+      65,
+      65
     ]
   },
   "prestige_rank": 9,
   "total_prestige_count": 131,
-  "last_save_time": 1772401265,
-  "play_time_seconds": 978252,
+  "last_save_time": 1772401285,
+  "play_time_seconds": 981864,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Cursed Spirit",
+      "max_hp": 272,
+      "current_hp": 272,
+      "damage": 44,
+      "defense": 16
+    },
+    "player_current_hp": 1411,
+    "player_max_hp": 1411,
+    "player_attack_timer": 1.2,
+    "enemy_attack_timer": 1.2,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -67,7 +73,41 @@
       ],
       "god_item_id": null
     },
-    "armor": null,
+    "armor": {
+      "slot": "Armor",
+      "rarity": "Legendary",
+      "ilvl": 30,
+      "tier": 3,
+      "base_name": "Swift Chain Mail",
+      "display_name": "Swift Chain Mail",
+      "attributes": {
+        "str": 0,
+        "dex": 5,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 4
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 3.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 8.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 7.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 9.0
+        }
+      ],
+      "god_item_id": null
+    },
     "helmet": {
       "slot": "Helmet",
       "rarity": "Legendary",
@@ -181,7 +221,41 @@
       ],
       "god_item_id": null
     },
-    "amulet": null,
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Epic",
+      "ilvl": 40,
+      "tier": 1,
+      "base_name": "Necklace of Renewal",
+      "display_name": "Necklace of Renewal",
+      "attributes": {
+        "str": 0,
+        "dex": 3,
+        "con": 4,
+        "int": 4,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 5.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 5.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 6.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 38.0
+        }
+      ],
+      "god_item_id": null
+    },
     "ring": {
       "slot": "Ring",
       "rarity": "Legendary",
@@ -224,25 +298,74 @@
   },
   "fishing": {
     "rank": 31,
-    "total_fish_caught": 42964,
-    "fish_toward_next_rank": 3446,
-    "legendary_catches": 812
+    "total_fish_caught": 43254,
+    "fish_toward_next_rank": 3736,
+    "legendary_catches": 819
   },
   "zone_progression": {
-    "current_zone_id": 1,
-    "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "current_zone_id": 4,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ]
+    ],
     "unlocked_zones": [
       1,
       2,
       3,
       4
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 3,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 79287,
+  "stormglass": 77288,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
