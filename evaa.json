@@ -19,9 +19,15 @@
   "last_save_time": 1772401499,
   "play_time_seconds": 1056713,
   "combat_state": {
-    "current_enemy": null,
+    "current_enemy": {
+      "name": "Flower Boar",
+      "max_hp": 51,
+      "current_hp": 51,
+      "damage": 7,
+      "defense": 0
+    },
     "player_current_hp": 50,
-    "player_max_hp": 50,
+    "player_max_hp": 1181,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
