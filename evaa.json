@@ -2,30 +2,30 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 19,
+  "character_xp": 7153,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      17,
+      16,
+      20,
+      24,
+      16,
+      21
     ]
   },
   "prestige_rank": 4,
   "total_prestige_count": 126,
-  "last_save_time": 1772337473,
-  "play_time_seconds": 953760,
+  "last_save_time": 1772337647,
+  "play_time_seconds": 953929,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
+    "player_current_hp": 1081,
+    "player_max_hp": 1127,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": false
+    "is_regenerating": true
   },
   "equipment": {
     "weapon": {
@@ -181,7 +181,37 @@
       ],
       "god_item_id": null
     },
-    "amulet": null,
+    "amulet": {
+      "slot": "Amulet",
+      "rarity": "Rare",
+      "ilvl": 10,
+      "tier": 2,
+      "base_name": "Sturdy Talisman",
+      "display_name": "Sturdy Talisman",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 2,
+        "wis": 0,
+        "cha": 2
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 16.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 1.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 2.0
+        }
+      ],
+      "god_item_id": null
+    },
     "ring": {
       "slot": "Ring",
       "rarity": "Legendary",
@@ -224,14 +254,27 @@
   },
   "fishing": {
     "rank": 31,
-    "total_fish_caught": 41502,
-    "fish_toward_next_rank": 1984,
+    "total_fish_caught": 41506,
+    "fish_toward_next_rank": 1988,
     "legendary_catches": 779
   },
   "zone_progression": {
-    "current_zone_id": 1,
+    "current_zone_id": 2,
     "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ],
     "unlocked_zones": [
       1,
       2,
@@ -241,7 +284,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 51910,
+  "stormglass": 52023,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
