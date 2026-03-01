@@ -2,33 +2,67 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 228,
+  "character_xp": 122974,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      90,
+      90,
+      90,
+      90,
+      90,
+      90
     ]
   },
   "prestige_rank": 14,
   "total_prestige_count": 136,
-  "last_save_time": 1772401477,
-  "play_time_seconds": 1042300,
+  "last_save_time": 1772401495,
+  "play_time_seconds": 1056709,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
+    "player_current_hp": 1773,
+    "player_max_hp": 1773,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
-    "regen_timer": 0.0,
-    "is_regenerating": false
+    "regen_timer": 0.1,
+    "is_regenerating": true
   },
   "equipment": {
-    "weapon": null,
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Legendary",
+      "ilvl": 60,
+      "tier": 5,
+      "base_name": "Sturdy Spear",
+      "display_name": "Sturdy Spear",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 8,
+        "int": 0,
+        "wis": 8,
+        "cha": 12
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 155.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 14.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 12.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 13.0
+        }
+      ],
+      "god_item_id": null
+    },
     "armor": {
       "slot": "Armor",
       "rarity": "Legendary",
@@ -107,42 +141,76 @@
       ],
       "god_item_id": null
     },
-    "gloves": null,
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "ilvl": 60,
+      "tier": 5,
+      "base_name": "Gauntlets of Power",
+      "display_name": "Gauntlets of Power",
+      "attributes": {
+        "str": 0,
+        "dex": 10,
+        "con": 0,
+        "int": 0,
+        "wis": 22,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 12.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 19.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 16.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 15.0
+        }
+      ],
+      "god_item_id": null
+    },
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
       "ilvl": 60,
-      "tier": 9,
-      "base_name": "Shoes of Learning",
-      "display_name": "Shoes of Learning",
+      "tier": 6,
+      "base_name": "Sturdy Greaves",
+      "display_name": "Sturdy Greaves",
       "attributes": {
-        "str": 0,
+        "str": 9,
         "dex": 11,
         "con": 0,
-        "int": 11,
+        "int": 0,
         "wis": 0,
         "cha": 0
       },
       "affixes": [
         {
-          "affix_type": "XPGain",
-          "value": 25.0
+          "affix_type": "HPBonus",
+          "value": 146.0
         },
         {
-          "affix_type": "HPRegen",
-          "value": 23.0
-        },
-        {
-          "affix_type": "CritMultiplier",
-          "value": 0.87
+          "affix_type": "DamagePercent",
+          "value": 14.0
         },
         {
           "affix_type": "HPBonus",
-          "value": 178.0
+          "value": 121.0
         },
         {
-          "affix_type": "DamageReflection",
-          "value": 26.0
+          "affix_type": "CritMultiplier",
+          "value": 0.48
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 20.0
         }
       ],
       "god_item_id": null
@@ -224,14 +292,95 @@
   },
   "fishing": {
     "rank": 32,
-    "total_fish_caught": 46460,
-    "fish_toward_next_rank": 2942,
-    "legendary_catches": 894
+    "total_fish_caught": 47344,
+    "fish_toward_next_rank": 3826,
+    "legendary_catches": 918
   },
   "zone_progression": {
-    "current_zone_id": 1,
-    "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "current_zone_id": 6,
+    "current_subzone_id": 4,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        4
+      ]
+    ],
     "unlocked_zones": [
       1,
       2,
@@ -240,11 +389,11 @@
       5,
       6
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 5,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 43804,
+  "stormglass": 35805,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
