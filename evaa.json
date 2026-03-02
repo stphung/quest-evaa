@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 48,
-  "character_xp": 33220,
+  "character_level": 57,
+  "character_xp": 25247,
   "attributes": {
     "values": [
-      26,
-      37,
+      32,
+      40,
+      43,
       39,
-      35,
-      30,
-      34
+      37,
+      37
     ]
   },
   "prestige_rank": 15,
   "total_prestige_count": 142,
-  "last_save_time": 1772423803,
-  "play_time_seconds": 1125472,
+  "last_save_time": 1772424220,
+  "play_time_seconds": 1125869,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 2134,
-    "player_max_hp": 2191,
+    "player_current_hp": 2053,
+    "player_max_hp": 2281,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -261,22 +261,30 @@
     "ring": {
       "slot": "Ring",
       "rarity": "Legendary",
-      "ilvl": 60,
-      "tier": 3,
-      "base_name": "Ring of Vitality",
-      "display_name": "Ring of Vitality",
+      "ilvl": 50,
+      "tier": 6,
+      "base_name": "Ring of Power",
+      "display_name": "Ring of Power",
       "attributes": {
         "str": 0,
-        "dex": 8,
-        "con": 0,
+        "dex": 0,
+        "con": 7,
         "int": 0,
-        "wis": 20,
+        "wis": 9,
         "cha": 0
       },
       "affixes": [
         {
+          "affix_type": "DamagePercent",
+          "value": 16.0
+        },
+        {
           "affix_type": "HPBonus",
-          "value": 112.0
+          "value": 125.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 15.0
         },
         {
           "affix_type": "DamagePercent",
@@ -284,11 +292,7 @@
         },
         {
           "affix_type": "HPBonus",
-          "value": 110.0
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 12.0
+          "value": 137.0
         }
       ],
       "god_item_id": null
@@ -296,12 +300,12 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 51234,
-    "fish_toward_next_rank": 1716,
-    "legendary_catches": 1011
+    "total_fish_caught": 51250,
+    "fish_toward_next_rank": 1732,
+    "legendary_catches": 1012
   },
   "zone_progression": {
-    "current_zone_id": 5,
+    "current_zone_id": 6,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -351,6 +355,22 @@
       [
         4,
         3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        4
       ]
     ],
     "unlocked_zones": [
@@ -367,7 +387,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 21650,
+  "stormglass": 22926,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
