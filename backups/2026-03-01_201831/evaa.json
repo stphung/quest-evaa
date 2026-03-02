@@ -2,69 +2,69 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 136,
-  "character_xp": 36412,
+  "character_level": 74,
+  "character_xp": 9793,
   "attributes": {
     "values": [
-      61,
-      84,
-      88,
-      72,
-      79,
-      81
+      39,
+      46,
+      50,
+      43,
+      48,
+      53
     ]
   },
-  "prestige_rank": 14,
+  "prestige_rank": 15,
   "total_prestige_count": 142,
-  "last_save_time": 1772431464,
-  "play_time_seconds": 1129725,
+  "last_save_time": 1772425107,
+  "play_time_seconds": 1126703,
   "combat_state": {
     "current_enemy": {
-      "name": "Tidal Kraken",
-      "max_hp": 742,
-      "current_hp": 276,
-      "damage": 104,
+      "name": "Deep Kraken",
+      "max_hp": 701,
+      "current_hp": 175,
+      "damage": 110,
       "defense": 53
     },
-    "player_current_hp": 2969,
-    "player_max_hp": 2969,
-    "player_attack_timer": 0.30000000000000004,
-    "enemy_attack_timer": 1.6000000000000003,
+    "player_current_hp": 2321,
+    "player_max_hp": 2321,
+    "player_attack_timer": 0.5,
+    "enemy_attack_timer": 1.8000000000000005,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
   "equipment": {
     "weapon": {
       "slot": "Weapon",
-      "rarity": "Legendary",
-      "ilvl": 80,
+      "rarity": "Epic",
+      "ilvl": 40,
       "tier": 4,
-      "base_name": "Mace of Thorns",
-      "display_name": "Mace of Thorns",
+      "base_name": "Mace of Carnage",
+      "display_name": "Mace of Carnage",
       "attributes": {
-        "str": 0,
+        "str": 5,
         "dex": 0,
-        "con": 9,
+        "con": 0,
         "int": 0,
         "wis": 0,
-        "cha": 0
+        "cha": 5
       },
       "affixes": [
         {
-          "affix_type": "DamageReflection",
-          "value": 19.0
+          "affix_type": "CritMultiplier",
+          "value": 0.24
         },
         {
-          "affix_type": "DamageReduction",
-          "value": 15.0
+          "affix_type": "HPRegen",
+          "value": 6.0
         },
         {
-          "affix_type": "DamagePercent",
-          "value": 21.0
+          "affix_type": "XPGain",
+          "value": 8.0
         },
         {
           "affix_type": "HPBonus",
-          "value": 163.0
+          "value": 57.0
         }
       ],
       "god_item_id": null
@@ -150,38 +150,38 @@
     "gloves": {
       "slot": "Gloves",
       "rarity": "Legendary",
-      "ilvl": 80,
-      "tier": 6,
-      "base_name": "Armored Mitts",
-      "display_name": "Armored Mitts",
+      "ilvl": 30,
+      "tier": 0,
+      "base_name": "Handwraps of Protection",
+      "display_name": "Handwraps of Protection",
       "attributes": {
         "str": 0,
         "dex": 0,
-        "con": 0,
-        "int": 16,
-        "wis": 13,
-        "cha": 11
+        "con": 3,
+        "int": 3,
+        "wis": 0,
+        "cha": 4
       },
       "affixes": [
         {
           "affix_type": "DamageReduction",
-          "value": 20.0
+          "value": 4.0
         },
         {
           "affix_type": "HPBonus",
-          "value": 137.0
+          "value": 40.0
         },
         {
-          "affix_type": "HPBonus",
-          "value": 194.0
+          "affix_type": "AttackSpeed",
+          "value": 1.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 6.0
         },
         {
           "affix_type": "XPGain",
-          "value": 26.0
-        },
-        {
-          "affix_type": "DamageReduction",
-          "value": 23.0
+          "value": 4.0
         }
       ],
       "god_item_id": null
@@ -306,9 +306,9 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 51430,
-    "fish_toward_next_rank": 1912,
-    "legendary_catches": 1015
+    "total_fish_caught": 51308,
+    "fish_toward_next_rank": 1790,
+    "legendary_catches": 1013
   },
   "zone_progression": {
     "current_zone_id": 8,
@@ -437,11 +437,11 @@
       7,
       8
     ],
-    "kills_in_subzone": 3,
+    "kills_in_subzone": 2,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 28416,
+  "stormglass": 23078,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,

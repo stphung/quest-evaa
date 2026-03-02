@@ -2,34 +2,34 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 136,
-  "character_xp": 36412,
+  "character_level": 135,
+  "character_xp": 156015,
   "attributes": {
     "values": [
       61,
       84,
       88,
-      72,
+      71,
       79,
-      81
+      79
     ]
   },
-  "prestige_rank": 14,
+  "prestige_rank": 15,
   "total_prestige_count": 142,
-  "last_save_time": 1772431464,
-  "play_time_seconds": 1129725,
+  "last_save_time": 1772431431,
+  "play_time_seconds": 1129706,
   "combat_state": {
     "current_enemy": {
-      "name": "Tidal Kraken",
-      "max_hp": 742,
-      "current_hp": 276,
-      "damage": 104,
+      "name": "Coral Kraken",
+      "max_hp": 759,
+      "current_hp": 759,
+      "damage": 121,
       "defense": 53
     },
     "player_current_hp": 2969,
     "player_max_hp": 2969,
     "player_attack_timer": 0.30000000000000004,
-    "enemy_attack_timer": 1.6000000000000003,
+    "enemy_attack_timer": 0.30000000000000004,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -437,11 +437,11 @@
       7,
       8
     ],
-    "kills_in_subzone": 3,
+    "kills_in_subzone": 9,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 28416,
+  "stormglass": 28411,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,

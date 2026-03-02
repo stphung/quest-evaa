@@ -3,18 +3,18 @@
   "rooms": {
     "Library": 2,
     "Garden": 2,
+    "TrainingYard": 3,
+    "Hearthstone": 3,
+    "AlchemyLab": 3,
+    "Workshop": 2,
+    "StormForge": 0,
     "WarRoom": 2,
     "TrophyHall": 2,
-    "StormForge": 0,
     "Watchtower": 2,
     "Vault": 3,
-    "Bedroom": 3,
-    "Armory": 3,
     "FishingDock": 4,
-    "Workshop": 2,
-    "AlchemyLab": 3,
-    "TrainingYard": 3,
-    "Hearthstone": 3
+    "Armory": 3,
+    "Bedroom": 3
   },
   "last_vault_selections": [
     "Ring",
