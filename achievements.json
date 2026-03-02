@@ -263,7 +263,7 @@
       "target": 10
     },
     "SlayerXIII": {
-      "current": 191943,
+      "current": 191944,
       "target": 100000000
     },
     "DeepMissionsL": {
@@ -299,7 +299,7 @@
       "target": 300
     },
     "SlayerXIV": {
-      "current": 191943,
+      "current": 191944,
       "target": 500000000
     },
     "GoneFishing": {
@@ -343,7 +343,7 @@
       "target": 5000
     },
     "SlayerX": {
-      "current": 191943,
+      "current": 191944,
       "target": 2500000
     },
     "FishCatcherVI": {
@@ -363,7 +363,7 @@
       "target": 1000000
     },
     "SlayerIX": {
-      "current": 191943,
+      "current": 191944,
       "target": 1000000
     },
     "FishCatcherII": {
@@ -403,7 +403,7 @@
       "target": 10000
     },
     "SlayerXI": {
-      "current": 191943,
+      "current": 191944,
       "target": 10000000
     },
     "Level100": {
@@ -415,7 +415,7 @@
       "target": 250
     },
     "SlayerXV": {
-      "current": 191943,
+      "current": 191944,
       "target": 1000000000
     },
     "DungeonMasterVIII": {
@@ -491,7 +491,7 @@
       "target": 200
     },
     "SlayerVIII": {
-      "current": 191943,
+      "current": 191944,
       "target": 500000
     },
     "PrestigeXX": {
@@ -619,7 +619,7 @@
       "target": 500
     },
     "SlayerXII": {
-      "current": 191943,
+      "current": 191944,
       "target": 50000000
     },
     "Level1000": {
@@ -687,7 +687,7 @@
       "target": 50000000
     }
   },
-  "total_kills": 191943,
+  "total_kills": 191944,
   "total_bosses_defeated": 16184,
   "total_fish_caught": 57695,
   "total_dungeons_completed": 1367,
