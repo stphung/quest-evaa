@@ -255,7 +255,7 @@
       "target": 30
     },
     "FishCatcherVI": {
-      "current": 57913,
+      "current": 57915,
       "target": 1000000
     },
     "BossHunterI": {
@@ -307,7 +307,7 @@
       "target": 5
     },
     "FishCatcherIX": {
-      "current": 57913,
+      "current": 57915,
       "target": 50000000
     },
     "SlayerIV": {
@@ -323,7 +323,7 @@
       "target": 100
     },
     "FishCatcherVIII": {
-      "current": 57913,
+      "current": 57915,
       "target": 10000000
     },
     "BossHunterXI": {
@@ -475,7 +475,7 @@
       "target": 1000000
     },
     "FishCatcherIV": {
-      "current": 57913,
+      "current": 57915,
       "target": 100000
     },
     "DungeonMasterVIII": {
@@ -487,7 +487,7 @@
       "target": 100
     },
     "FishCatcherVII": {
-      "current": 57913,
+      "current": 57915,
       "target": 5000000
     },
     "VoidExplorer": {
@@ -583,7 +583,7 @@
       "target": 5000000
     },
     "FishCatcherX": {
-      "current": 57913,
+      "current": 57915,
       "target": 100000000
     },
     "Level7500": {
@@ -659,7 +659,7 @@
       "target": 1000000
     },
     "FishCatcherV": {
-      "current": 57913,
+      "current": 57915,
       "target": 500000
     },
     "DungeonMasterIV": {
@@ -689,7 +689,7 @@
   },
   "total_kills": 192779,
   "total_bosses_defeated": 16257,
-  "total_fish_caught": 57913,
+  "total_fish_caught": 57915,
   "total_dungeons_completed": 1371,
   "total_minigame_wins": 11,
   "highest_prestige_rank": 19,
