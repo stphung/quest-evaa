@@ -5,12 +5,12 @@
     5,
     5,
     5,
-    4,
+    3,
     4,
     4
   ],
-  "total_attempts": 33,
+  "total_attempts": 34,
   "total_successes": 33,
-  "total_failures": 0,
+  "total_failures": 1,
   "highest_level_reached": 6
 }
