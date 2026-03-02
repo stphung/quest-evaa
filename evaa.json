@@ -2,30 +2,36 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 15,
-  "character_xp": 5560,
+  "character_level": 18,
+  "character_xp": 301,
   "attributes": {
     "values": [
       17,
       16,
       15,
-      20,
-      17,
+      23,
+      23,
       17
     ]
   },
-  "prestige_rank": 2,
+  "prestige_rank": 0,
   "total_prestige_count": 166,
-  "last_save_time": 1772437463,
-  "play_time_seconds": 1135255,
+  "last_save_time": 1772437506,
+  "play_time_seconds": 1135294,
   "combat_state": {
-    "current_enemy": null,
+    "current_enemy": {
+      "name": "Forest Wolf",
+      "max_hp": 100,
+      "current_hp": 100,
+      "damage": 16,
+      "defense": 3
+    },
     "player_current_hp": 2381,
     "player_max_hp": 2381,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "player_attack_timer": 0.6,
+    "enemy_attack_timer": 0.6,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
     "weapon": {
@@ -275,13 +281,13 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 51820,
-    "fish_toward_next_rank": 2302,
+    "total_fish_caught": 51824,
+    "fish_toward_next_rank": 2306,
     "legendary_catches": 1029
   },
   "zone_progression": {
     "current_zone_id": 2,
-    "current_subzone_id": 1,
+    "current_subzone_id": 2,
     "defeated_bosses": [
       [
         1,
@@ -294,17 +300,21 @@
       [
         1,
         3
+      ],
+      [
+        2,
+        1
       ]
     ],
     "unlocked_zones": [
       1,
       2
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 3,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 30437,
+  "stormglass": 30439,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
