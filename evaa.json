@@ -2,30 +2,30 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 7,
-  "character_xp": 665,
+  "character_level": 1,
+  "character_xp": 0,
   "attributes": {
     "values": [
-      14,
-      15,
-      14,
-      11,
-      12,
-      12
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
     ]
   },
-  "prestige_rank": 0,
-  "total_prestige_count": 156,
-  "last_save_time": 1772434123,
-  "play_time_seconds": 1132228,
+  "prestige_rank": 1,
+  "total_prestige_count": 157,
+  "last_save_time": 1772434166,
+  "play_time_seconds": 1132269,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 2204,
-    "player_max_hp": 2204,
+    "player_current_hp": 50,
+    "player_max_hp": 50,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
-    "regen_timer": 0.2,
-    "is_regenerating": true
+    "regen_timer": 0.0,
+    "is_regenerating": false
   },
   "equipment": {
     "weapon": null,
@@ -107,29 +107,7 @@
       ],
       "god_item_id": null
     },
-    "gloves": {
-      "slot": "Gloves",
-      "rarity": "Magic",
-      "ilvl": 10,
-      "tier": 5,
-      "base_name": "Fine Gauntlets",
-      "display_name": "Fine Gauntlets",
-      "attributes": {
-        "str": 0,
-        "dex": 0,
-        "con": 0,
-        "int": 1,
-        "wis": 1,
-        "cha": 1
-      },
-      "affixes": [
-        {
-          "affix_type": "CritMultiplier",
-          "value": 0.04
-        }
-      ],
-      "god_item_id": null
-    },
+    "gloves": null,
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -262,11 +240,11 @@
       1,
       2
     ],
-    "kills_in_subzone": 8,
+    "kills_in_subzone": 0,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 29856,
+  "stormglass": 29859,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
