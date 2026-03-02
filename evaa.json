@@ -2,34 +2,28 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 5,
-  "character_xp": 917,
+  "character_level": 1,
+  "character_xp": 0,
   "attributes": {
     "values": [
-      11,
-      13,
-      12,
-      12,
-      12,
-      12
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
     ]
   },
-  "prestige_rank": 0,
-  "total_prestige_count": 146,
-  "last_save_time": 1772433408,
-  "play_time_seconds": 1131574,
+  "prestige_rank": 1,
+  "total_prestige_count": 147,
+  "last_save_time": 1772433457,
+  "play_time_seconds": 1131619,
   "combat_state": {
-    "current_enemy": {
-      "name": "Flower Wasp",
-      "max_hp": 60,
-      "current_hp": 60,
-      "damage": 7,
-      "defense": 0
-    },
-    "player_current_hp": 2068,
-    "player_max_hp": 2068,
-    "player_attack_timer": 0.4,
-    "enemy_attack_timer": 0.4,
+    "current_enemy": null,
+    "player_current_hp": 50,
+    "player_max_hp": 50,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -234,8 +228,8 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 51534,
-    "fish_toward_next_rank": 2016,
+    "total_fish_caught": 51540,
+    "fish_toward_next_rank": 2022,
     "legendary_catches": 1018
   },
   "zone_progression": {
@@ -246,11 +240,11 @@
       1,
       2
     ],
-    "kills_in_subzone": 4,
+    "kills_in_subzone": 0,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 29746,
+  "stormglass": 29757,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
