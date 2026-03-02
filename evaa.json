@@ -2,33 +2,63 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 13,
+  "character_xp": 2703,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      13,
+      20,
+      13,
+      19,
+      13,
+      18
     ]
   },
   "prestige_rank": 2,
   "total_prestige_count": 162,
-  "last_save_time": 1772436069,
-  "play_time_seconds": 1133995,
+  "last_save_time": 1772436134,
+  "play_time_seconds": 1134055,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
+    "player_current_hp": 2301,
+    "player_max_hp": 2301,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": false
+    "is_regenerating": true
   },
   "equipment": {
-    "weapon": null,
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Rare",
+      "ilvl": 10,
+      "tier": 6,
+      "base_name": "Greatsword of Carnage",
+      "display_name": "Greatsword of Carnage",
+      "attributes": {
+        "str": 2,
+        "dex": 2,
+        "con": 0,
+        "int": 2,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.08
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 3.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 2.0
+        }
+      ],
+      "god_item_id": null
+    },
     "armor": {
       "slot": "Armor",
       "rarity": "Legendary",
@@ -233,9 +263,22 @@
     "legendary_catches": 1023
   },
   "zone_progression": {
-    "current_zone_id": 1,
+    "current_zone_id": 2,
     "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ],
     "unlocked_zones": [
       1,
       2
@@ -244,7 +287,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 30162,
+  "stormglass": 30166,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
