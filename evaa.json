@@ -14,18 +14,24 @@
       15
     ]
   },
-  "prestige_rank": 1,
+  "prestige_rank": 0,
   "total_prestige_count": 174,
-  "last_save_time": 1772442475,
-  "play_time_seconds": 1139551,
+  "last_save_time": 1772442477,
+  "play_time_seconds": 1139553,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 2395,
-    "player_max_hp": 2395,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Thorn Wisp",
+      "max_hp": 83,
+      "current_hp": 83,
+      "damage": 14,
+      "defense": 2
+    },
+    "player_current_hp": 2405,
+    "player_max_hp": 2405,
+    "player_attack_timer": 1.2,
+    "enemy_attack_timer": 1.2,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
     "weapon": {
