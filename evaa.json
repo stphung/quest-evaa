@@ -2,26 +2,32 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 5,
+  "character_xp": 703,
   "attributes": {
     "values": [
       10,
-      10,
-      10,
-      10,
-      10,
-      10
+      13,
+      13,
+      12,
+      12,
+      12
     ]
   },
-  "prestige_rank": 1,
+  "prestige_rank": 0,
   "total_prestige_count": 151,
-  "last_save_time": 1772433734,
-  "play_time_seconds": 1131882,
+  "last_save_time": 1772433742,
+  "play_time_seconds": 1131889,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
+    "current_enemy": {
+      "name": "Field Toad",
+      "max_hp": 56,
+      "current_hp": 56,
+      "damage": 7,
+      "defense": 0
+    },
+    "player_current_hp": 2157,
+    "player_max_hp": 2157,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -240,11 +246,11 @@
       1,
       2
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 4,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 29816,
+  "stormglass": 29818,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
