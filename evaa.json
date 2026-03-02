@@ -2,30 +2,30 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 5,
+  "character_xp": 990,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
+      13,
+      11,
+      13,
+      12,
+      13,
       10
     ]
   },
-  "prestige_rank": 1,
+  "prestige_rank": 0,
   "total_prestige_count": 153,
-  "last_save_time": 1772433901,
-  "play_time_seconds": 1132039,
+  "last_save_time": 1772433911,
+  "play_time_seconds": 1132048,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
+    "player_current_hp": 2177,
+    "player_max_hp": 2185,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
-    "regen_timer": 0.0,
-    "is_regenerating": false
+    "regen_timer": 0.1,
+    "is_regenerating": true
   },
   "equipment": {
     "weapon": null,
@@ -107,7 +107,24 @@
       ],
       "god_item_id": null
     },
-    "gloves": null,
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Common",
+      "ilvl": 10,
+      "tier": 0,
+      "base_name": "Mitts",
+      "display_name": "Mitts",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 1,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [],
+      "god_item_id": null
+    },
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -240,7 +257,7 @@
       1,
       2
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 5,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
