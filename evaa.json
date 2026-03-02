@@ -2,44 +2,50 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 12,
-  "character_xp": 3585,
+  "character_level": 18,
+  "character_xp": 6307,
   "attributes": {
     "values": [
-      15,
-      15,
-      17,
-      17,
-      15,
-      14
+      19,
+      18,
+      19,
+      20,
+      18,
+      17
     ]
   },
-  "prestige_rank": 1,
+  "prestige_rank": 0,
   "total_prestige_count": 169,
-  "last_save_time": 1772438917,
-  "play_time_seconds": 1136577,
+  "last_save_time": 1772439049,
+  "play_time_seconds": 1136693,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 2363,
-    "player_max_hp": 2364,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Broodmother Arachne",
+      "max_hp": 540,
+      "current_hp": 540,
+      "damage": 30,
+      "defense": 10
+    },
+    "player_current_hp": 2384,
+    "player_max_hp": 2384,
+    "player_attack_timer": 0.7,
+    "enemy_attack_timer": 0.7,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
     "weapon": {
       "slot": "Weapon",
       "rarity": "Common",
-      "ilvl": 10,
+      "ilvl": 20,
       "tier": 3,
       "base_name": "Greatsword",
       "display_name": "Greatsword",
       "attributes": {
         "str": 0,
-        "dex": 0,
+        "dex": 1,
         "con": 0,
-        "int": 0,
+        "int": 1,
         "wis": 0,
         "cha": 1
       },
@@ -124,7 +130,37 @@
       ],
       "god_item_id": null
     },
-    "gloves": null,
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Rare",
+      "ilvl": 20,
+      "tier": 5,
+      "base_name": "Handwraps of Carnage",
+      "display_name": "Handwraps of Carnage",
+      "attributes": {
+        "str": 6,
+        "dex": 0,
+        "con": 2,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.14
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 4.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.12
+        }
+      ],
+      "god_item_id": null
+    },
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -245,13 +281,13 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 51954,
-    "fish_toward_next_rank": 2436,
+    "total_fish_caught": 51964,
+    "fish_toward_next_rank": 2446,
     "legendary_catches": 1029
   },
   "zone_progression": {
     "current_zone_id": 2,
-    "current_subzone_id": 1,
+    "current_subzone_id": 3,
     "defeated_bosses": [
       [
         1,
@@ -264,17 +300,29 @@
       [
         1,
         3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
       ]
     ],
     "unlocked_zones": [
       1,
       2
     ],
-    "kills_in_subzone": 0,
-    "fighting_boss": false,
+    "kills_in_subzone": 10,
+    "fighting_boss": true,
     "has_stormbreaker": false
   },
-  "stormglass": 30682,
+  "stormglass": 30699,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
