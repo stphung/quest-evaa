@@ -2,34 +2,28 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 5,
-  "character_xp": 774,
+  "character_level": 1,
+  "character_xp": 0,
   "attributes": {
     "values": [
       10,
-      13,
       10,
-      12,
-      14,
-      13
+      10,
+      10,
+      10,
+      10
     ]
   },
-  "prestige_rank": 0,
-  "total_prestige_count": 155,
-  "last_save_time": 1772434038,
-  "play_time_seconds": 1132169,
+  "prestige_rank": 1,
+  "total_prestige_count": 156,
+  "last_save_time": 1772434108,
+  "play_time_seconds": 1132214,
   "combat_state": {
-    "current_enemy": {
-      "name": "Flower Toad",
-      "max_hp": 58,
-      "current_hp": 58,
-      "damage": 6,
-      "defense": 0
-    },
-    "player_current_hp": 2165,
-    "player_max_hp": 2165,
-    "player_attack_timer": 0.6,
-    "enemy_attack_timer": 0.6,
+    "current_enemy": null,
+    "player_current_hp": 50,
+    "player_max_hp": 50,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -113,24 +107,7 @@
       ],
       "god_item_id": null
     },
-    "gloves": {
-      "slot": "Gloves",
-      "rarity": "Common",
-      "ilvl": 10,
-      "tier": 5,
-      "base_name": "Gauntlets",
-      "display_name": "Gauntlets",
-      "attributes": {
-        "str": 0,
-        "dex": 0,
-        "con": 1,
-        "int": 0,
-        "wis": 1,
-        "cha": 0
-      },
-      "affixes": [],
-      "god_item_id": null
-    },
+    "gloves": null,
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -263,11 +240,11 @@
       1,
       2
     ],
-    "kills_in_subzone": 4,
+    "kills_in_subzone": 0,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 29850,
+  "stormglass": 29855,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
