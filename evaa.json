@@ -2,28 +2,34 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 5,
+  "character_xp": 1117,
   "attributes": {
     "values": [
+      11,
+      12,
       10,
-      10,
-      10,
-      10,
-      10,
-      10
+      12,
+      15,
+      12
     ]
   },
-  "prestige_rank": 1,
+  "prestige_rank": 0,
   "total_prestige_count": 150,
-  "last_save_time": 1772433682,
-  "play_time_seconds": 1131832,
+  "last_save_time": 1772433691,
+  "play_time_seconds": 1131840,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Meadow Beetle",
+      "max_hp": 51,
+      "current_hp": 51,
+      "damage": 7,
+      "defense": 0
+    },
+    "player_current_hp": 2121,
+    "player_max_hp": 2121,
+    "player_attack_timer": 0.9999999999999999,
+    "enemy_attack_timer": 0.9999999999999999,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -107,7 +113,24 @@
       ],
       "god_item_id": null
     },
-    "gloves": null,
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Common",
+      "ilvl": 10,
+      "tier": 0,
+      "base_name": "Gloves",
+      "display_name": "Gloves",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 2,
+        "wis": 0,
+        "cha": 1
+      },
+      "affixes": [],
+      "god_item_id": null
+    },
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -240,7 +263,7 @@
       1,
       2
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 4,
     "fighting_boss": false,
     "has_stormbreaker": false
   },

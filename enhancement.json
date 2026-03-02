@@ -2,15 +2,15 @@
   "discovered": true,
   "levels": [
     6,
-    3,
+    4,
     2,
     2,
     2,
     2,
     2
   ],
-  "total_attempts": 19,
-  "total_successes": 19,
+  "total_attempts": 20,
+  "total_successes": 20,
   "total_failures": 0,
   "highest_level_reached": 6
 }
