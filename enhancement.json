@@ -4,13 +4,13 @@
     6,
     2,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
-  "total_attempts": 9,
-  "total_successes": 9,
+  "total_attempts": 10,
+  "total_successes": 10,
   "total_failures": 0,
   "highest_level_reached": 6
 }

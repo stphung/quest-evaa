@@ -2,34 +2,34 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 10,
-  "character_xp": 496,
+  "character_level": 11,
+  "character_xp": 1398,
   "attributes": {
     "values": [
-      13,
       14,
-      18,
+      15,
+      19,
       13,
       16,
       13
     ]
   },
-  "prestige_rank": 4,
+  "prestige_rank": 3,
   "total_prestige_count": 143,
-  "last_save_time": 1772433262,
-  "play_time_seconds": 1131435,
+  "last_save_time": 1772433269,
+  "play_time_seconds": 1131442,
   "combat_state": {
     "current_enemy": {
-      "name": "Meadow Rabbit",
-      "max_hp": 63,
-      "current_hp": 63,
-      "damage": 8,
+      "name": "Meadow Wasp",
+      "max_hp": 60,
+      "current_hp": 60,
+      "damage": 9,
       "defense": 0
     },
-    "player_current_hp": 2036,
-    "player_max_hp": 2036,
-    "player_attack_timer": 0.4,
-    "enemy_attack_timer": 0.4,
+    "player_current_hp": 2050,
+    "player_max_hp": 2050,
+    "player_attack_timer": 0.30000000000000004,
+    "enemy_attack_timer": 0.30000000000000004,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -283,11 +283,11 @@
       3,
       4
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 4,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 29709,
+  "stormglass": 29717,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
