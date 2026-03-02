@@ -2,33 +2,69 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 6,
+  "character_xp": 858,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      13,
+      12,
+      14,
+      11,
+      13,
+      12
     ]
   },
-  "prestige_rank": 1,
+  "prestige_rank": 0,
   "total_prestige_count": 145,
-  "last_save_time": 1772433354,
-  "play_time_seconds": 1131522,
+  "last_save_time": 1772433366,
+  "play_time_seconds": 1131534,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Meadow Toad",
+      "max_hp": 51,
+      "current_hp": 51,
+      "damage": 7,
+      "defense": 0
+    },
+    "player_current_hp": 2055,
+    "player_max_hp": 2055,
+    "player_attack_timer": 0.5,
+    "enemy_attack_timer": 0.5,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
   "equipment": {
-    "weapon": null,
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Epic",
+      "ilvl": 10,
+      "tier": 3,
+      "base_name": "Dagger of Thorns",
+      "display_name": "Dagger of Thorns",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 4,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReflection",
+          "value": 3.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.15
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 3.0
+        }
+      ],
+      "god_item_id": null
+    },
     "armor": {
       "slot": "Armor",
       "rarity": "Legendary",
@@ -240,11 +276,11 @@
       1,
       2
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 6,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 29731,
+  "stormglass": 29732,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
