@@ -2,33 +2,56 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 14,
+  "character_xp": 2861,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      16,
+      20,
+      17,
+      18,
+      13,
+      15
     ]
   },
-  "prestige_rank": 3,
+  "prestige_rank": 1,
   "total_prestige_count": 174,
-  "last_save_time": 1772442376,
-  "play_time_seconds": 1139458,
+  "last_save_time": 1772442469,
+  "play_time_seconds": 1139545,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Meadow Toad",
+      "max_hp": 70,
+      "current_hp": 70,
+      "damage": 11,
+      "defense": 0
+    },
+    "player_current_hp": 2435,
+    "player_max_hp": 2435,
+    "player_attack_timer": 0.7999999999999999,
+    "enemy_attack_timer": 0.7999999999999999,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
   "equipment": {
-    "weapon": null,
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Common",
+      "ilvl": 10,
+      "tier": 4,
+      "base_name": "Dagger",
+      "display_name": "Dagger",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 1
+      },
+      "affixes": [],
+      "god_item_id": null
+    },
     "armor": {
       "slot": "Armor",
       "rarity": "Legendary",
@@ -228,23 +251,32 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 52206,
-    "fish_toward_next_rank": 2688,
+    "total_fish_caught": 52216,
+    "fish_toward_next_rank": 2698,
     "legendary_catches": 1033
   },
   "zone_progression": {
     "current_zone_id": 1,
-    "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
     "unlocked_zones": [
       1,
       2
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 7,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 31918,
+  "stormglass": 31935,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
