@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 40,
-  "character_xp": 1807,
+  "character_level": 48,
+  "character_xp": 33220,
   "attributes": {
     "values": [
-      25,
-      31,
-      33,
-      34,
-      24,
-      30
+      26,
+      37,
+      39,
+      35,
+      30,
+      34
     ]
   },
   "prestige_rank": 15,
   "total_prestige_count": 142,
-  "last_save_time": 1772423502,
-  "play_time_seconds": 1125182,
+  "last_save_time": 1772423803,
+  "play_time_seconds": 1125472,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 2080,
-    "player_max_hp": 2083,
+    "player_current_hp": 2134,
+    "player_max_hp": 2191,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -30,39 +30,35 @@
   "equipment": {
     "weapon": {
       "slot": "Weapon",
-      "rarity": "Legendary",
-      "ilvl": 30,
-      "tier": 0,
-      "base_name": "Greatsword of Protection",
-      "display_name": "Greatsword of Protection",
+      "rarity": "Epic",
+      "ilvl": 40,
+      "tier": 4,
+      "base_name": "Mace of Carnage",
+      "display_name": "Mace of Carnage",
       "attributes": {
-        "str": 0,
-        "dex": 7,
+        "str": 5,
+        "dex": 0,
         "con": 0,
-        "int": 4,
+        "int": 0,
         "wis": 0,
-        "cha": 0
+        "cha": 5
       },
       "affixes": [
         {
-          "affix_type": "DamageReduction",
-          "value": 6.0
+          "affix_type": "CritMultiplier",
+          "value": 0.24
         },
         {
-          "affix_type": "DamageReflection",
+          "affix_type": "HPRegen",
           "value": 6.0
-        },
-        {
-          "affix_type": "DamageReduction",
-          "value": 4.0
         },
         {
           "affix_type": "XPGain",
-          "value": 5.0
+          "value": 8.0
         },
         {
-          "affix_type": "CritMultiplier",
-          "value": 0.22
+          "affix_type": "HPBonus",
+          "value": 57.0
         }
       ],
       "god_item_id": null
@@ -300,12 +296,12 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 51226,
-    "fish_toward_next_rank": 1708,
+    "total_fish_caught": 51234,
+    "fish_toward_next_rank": 1716,
     "legendary_catches": 1011
   },
   "zone_progression": {
-    "current_zone_id": 4,
+    "current_zone_id": 5,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -343,6 +339,18 @@
       [
         3,
         3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
       ]
     ],
     "unlocked_zones": [
@@ -359,7 +367,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 20884,
+  "stormglass": 21650,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
