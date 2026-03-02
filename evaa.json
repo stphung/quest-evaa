@@ -2,63 +2,39 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 14,
-  "character_xp": 2820,
+  "character_level": 1,
+  "character_xp": 0,
   "attributes": {
     "values": [
-      16,
-      15,
-      21,
-      15,
-      18,
-      14
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
     ]
   },
-  "prestige_rank": 1,
-  "total_prestige_count": 170,
-  "last_save_time": 1772439346,
-  "play_time_seconds": 1136954,
+  "prestige_rank": 2,
+  "total_prestige_count": 171,
+  "last_save_time": 1772439672,
+  "play_time_seconds": 1137259,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 2422,
-    "player_max_hp": 2424,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Field Hare",
+      "max_hp": 55,
+      "current_hp": 55,
+      "damage": 7,
+      "defense": 0
+    },
+    "player_current_hp": 50,
+    "player_max_hp": 2351,
+    "player_attack_timer": 0.2,
+    "enemy_attack_timer": 0.2,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
-    "weapon": {
-      "slot": "Weapon",
-      "rarity": "Epic",
-      "ilvl": 10,
-      "tier": 1,
-      "base_name": "Vicious Dagger",
-      "display_name": "Vicious Dagger",
-      "attributes": {
-        "str": 0,
-        "dex": 0,
-        "con": 2,
-        "int": 0,
-        "wis": 0,
-        "cha": 0
-      },
-      "affixes": [
-        {
-          "affix_type": "CritMultiplier",
-          "value": 0.09
-        },
-        {
-          "affix_type": "AttackSpeed",
-          "value": 1.0
-        },
-        {
-          "affix_type": "AttackSpeed",
-          "value": 1.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "weapon": null,
     "armor": {
       "slot": "Armor",
       "rarity": "Legendary",
@@ -137,37 +113,7 @@
       ],
       "god_item_id": null
     },
-    "gloves": {
-      "slot": "Gloves",
-      "rarity": "Rare",
-      "ilvl": 10,
-      "tier": 2,
-      "base_name": "Cruel Gauntlets",
-      "display_name": "Cruel Gauntlets",
-      "attributes": {
-        "str": 0,
-        "dex": 0,
-        "con": 1,
-        "int": 0,
-        "wis": 0,
-        "cha": 4
-      },
-      "affixes": [
-        {
-          "affix_type": "DamagePercent",
-          "value": 2.0
-        },
-        {
-          "affix_type": "AttackSpeed",
-          "value": 1.0
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 1.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "gloves": null,
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -288,27 +234,14 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 52004,
-    "fish_toward_next_rank": 2486,
+    "total_fish_caught": 52034,
+    "fish_toward_next_rank": 2516,
     "legendary_catches": 1029
   },
   "zone_progression": {
-    "current_zone_id": 2,
+    "current_zone_id": 1,
     "current_subzone_id": 1,
-    "defeated_bosses": [
-      [
-        1,
-        1
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        3
-      ]
-    ],
+    "defeated_bosses": [],
     "unlocked_zones": [
       1,
       2
@@ -317,7 +250,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 30712,
+  "stormglass": 30776,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
