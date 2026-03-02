@@ -2,33 +2,59 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 14,
+  "character_xp": 3752,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      24,
+      15,
+      13,
+      15,
+      13,
+      19
     ]
   },
   "prestige_rank": 1,
   "total_prestige_count": 172,
-  "last_save_time": 1772439773,
-  "play_time_seconds": 1137354,
+  "last_save_time": 1772439868,
+  "play_time_seconds": 1137443,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
+    "player_current_hp": 2402,
+    "player_max_hp": 2402,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": false
+    "is_regenerating": true
   },
   "equipment": {
-    "weapon": null,
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Rare",
+      "ilvl": 10,
+      "tier": 1,
+      "base_name": "Regenerating Dagger",
+      "display_name": "Regenerating Dagger",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 1,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 2.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 1.0
+        }
+      ],
+      "god_item_id": null
+    },
     "armor": {
       "slot": "Armor",
       "rarity": "Legendary",
@@ -228,14 +254,27 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 52048,
-    "fish_toward_next_rank": 2530,
+    "total_fish_caught": 52056,
+    "fish_toward_next_rank": 2538,
     "legendary_catches": 1029
   },
   "zone_progression": {
-    "current_zone_id": 1,
+    "current_zone_id": 2,
     "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ],
     "unlocked_zones": [
       1,
       2
@@ -244,7 +283,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 30796,
+  "stormglass": 30810,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
