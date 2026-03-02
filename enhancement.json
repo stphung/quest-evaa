@@ -3,14 +3,14 @@
   "levels": [
     6,
     2,
-    0,
+    1,
     0,
     0,
     0,
     0
   ],
-  "total_attempts": 8,
-  "total_successes": 8,
+  "total_attempts": 9,
+  "total_successes": 9,
   "total_failures": 0,
   "highest_level_reached": 6
 }

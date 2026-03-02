@@ -2,33 +2,69 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 10,
+  "character_xp": 496,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      13,
+      14,
+      18,
+      13,
+      16,
+      13
     ]
   },
-  "prestige_rank": 5,
+  "prestige_rank": 4,
   "total_prestige_count": 143,
-  "last_save_time": 1772433240,
-  "play_time_seconds": 1131414,
+  "last_save_time": 1772433262,
+  "play_time_seconds": 1131435,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Meadow Rabbit",
+      "max_hp": 63,
+      "current_hp": 63,
+      "damage": 8,
+      "defense": 0
+    },
+    "player_current_hp": 2036,
+    "player_max_hp": 2036,
+    "player_attack_timer": 0.4,
+    "enemy_attack_timer": 0.4,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
   "equipment": {
-    "weapon": null,
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Rare",
+      "ilvl": 10,
+      "tier": 0,
+      "base_name": "Greatsword of Vitality",
+      "display_name": "Greatsword of Vitality",
+      "attributes": {
+        "str": 2,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 1
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 10.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.04
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 1.0
+        }
+      ],
+      "god_item_id": null
+    },
     "armor": {
       "slot": "Armor",
       "rarity": "Legendary",
@@ -234,8 +270,13 @@
   },
   "zone_progression": {
     "current_zone_id": 1,
-    "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "current_subzone_id": 2,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ]
+    ],
     "unlocked_zones": [
       1,
       2,
@@ -246,7 +287,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 29698,
+  "stormglass": 29709,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
