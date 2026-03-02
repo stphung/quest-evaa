@@ -2,30 +2,30 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 4,
+  "character_xp": 309,
   "attributes": {
     "values": [
+      13,
       10,
-      10,
-      10,
-      10,
-      10,
-      10
+      11,
+      13,
+      11,
+      11
     ]
   },
-  "prestige_rank": 1,
+  "prestige_rank": 0,
   "total_prestige_count": 144,
-  "last_save_time": 1772433296,
-  "play_time_seconds": 1131467,
+  "last_save_time": 1772433304,
+  "play_time_seconds": 1131474,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
+    "player_current_hp": 2026,
+    "player_max_hp": 2036,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": false
+    "is_regenerating": true
   },
   "equipment": {
     "weapon": null,
@@ -240,7 +240,7 @@
       1,
       2
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 2,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
