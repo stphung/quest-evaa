@@ -26,10 +26,10 @@
       "damage": 70,
       "defense": 35
     },
-    "player_current_hp": 3005,
-    "player_max_hp": 3005,
-    "player_attack_timer": 0.8999999999999999,
-    "enemy_attack_timer": 0.8999999999999999,
+    "player_current_hp": 2996,
+    "player_max_hp": 2996,
+    "player_attack_timer": 0.9999999999999999,
+    "enemy_attack_timer": 0.9999999999999999,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
