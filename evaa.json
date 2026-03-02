@@ -2,30 +2,30 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 7,
-  "character_xp": 1689,
+  "character_level": 1,
+  "character_xp": 0,
   "attributes": {
     "values": [
-      15,
-      12,
-      15,
-      13,
       10,
-      13
+      10,
+      10,
+      10,
+      10,
+      10
     ]
   },
-  "prestige_rank": 0,
-  "total_prestige_count": 164,
-  "last_save_time": 1772436964,
-  "play_time_seconds": 1134807,
+  "prestige_rank": 1,
+  "total_prestige_count": 165,
+  "last_save_time": 1772437011,
+  "play_time_seconds": 1134850,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 2353,
-    "player_max_hp": 2353,
+    "player_current_hp": 50,
+    "player_max_hp": 50,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
     "weapon": null,
@@ -107,37 +107,7 @@
       ],
       "god_item_id": null
     },
-    "gloves": {
-      "slot": "Gloves",
-      "rarity": "Epic",
-      "ilvl": 10,
-      "tier": 2,
-      "base_name": "Gauntlets of Power",
-      "display_name": "Gauntlets of Power",
-      "attributes": {
-        "str": 2,
-        "dex": 2,
-        "con": 0,
-        "int": 2,
-        "wis": 0,
-        "cha": 0
-      },
-      "affixes": [
-        {
-          "affix_type": "DamagePercent",
-          "value": 3.0
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 3.0
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 2.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "gloves": null,
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -270,11 +240,11 @@
       1,
       2
     ],
-    "kills_in_subzone": 8,
+    "kills_in_subzone": 0,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 30278,
+  "stormglass": 30309,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
