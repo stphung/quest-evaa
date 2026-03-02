@@ -2,30 +2,30 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 15,
-  "character_xp": 5684,
+  "character_level": 1,
+  "character_xp": 0,
   "attributes": {
     "values": [
-      18,
-      15,
-      13,
-      19,
-      19,
-      18
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
     ]
   },
-  "prestige_rank": 1,
-  "total_prestige_count": 163,
-  "last_save_time": 1772436333,
-  "play_time_seconds": 1134241,
+  "prestige_rank": 2,
+  "total_prestige_count": 164,
+  "last_save_time": 1772436949,
+  "play_time_seconds": 1134793,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 2345,
-    "player_max_hp": 2346,
+    "player_current_hp": 50,
+    "player_max_hp": 50,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
     "weapon": null,
@@ -107,37 +107,7 @@
       ],
       "god_item_id": null
     },
-    "gloves": {
-      "slot": "Gloves",
-      "rarity": "Rare",
-      "ilvl": 10,
-      "tier": 6,
-      "base_name": "Deadly Gloves",
-      "display_name": "Deadly Gloves",
-      "attributes": {
-        "str": 0,
-        "dex": 0,
-        "con": 2,
-        "int": 2,
-        "wis": 0,
-        "cha": 0
-      },
-      "affixes": [
-        {
-          "affix_type": "CritChance",
-          "value": 2.0
-        },
-        {
-          "affix_type": "HPRegen",
-          "value": 2.0
-        },
-        {
-          "affix_type": "DamagePercent",
-          "value": 3.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "gloves": null,
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -258,27 +228,14 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 51744,
-    "fish_toward_next_rank": 2226,
-    "legendary_catches": 1024
+    "total_fish_caught": 51812,
+    "fish_toward_next_rank": 2294,
+    "legendary_catches": 1028
   },
   "zone_progression": {
-    "current_zone_id": 2,
+    "current_zone_id": 1,
     "current_subzone_id": 1,
-    "defeated_bosses": [
-      [
-        1,
-        1
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        3
-      ]
-    ],
+    "defeated_bosses": [],
     "unlocked_zones": [
       1,
       2
@@ -287,7 +244,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 30202,
+  "stormglass": 30278,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
