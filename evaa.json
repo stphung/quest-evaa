@@ -2,34 +2,34 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 136,
-  "character_xp": 36412,
+  "character_level": 163,
+  "character_xp": 59781,
   "attributes": {
     "values": [
-      61,
-      84,
-      88,
-      72,
-      79,
-      81
+      90,
+      90,
+      90,
+      90,
+      90,
+      90
     ]
   },
-  "prestige_rank": 14,
+  "prestige_rank": 10,
   "total_prestige_count": 142,
-  "last_save_time": 1772431464,
-  "play_time_seconds": 1129725,
+  "last_save_time": 1772433207,
+  "play_time_seconds": 1131383,
   "combat_state": {
     "current_enemy": {
-      "name": "Tidal Kraken",
-      "max_hp": 742,
-      "current_hp": 276,
-      "damage": 104,
-      "defense": 53
+      "name": "The Drowned King",
+      "max_hp": 3345,
+      "current_hp": 766,
+      "damage": 212,
+      "defense": 132
     },
-    "player_current_hp": 2969,
-    "player_max_hp": 2969,
-    "player_attack_timer": 0.30000000000000004,
-    "enemy_attack_timer": 1.6000000000000003,
+    "player_current_hp": 2743,
+    "player_max_hp": 2992,
+    "player_attack_timer": 0.8999999999999999,
+    "enemy_attack_timer": 0.30000000000000004,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -306,9 +306,9 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 51430,
-    "fish_toward_next_rank": 1912,
-    "legendary_catches": 1015
+    "total_fish_caught": 51526,
+    "fish_toward_next_rank": 2008,
+    "legendary_catches": 1018
   },
   "zone_progression": {
     "current_zone_id": 8,
@@ -437,11 +437,11 @@
       7,
       8
     ],
-    "kills_in_subzone": 3,
-    "fighting_boss": false,
+    "kills_in_subzone": 10,
+    "fighting_boss": true,
     "has_stormbreaker": false
   },
-  "stormglass": 28416,
+  "stormglass": 29695,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
