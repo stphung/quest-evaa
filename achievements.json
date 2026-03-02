@@ -259,7 +259,7 @@
       "target": 2500000
     },
     "SlayerXV": {
-      "current": 188412,
+      "current": 188414,
       "target": 1000000000
     },
     "Level500": {
@@ -291,7 +291,7 @@
       "target": 100
     },
     "SlayerIX": {
-      "current": 188412,
+      "current": 188414,
       "target": 1000000
     },
     "FishCatcherVIII": {
@@ -327,11 +327,11 @@
       "target": 1000
     },
     "SlayerXIII": {
-      "current": 188412,
+      "current": 188414,
       "target": 100000000
     },
     "SlayerX": {
-      "current": 188412,
+      "current": 188414,
       "target": 2500000
     },
     "Prestige300": {
@@ -351,7 +351,7 @@
       "target": 10
     },
     "SlayerXIV": {
-      "current": 188412,
+      "current": 188414,
       "target": 500000000
     },
     "PrestigeX": {
@@ -399,7 +399,7 @@
       "target": 10000
     },
     "SlayerXI": {
-      "current": 188412,
+      "current": 188414,
       "target": 10000000
     },
     "Layer10Cleared": {
@@ -427,7 +427,7 @@
       "target": 3
     },
     "SlayerXII": {
-      "current": 188412,
+      "current": 188414,
       "target": 50000000
     },
     "DeepMissionsX": {
@@ -499,7 +499,7 @@
       "target": 500
     },
     "SlayerVIII": {
-      "current": 188412,
+      "current": 188414,
       "target": 500000
     },
     "DungeonMasterIV": {
@@ -679,7 +679,7 @@
       "target": 100
     }
   },
-  "total_kills": 188412,
+  "total_kills": 188414,
   "total_bosses_defeated": 15899,
   "total_fish_caught": 56867,
   "total_dungeons_completed": 1347,
