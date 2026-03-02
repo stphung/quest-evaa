@@ -1,7 +1,7 @@
 {
   "discovered": true,
   "levels": [
-    2,
+    3,
     1,
     0,
     0,
@@ -9,8 +9,8 @@
     0,
     0
   ],
-  "total_attempts": 3,
-  "total_successes": 3,
+  "total_attempts": 4,
+  "total_successes": 4,
   "total_failures": 0,
-  "highest_level_reached": 2
+  "highest_level_reached": 3
 }

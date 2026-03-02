@@ -3,7 +3,7 @@
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
   "character_level": 116,
-  "character_xp": 79404,
+  "character_xp": 107893,
   "attributes": {
     "values": [
       78,
@@ -14,24 +14,18 @@
       67
     ]
   },
-  "prestige_rank": 16,
+  "prestige_rank": 15,
   "total_prestige_count": 141,
-  "last_save_time": 1772411985,
-  "play_time_seconds": 1118144,
+  "last_save_time": 1772411997,
+  "play_time_seconds": 1118156,
   "combat_state": {
-    "current_enemy": {
-      "name": "Darkheart Troll",
-      "max_hp": 631,
-      "current_hp": 631,
-      "damage": 77,
-      "defense": 35
-    },
-    "player_current_hp": 2575,
-    "player_max_hp": 2575,
-    "player_attack_timer": 0.9999999999999999,
-    "enemy_attack_timer": 0.9999999999999999,
-    "regen_timer": 0.0,
-    "is_regenerating": false
+    "current_enemy": null,
+    "player_current_hp": 2588,
+    "player_max_hp": 2588,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
+    "regen_timer": 0.30000000000000004,
+    "is_regenerating": true
   },
   "equipment": {
     "weapon": {
@@ -600,7 +594,7 @@
         },
         {
           "room_type": "Combat",
-          "state": "Current",
+          "state": "Cleared",
           "position": [
             4,
             2
@@ -718,7 +712,7 @@
         null,
         {
           "room_type": "Combat",
-          "state": "Hidden",
+          "state": "Cleared",
           "position": [
             3,
             3
@@ -732,7 +726,7 @@
         },
         {
           "room_type": "Combat",
-          "state": "Revealed",
+          "state": "Cleared",
           "position": [
             4,
             3
@@ -824,7 +818,7 @@
         null,
         {
           "room_type": "Combat",
-          "state": "Hidden",
+          "state": "Current",
           "position": [
             3,
             4
@@ -969,7 +963,7 @@
         null,
         {
           "room_type": "Combat",
-          "state": "Hidden",
+          "state": "Revealed",
           "position": [
             3,
             5
@@ -1293,8 +1287,8 @@
       ]
     ],
     "player_position": [
-      4,
-      2
+      3,
+      4
     ],
     "entrance_position": [
       12,
@@ -1305,7 +1299,7 @@
       6
     ],
     "has_key": false,
-    "move_timer": 0.0,
+    "move_timer": 0.30000000000000004,
     "collected_items": [
       {
         "slot": "Weapon",
@@ -1526,9 +1520,9 @@
         "god_item_id": null
       }
     ],
-    "xp_earned": 191036,
-    "rooms_cleared": 33,
-    "current_room_cleared": false,
+    "xp_earned": 219525,
+    "rooms_cleared": 36,
+    "current_room_cleared": true,
     "zone_id": 8
   },
   "fishing": {
@@ -1668,7 +1662,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 9961,
+  "stormglass": 9962,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
