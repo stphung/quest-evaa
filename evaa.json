@@ -2,36 +2,30 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 14,
-  "character_xp": 2861,
+  "character_level": 15,
+  "character_xp": 604,
   "attributes": {
     "values": [
       16,
       20,
-      17,
       18,
-      13,
+      19,
+      14,
       15
     ]
   },
   "prestige_rank": 1,
   "total_prestige_count": 174,
-  "last_save_time": 1772442469,
-  "play_time_seconds": 1139545,
+  "last_save_time": 1772442475,
+  "play_time_seconds": 1139551,
   "combat_state": {
-    "current_enemy": {
-      "name": "Meadow Toad",
-      "max_hp": 70,
-      "current_hp": 70,
-      "damage": 11,
-      "defense": 0
-    },
-    "player_current_hp": 2435,
-    "player_max_hp": 2435,
-    "player_attack_timer": 0.7999999999999999,
-    "enemy_attack_timer": 0.7999999999999999,
+    "current_enemy": null,
+    "player_current_hp": 2395,
+    "player_max_hp": 2395,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": false
+    "is_regenerating": true
   },
   "equipment": {
     "weapon": {
@@ -130,7 +124,29 @@
       ],
       "god_item_id": null
     },
-    "gloves": null,
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Magic",
+      "ilvl": 10,
+      "tier": 3,
+      "base_name": "Fine Mitts",
+      "display_name": "Fine Mitts",
+      "attributes": {
+        "str": 2,
+        "dex": 0,
+        "con": 1,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "AttackSpeed",
+          "value": 1.0
+        }
+      ],
+      "god_item_id": null
+    },
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -256,8 +272,8 @@
     "legendary_catches": 1033
   },
   "zone_progression": {
-    "current_zone_id": 1,
-    "current_subzone_id": 3,
+    "current_zone_id": 2,
+    "current_subzone_id": 1,
     "defeated_bosses": [
       [
         1,
@@ -266,17 +282,21 @@
       [
         1,
         2
+      ],
+      [
+        1,
+        3
       ]
     ],
     "unlocked_zones": [
       1,
       2
     ],
-    "kills_in_subzone": 7,
+    "kills_in_subzone": 0,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 31935,
+  "stormglass": 31960,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
