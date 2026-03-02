@@ -2,69 +2,33 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 13,
-  "character_xp": 1189,
+  "character_level": 1,
+  "character_xp": 0,
   "attributes": {
     "values": [
-      15,
-      16,
-      20,
-      14,
-      18,
-      13
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
     ]
   },
-  "prestige_rank": 0,
-  "total_prestige_count": 143,
-  "last_save_time": 1772433293,
-  "play_time_seconds": 1131464,
+  "prestige_rank": 1,
+  "total_prestige_count": 144,
+  "last_save_time": 1772433296,
+  "play_time_seconds": 1131467,
   "combat_state": {
-    "current_enemy": {
-      "name": "Grass Serpent",
-      "max_hp": 65,
-      "current_hp": 65,
-      "damage": 9,
-      "defense": 0
-    },
-    "player_current_hp": 2077,
-    "player_max_hp": 2077,
-    "player_attack_timer": 0.4,
-    "enemy_attack_timer": 0.4,
+    "current_enemy": null,
+    "player_current_hp": 50,
+    "player_max_hp": 50,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
   "equipment": {
-    "weapon": {
-      "slot": "Weapon",
-      "rarity": "Rare",
-      "ilvl": 10,
-      "tier": 0,
-      "base_name": "Greatsword of Vitality",
-      "display_name": "Greatsword of Vitality",
-      "attributes": {
-        "str": 2,
-        "dex": 0,
-        "con": 0,
-        "int": 0,
-        "wis": 0,
-        "cha": 1
-      },
-      "affixes": [
-        {
-          "affix_type": "HPBonus",
-          "value": 10.0
-        },
-        {
-          "affix_type": "CritMultiplier",
-          "value": 0.04
-        },
-        {
-          "affix_type": "DamagePercent",
-          "value": 1.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "weapon": null,
     "armor": {
       "slot": "Armor",
       "rarity": "Legendary",
@@ -143,24 +107,7 @@
       ],
       "god_item_id": null
     },
-    "gloves": {
-      "slot": "Gloves",
-      "rarity": "Common",
-      "ilvl": 10,
-      "tier": 2,
-      "base_name": "Handwraps",
-      "display_name": "Handwraps",
-      "attributes": {
-        "str": 0,
-        "dex": 1,
-        "con": 0,
-        "int": 1,
-        "wis": 1,
-        "cha": 0
-      },
-      "affixes": [],
-      "god_item_id": null
-    },
+    "gloves": null,
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -287,20 +234,13 @@
   },
   "zone_progression": {
     "current_zone_id": 1,
-    "current_subzone_id": 2,
-    "defeated_bosses": [
-      [
-        1,
-        1
-      ]
-    ],
+    "current_subzone_id": 1,
+    "defeated_bosses": [],
     "unlocked_zones": [
       1,
-      2,
-      3,
-      4
+      2
     ],
-    "kills_in_subzone": 9,
+    "kills_in_subzone": 0,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
