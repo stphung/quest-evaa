@@ -2,28 +2,34 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 6,
+  "character_xp": 319,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      12,
+      12,
+      13,
+      15,
+      11,
+      12
     ]
   },
-  "prestige_rank": 1,
+  "prestige_rank": 0,
   "total_prestige_count": 149,
-  "last_save_time": 1772433630,
-  "play_time_seconds": 1131785,
+  "last_save_time": 1772433641,
+  "play_time_seconds": 1131794,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Meadow Rabbit",
+      "max_hp": 50,
+      "current_hp": 50,
+      "damage": 7,
+      "defense": 0
+    },
+    "player_current_hp": 2115,
+    "player_max_hp": 2115,
+    "player_attack_timer": 0.1,
+    "enemy_attack_timer": 0.1,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -240,7 +246,7 @@
       1,
       2
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 5,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
