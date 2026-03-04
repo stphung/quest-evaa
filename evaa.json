@@ -2,51 +2,61 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 16,
-  "character_xp": 4130,
+  "character_level": 30,
+  "character_xp": 15435,
   "attributes": {
     "values": [
+      29,
       21,
-      14,
-      18,
-      16,
-      18,
-      18
+      25,
+      24,
+      22,
+      26
     ]
   },
-  "prestige_rank": 4,
+  "prestige_rank": 0,
   "total_prestige_count": 178,
-  "last_save_time": 1772599133,
-  "play_time_seconds": 1162985,
+  "last_save_time": 1772599447,
+  "play_time_seconds": 1163276,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 2450,
-    "player_max_hp": 2451,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Shadow Wolf",
+      "max_hp": 115,
+      "current_hp": 115,
+      "damage": 17,
+      "defense": 4
+    },
+    "player_current_hp": 2504,
+    "player_max_hp": 2504,
+    "player_attack_timer": 0.7999999999999999,
+    "enemy_attack_timer": 0.7999999999999999,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
     "weapon": {
       "slot": "Weapon",
-      "rarity": "Magic",
-      "ilvl": 10,
+      "rarity": "Rare",
+      "ilvl": 20,
       "tier": 0,
-      "base_name": "Fine Axe",
-      "display_name": "Fine Axe",
+      "base_name": "Sword of Thorns",
+      "display_name": "Sword of Thorns",
       "attributes": {
-        "str": 0,
-        "dex": 0,
-        "con": 1,
+        "str": 1,
+        "dex": 1,
+        "con": 0,
         "int": 0,
         "wis": 0,
-        "cha": 1
+        "cha": 0
       },
       "affixes": [
         {
-          "affix_type": "CritChance",
-          "value": 0.0
+          "affix_type": "DamageReflection",
+          "value": 1.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 16.0
         }
       ],
       "god_item_id": null
@@ -131,20 +141,28 @@
     },
     "gloves": {
       "slot": "Gloves",
-      "rarity": "Magic",
-      "ilvl": 10,
-      "tier": 1,
-      "base_name": "Fine Mitts",
-      "display_name": "Fine Mitts",
+      "rarity": "Rare",
+      "ilvl": 20,
+      "tier": 0,
+      "base_name": "Gauntlets of Power",
+      "display_name": "Gauntlets of Power",
       "attributes": {
         "str": 0,
-        "dex": 0,
-        "con": 0,
-        "int": 0,
-        "wis": 1,
-        "cha": 1
+        "dex": 2,
+        "con": 1,
+        "int": 1,
+        "wis": 0,
+        "cha": 0
       },
       "affixes": [
+        {
+          "affix_type": "DamagePercent",
+          "value": 1.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 1.0
+        },
         {
           "affix_type": "DamageReduction",
           "value": 1.0
@@ -272,13 +290,13 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 54086,
-    "fish_toward_next_rank": 4568,
+    "total_fish_caught": 54122,
+    "fish_toward_next_rank": 4604,
     "legendary_catches": 1081
   },
   "zone_progression": {
     "current_zone_id": 2,
-    "current_subzone_id": 1,
+    "current_subzone_id": 3,
     "defeated_bosses": [
       [
         1,
@@ -291,17 +309,29 @@
       [
         1,
         3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
       ]
     ],
     "unlocked_zones": [
       1,
       2
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 8,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 43033,
+  "stormglass": 43103,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
