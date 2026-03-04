@@ -2,36 +2,30 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 7,
-  "character_xp": 67,
+  "character_level": 17,
+  "character_xp": 3541,
   "attributes": {
     "values": [
-      13,
-      14,
-      14,
-      12,
-      13,
-      12
+      19,
+      19,
+      19,
+      16,
+      19,
+      16
     ]
   },
   "prestige_rank": 1,
   "total_prestige_count": 181,
-  "last_save_time": 1772608383,
-  "play_time_seconds": 1163829,
+  "last_save_time": 1772608517,
+  "play_time_seconds": 1163955,
   "combat_state": {
-    "current_enemy": {
-      "name": "Field Rabbit",
-      "max_hp": 49,
-      "current_hp": 49,
-      "damage": 7,
-      "defense": 0
-    },
-    "player_current_hp": 2470,
-    "player_max_hp": 2470,
-    "player_attack_timer": 0.2,
-    "enemy_attack_timer": 0.2,
+    "current_enemy": null,
+    "player_current_hp": 2513,
+    "player_max_hp": 2513,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": false
+    "is_regenerating": true
   },
   "equipment": {
     "weapon": null,
@@ -113,7 +107,37 @@
       ],
       "god_item_id": null
     },
-    "gloves": null,
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Rare",
+      "ilvl": 10,
+      "tier": 2,
+      "base_name": "Regenerating Mitts",
+      "display_name": "Regenerating Mitts",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 3,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPRegen",
+          "value": 2.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 1.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 1.0
+        }
+      ],
+      "god_item_id": null
+    },
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -234,23 +258,36 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 54172,
-    "fish_toward_next_rank": 4654,
-    "legendary_catches": 1082
+    "total_fish_caught": 54186,
+    "fish_toward_next_rank": 4668,
+    "legendary_catches": 1083
   },
   "zone_progression": {
-    "current_zone_id": 1,
+    "current_zone_id": 2,
     "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ],
     "unlocked_zones": [
       1,
       2
     ],
-    "kills_in_subzone": 6,
+    "kills_in_subzone": 0,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 43307,
+  "stormglass": 43329,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
