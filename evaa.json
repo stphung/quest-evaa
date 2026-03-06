@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 30,
-  "character_xp": 14476,
+  "character_level": 38,
+  "character_xp": 12289,
   "attributes": {
     "values": [
-      22,
-      20,
-      23,
+      28,
       24,
-      29,
-      29
+      28,
+      25,
+      31,
+      35
     ]
   },
   "prestige_rank": 6,
   "total_prestige_count": 186,
-  "last_save_time": 1772778875,
-  "play_time_seconds": 1194671,
+  "last_save_time": 1772779072,
+  "play_time_seconds": 1194860,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 2595,
-    "player_max_hp": 2596,
+    "player_current_hp": 2615,
+    "player_max_hp": 2627,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -30,31 +30,35 @@
   "equipment": {
     "weapon": {
       "slot": "Weapon",
-      "rarity": "Rare",
-      "ilvl": 10,
+      "rarity": "Epic",
+      "ilvl": 30,
       "tier": 1,
-      "base_name": "Sturdy Dagger",
-      "display_name": "Sturdy Dagger",
+      "base_name": "Regenerating Dagger",
+      "display_name": "Regenerating Dagger",
       "attributes": {
         "str": 0,
         "dex": 0,
         "con": 0,
-        "int": 0,
+        "int": 2,
         "wis": 0,
-        "cha": 1
+        "cha": 0
       },
       "affixes": [
         {
-          "affix_type": "HPBonus",
-          "value": 11.0
+          "affix_type": "HPRegen",
+          "value": 4.0
         },
         {
-          "affix_type": "DamageReflection",
-          "value": 1.0
+          "affix_type": "XPGain",
+          "value": 3.0
         },
         {
-          "affix_type": "HPBonus",
-          "value": 14.0
+          "affix_type": "XPGain",
+          "value": 4.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 3.0
         }
       ],
       "god_item_id": null
@@ -139,31 +143,27 @@
     },
     "gloves": {
       "slot": "Gloves",
-      "rarity": "Epic",
-      "ilvl": 10,
-      "tier": 2,
-      "base_name": "Armored Gauntlets",
-      "display_name": "Armored Gauntlets",
+      "rarity": "Rare",
+      "ilvl": 30,
+      "tier": 5,
+      "base_name": "Gauntlets of Vitality",
+      "display_name": "Gauntlets of Vitality",
       "attributes": {
-        "str": 2,
+        "str": 0,
         "dex": 0,
         "con": 0,
         "int": 2,
         "wis": 0,
-        "cha": 0
+        "cha": 4
       },
       "affixes": [
         {
+          "affix_type": "HPBonus",
+          "value": 28.0
+        },
+        {
           "affix_type": "DamageReduction",
-          "value": 2.0
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 3.0
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 3.0
+          "value": 4.0
         },
         {
           "affix_type": "DamageReflection",
@@ -297,7 +297,7 @@
     "legendary_catches": 1133
   },
   "zone_progression": {
-    "current_zone_id": 3,
+    "current_zone_id": 4,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -323,6 +323,18 @@
       [
         2,
         3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
       ]
     ],
     "unlocked_zones": [
@@ -335,7 +347,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 78323,
+  "stormglass": 78608,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
