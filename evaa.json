@@ -2,33 +2,63 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 24,
+  "character_xp": 4294,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      21,
+      19,
+      18,
+      21,
+      26,
+      24
     ]
   },
   "prestige_rank": 6,
   "total_prestige_count": 186,
-  "last_save_time": 1772778529,
-  "play_time_seconds": 1194346,
+  "last_save_time": 1772778747,
+  "play_time_seconds": 1194551,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
+    "player_current_hp": 2575,
+    "player_max_hp": 2576,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": false
+    "is_regenerating": true
   },
   "equipment": {
-    "weapon": null,
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Rare",
+      "ilvl": 10,
+      "tier": 1,
+      "base_name": "Sturdy Dagger",
+      "display_name": "Sturdy Dagger",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 1
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 11.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 1.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 14.0
+        }
+      ],
+      "god_item_id": null
+    },
     "armor": {
       "slot": "Armor",
       "rarity": "Legendary",
@@ -107,7 +137,41 @@
       ],
       "god_item_id": null
     },
-    "gloves": null,
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Epic",
+      "ilvl": 10,
+      "tier": 2,
+      "base_name": "Armored Gauntlets",
+      "display_name": "Armored Gauntlets",
+      "attributes": {
+        "str": 2,
+        "dex": 0,
+        "con": 0,
+        "int": 2,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReduction",
+          "value": 2.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 3.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 3.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 3.0
+        }
+      ],
+      "god_item_id": null
+    },
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -228,14 +292,27 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 56278,
-    "fish_toward_next_rank": 6760,
+    "total_fish_caught": 56290,
+    "fish_toward_next_rank": 6772,
     "legendary_catches": 1132
   },
   "zone_progression": {
-    "current_zone_id": 1,
+    "current_zone_id": 2,
     "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ],
     "unlocked_zones": [
       1,
       2,
@@ -246,7 +323,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 77936,
+  "stormglass": 78294,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
