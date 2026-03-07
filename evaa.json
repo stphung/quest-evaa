@@ -2,30 +2,36 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 18,
-  "character_xp": 6940,
+  "character_level": 32,
+  "character_xp": 13945,
   "attributes": {
     "values": [
-      15,
-      17,
-      21,
-      18,
-      20,
-      20
+      24,
+      22,
+      24,
+      25,
+      30,
+      28
     ]
   },
-  "prestige_rank": 2,
+  "prestige_rank": 4,
   "total_prestige_count": 190,
-  "last_save_time": 1772920218,
-  "play_time_seconds": 1254101,
+  "last_save_time": 1772920514,
+  "play_time_seconds": 1254383,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 2559,
-    "player_max_hp": 2559,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Forest Wretch",
+      "max_hp": 125,
+      "current_hp": 125,
+      "damage": 19,
+      "defense": 4
+    },
+    "player_current_hp": 2610,
+    "player_max_hp": 2622,
+    "player_attack_timer": 0.7,
+    "enemy_attack_timer": 0.7,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
     "weapon": {
@@ -135,23 +141,31 @@
     },
     "gloves": {
       "slot": "Gloves",
-      "rarity": "Magic",
-      "ilvl": 10,
-      "tier": 3,
-      "base_name": "Fine Gauntlets",
-      "display_name": "Fine Gauntlets",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "tier": 0,
+      "base_name": "Vicious Gauntlets",
+      "display_name": "Vicious Gauntlets",
       "attributes": {
-        "str": 1,
-        "dex": 0,
-        "con": 0,
+        "str": 0,
+        "dex": 2,
+        "con": 2,
         "int": 0,
         "wis": 0,
         "cha": 0
       },
       "affixes": [
         {
-          "affix_type": "XPGain",
-          "value": 1.0
+          "affix_type": "CritMultiplier",
+          "value": 0.1
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 3.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 16.0
         }
       ],
       "god_item_id": null
@@ -275,14 +289,14 @@
     }
   },
   "fishing": {
-    "rank": 34,
-    "total_fish_caught": 59960,
-    "fish_toward_next_rank": 442,
+    "rank": 35,
+    "total_fish_caught": 59964,
+    "fish_toward_next_rank": 446,
     "legendary_catches": 1203
   },
   "zone_progression": {
     "current_zone_id": 2,
-    "current_subzone_id": 1,
+    "current_subzone_id": 3,
     "defeated_bosses": [
       [
         1,
@@ -295,6 +309,18 @@
       [
         1,
         3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
       ]
     ],
     "unlocked_zones": [
@@ -305,11 +331,11 @@
       5,
       6
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 1,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 190588,
+  "stormglass": 194646,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
