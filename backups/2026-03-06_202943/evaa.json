@@ -2,33 +2,69 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 118,
+  "character_xp": 41645,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
     ]
   },
-  "prestige_rank": 7,
-  "total_prestige_count": 187,
-  "last_save_time": 1772858428,
-  "play_time_seconds": 1199765,
+  "prestige_rank": 6,
+  "total_prestige_count": 186,
+  "last_save_time": 1772857774,
+  "play_time_seconds": 1199164,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Ruin Revenant",
+      "max_hp": 279,
+      "current_hp": 279,
+      "damage": 46,
+      "defense": 16
+    },
+    "player_current_hp": 3005,
+    "player_max_hp": 3005,
+    "player_attack_timer": 0.8999999999999999,
+    "enemy_attack_timer": 0.8999999999999999,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
   "equipment": {
-    "weapon": null,
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Epic",
+      "ilvl": 40,
+      "tier": 4,
+      "base_name": "Thorned Spear",
+      "display_name": "Thorned Spear",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 4,
+        "wis": 0,
+        "cha": 4
+      },
+      "affixes": [
+        {
+          "affix_type": "DamageReflection",
+          "value": 8.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 65.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 60.0
+        }
+      ],
+      "god_item_id": null
+    },
     "armor": {
       "slot": "Armor",
       "rarity": "Legendary",
@@ -107,7 +143,45 @@
       ],
       "god_item_id": null
     },
-    "gloves": null,
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "ilvl": 40,
+      "tier": 0,
+      "base_name": "Gauntlets of Carnage",
+      "display_name": "Gauntlets of Carnage",
+      "attributes": {
+        "str": 0,
+        "dex": 3,
+        "con": 0,
+        "int": 0,
+        "wis": 5,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.2
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 6.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 43.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 5.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 56.0
+        }
+      ],
+      "god_item_id": null
+    },
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -228,25 +302,74 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 56544,
-    "fish_toward_next_rank": 7026,
+    "total_fish_caught": 56536,
+    "fish_toward_next_rank": 7018,
     "legendary_catches": 1138
   },
   "zone_progression": {
-    "current_zone_id": 1,
-    "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "current_zone_id": 4,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ]
+    ],
     "unlocked_zones": [
       1,
       2,
       3,
       4
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 3,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 88804,
+  "stormglass": 86908,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
