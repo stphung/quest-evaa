@@ -2,67 +2,33 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 101,
-  "character_xp": 87116,
+  "character_level": 1,
+  "character_xp": 0,
   "attributes": {
     "values": [
-      60,
-      60,
-      60,
-      60,
-      60,
-      60
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
     ]
   },
-  "prestige_rank": 8,
-  "total_prestige_count": 188,
-  "last_save_time": 1772866143,
-  "play_time_seconds": 1207867,
+  "prestige_rank": 9,
+  "total_prestige_count": 189,
+  "last_save_time": 1772869225,
+  "play_time_seconds": 1210595,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 3080,
-    "player_max_hp": 3080,
+    "player_current_hp": 50,
+    "player_max_hp": 50,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
-    "weapon": {
-      "slot": "Weapon",
-      "rarity": "Legendary",
-      "ilvl": 40,
-      "tier": 3,
-      "base_name": "Greatsword of Power",
-      "display_name": "Greatsword of Power",
-      "attributes": {
-        "str": 7,
-        "dex": 0,
-        "con": 13,
-        "int": 0,
-        "wis": 0,
-        "cha": 0
-      },
-      "affixes": [
-        {
-          "affix_type": "DamagePercent",
-          "value": 12.0
-        },
-        {
-          "affix_type": "HPBonus",
-          "value": 78.0
-        },
-        {
-          "affix_type": "XPGain",
-          "value": 10.0
-        },
-        {
-          "affix_type": "XPGain",
-          "value": 8.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "weapon": null,
     "armor": {
       "slot": "Armor",
       "rarity": "Legendary",
@@ -141,41 +107,7 @@
       ],
       "god_item_id": null
     },
-    "gloves": {
-      "slot": "Gloves",
-      "rarity": "Legendary",
-      "ilvl": 40,
-      "tier": 2,
-      "base_name": "Handwraps of Vitality",
-      "display_name": "Handwraps of Vitality",
-      "attributes": {
-        "str": 0,
-        "dex": 5,
-        "con": 6,
-        "int": 0,
-        "wis": 0,
-        "cha": 5
-      },
-      "affixes": [
-        {
-          "affix_type": "HPBonus",
-          "value": 62.0
-        },
-        {
-          "affix_type": "XPGain",
-          "value": 8.0
-        },
-        {
-          "affix_type": "AttackSpeed",
-          "value": 2.0
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 10.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "gloves": null,
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -296,74 +228,25 @@
   },
   "fishing": {
     "rank": 33,
-    "total_fish_caught": 57028,
-    "fish_toward_next_rank": 7510,
-    "legendary_catches": 1149
+    "total_fish_caught": 57232,
+    "fish_toward_next_rank": 7714,
+    "legendary_catches": 1151
   },
   "zone_progression": {
-    "current_zone_id": 4,
-    "current_subzone_id": 3,
-    "defeated_bosses": [
-      [
-        1,
-        1
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        4,
-        3
-      ]
-    ],
+    "current_zone_id": 1,
+    "current_subzone_id": 1,
+    "defeated_bosses": [],
     "unlocked_zones": [
       1,
       2,
       3,
       4
     ],
-    "kills_in_subzone": 1,
+    "kills_in_subzone": 0,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 100963,
+  "stormglass": 105418,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
