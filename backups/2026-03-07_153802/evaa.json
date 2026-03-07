@@ -2,33 +2,71 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 113,
+  "character_xp": 57827,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
     ]
   },
-  "prestige_rank": 9,
-  "total_prestige_count": 195,
-  "last_save_time": 1772927371,
-  "play_time_seconds": 1273897,
+  "prestige_rank": 8,
+  "total_prestige_count": 194,
+  "last_save_time": 1772926677,
+  "play_time_seconds": 1273261,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
+    "player_current_hp": 3037,
+    "player_max_hp": 3037,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": false
+    "is_regenerating": true
   },
   "equipment": {
-    "weapon": null,
+    "weapon": {
+      "slot": "Weapon",
+      "rarity": "Legendary",
+      "ilvl": 40,
+      "tier": 2,
+      "base_name": "Spear of Vitality",
+      "display_name": "Spear of Vitality",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 11,
+        "cha": 4
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 68.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 10.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 8.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 8.0
+        },
+        {
+          "affix_type": "XPGain",
+          "value": 8.0
+        }
+      ],
+      "god_item_id": null
+    },
     "armor": {
       "slot": "Armor",
       "rarity": "Legendary",
@@ -107,7 +145,45 @@
       ],
       "god_item_id": null
     },
-    "gloves": null,
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "ilvl": 40,
+      "tier": 0,
+      "base_name": "Sturdy Gauntlets",
+      "display_name": "Sturdy Gauntlets",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 6,
+        "int": 3,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 42.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 59.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 8.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 8.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.22
+        }
+      ],
+      "god_item_id": null
+    },
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -228,25 +304,74 @@
   },
   "fishing": {
     "rank": 35,
-    "total_fish_caught": 61356,
-    "fish_toward_next_rank": 1838,
-    "legendary_catches": 1235
+    "total_fish_caught": 61266,
+    "fish_toward_next_rank": 1748,
+    "legendary_catches": 1232
   },
   "zone_progression": {
-    "current_zone_id": 1,
-    "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "current_zone_id": 4,
+    "current_subzone_id": 3,
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ]
+    ],
     "unlocked_zones": [
       1,
       2,
       3,
       4
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 3,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 26632,
+  "stormglass": 26500,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 3,
