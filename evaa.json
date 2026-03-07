@@ -2,61 +2,65 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 32,
-  "character_xp": 13945,
+  "character_level": 83,
+  "character_xp": 23782,
   "attributes": {
     "values": [
-      24,
-      22,
-      24,
-      25,
-      30,
-      28
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
     ]
   },
   "prestige_rank": 4,
   "total_prestige_count": 190,
-  "last_save_time": 1772920514,
-  "play_time_seconds": 1254383,
+  "last_save_time": 1772921646,
+  "play_time_seconds": 1256795,
   "combat_state": {
     "current_enemy": {
-      "name": "Forest Wretch",
-      "max_hp": 125,
-      "current_hp": 125,
-      "damage": 19,
+      "name": "Shadow Bat",
+      "max_hp": 108,
+      "current_hp": 108,
+      "damage": 18,
       "defense": 4
     },
-    "player_current_hp": 2610,
-    "player_max_hp": 2622,
-    "player_attack_timer": 0.7,
-    "enemy_attack_timer": 0.7,
+    "player_current_hp": 2708,
+    "player_max_hp": 2708,
+    "player_attack_timer": 0.7999999999999999,
+    "enemy_attack_timer": 0.7999999999999999,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
   "equipment": {
     "weapon": {
       "slot": "Weapon",
-      "rarity": "Rare",
-      "ilvl": 10,
-      "tier": 4,
-      "base_name": "Armored Mace",
-      "display_name": "Armored Mace",
+      "rarity": "Epic",
+      "ilvl": 20,
+      "tier": 5,
+      "base_name": "Mace of Learning",
+      "display_name": "Mace of Learning",
       "attributes": {
-        "str": 0,
+        "str": 3,
         "dex": 0,
         "con": 0,
-        "int": 2,
-        "wis": 2,
-        "cha": 0
+        "int": 3,
+        "wis": 0,
+        "cha": 4
       },
       "affixes": [
         {
-          "affix_type": "DamageReduction",
-          "value": 2.0
+          "affix_type": "XPGain",
+          "value": 5.0
         },
         {
           "affix_type": "HPBonus",
-          "value": 19.0
+          "value": 43.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 6.0
         }
       ],
       "god_item_id": null
@@ -141,31 +145,39 @@
     },
     "gloves": {
       "slot": "Gloves",
-      "rarity": "Epic",
+      "rarity": "Legendary",
       "ilvl": 20,
       "tier": 0,
-      "base_name": "Vicious Gauntlets",
-      "display_name": "Vicious Gauntlets",
+      "base_name": "Gauntlets of Protection",
+      "display_name": "Gauntlets of Protection",
       "attributes": {
-        "str": 0,
-        "dex": 2,
-        "con": 2,
+        "str": 6,
+        "dex": 0,
+        "con": 0,
         "int": 0,
         "wis": 0,
-        "cha": 0
+        "cha": 3
       },
       "affixes": [
         {
-          "affix_type": "CritMultiplier",
-          "value": 0.1
+          "affix_type": "DamageReduction",
+          "value": 5.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 4.0
         },
         {
           "affix_type": "DamagePercent",
-          "value": 3.0
+          "value": 5.0
         },
         {
-          "affix_type": "HPBonus",
-          "value": 16.0
+          "affix_type": "XPGain",
+          "value": 5.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 1.0
         }
       ],
       "god_item_id": null
@@ -290,9 +302,9 @@
   },
   "fishing": {
     "rank": 35,
-    "total_fish_caught": 59964,
-    "fish_toward_next_rank": 446,
-    "legendary_catches": 1203
+    "total_fish_caught": 60118,
+    "fish_toward_next_rank": 600,
+    "legendary_catches": 1204
   },
   "zone_progression": {
     "current_zone_id": 2,
@@ -331,26 +343,30 @@
       5,
       6
     ],
-    "kills_in_subzone": 1,
+    "kills_in_subzone": 2,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 194646,
+  "stormglass": 20203,
   "stormglass_discovered": true,
   "storm_sigils": {
-    "slots_unlocked": 2,
+    "slots_unlocked": 3,
     "sigils": [
       {
-        "effect": "OfflineXpPercent",
-        "value": 15.9,
-        "grade": "A"
-      },
-      {
-        "effect": "DamagePercent",
-        "value": 7.9,
+        "effect": "ChronoOverchargePercent",
+        "value": 11.2,
         "grade": "B"
       },
-      null,
+      {
+        "effect": "AttackSpeedPercent",
+        "value": 5.3,
+        "grade": "B"
+      },
+      {
+        "effect": "AttackSpeedPercent",
+        "value": 8.1,
+        "grade": "A"
+      },
       null,
       null
     ]
