@@ -2,28 +2,34 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 10,
+  "character_xp": 3041,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      14,
+      12,
+      16,
+      12,
+      15,
+      18
     ]
   },
-  "prestige_rank": 10,
+  "prestige_rank": 2,
   "total_prestige_count": 190,
-  "last_save_time": 1772920103,
-  "play_time_seconds": 1253995,
+  "last_save_time": 1772920121,
+  "play_time_seconds": 1254012,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Meadow Mantis",
+      "max_hp": 55,
+      "current_hp": 55,
+      "damage": 6,
+      "defense": 0
+    },
+    "player_current_hp": 2510,
+    "player_max_hp": 2510,
+    "player_attack_timer": 0.7999999999999999,
+    "enemy_attack_timer": 0.7999999999999999,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -107,7 +113,29 @@
       ],
       "god_item_id": null
     },
-    "gloves": null,
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Magic",
+      "ilvl": 10,
+      "tier": 3,
+      "base_name": "Fine Gauntlets",
+      "display_name": "Fine Gauntlets",
+      "attributes": {
+        "str": 1,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "XPGain",
+          "value": 1.0
+        }
+      ],
+      "god_item_id": null
+    },
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -244,11 +272,11 @@
       5,
       6
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 9,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 190577,
+  "stormglass": 190581,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 2,
