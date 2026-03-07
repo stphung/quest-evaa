@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 25,
-  "character_xp": 7246,
+  "character_level": 37,
+  "character_xp": 3078,
   "attributes": {
     "values": [
-      25,
+      32,
+      30,
       24,
-      20,
-      23,
-      15,
-      25
+      28,
+      18,
+      36
     ]
   },
   "prestige_rank": 9,
   "total_prestige_count": 195,
-  "last_save_time": 1772927533,
-  "play_time_seconds": 1274050,
+  "last_save_time": 1772927883,
+  "play_time_seconds": 1274382,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 2575,
-    "player_max_hp": 2576,
+    "player_current_hp": 2583,
+    "player_max_hp": 2584,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -30,23 +30,35 @@
   "equipment": {
     "weapon": {
       "slot": "Weapon",
-      "rarity": "Magic",
-      "ilvl": 20,
-      "tier": 4,
-      "base_name": "Fine Sword",
-      "display_name": "Fine Sword",
+      "rarity": "Epic",
+      "ilvl": 30,
+      "tier": 0,
+      "base_name": "Mace of Haste",
+      "display_name": "Mace of Haste",
       "attributes": {
         "str": 0,
-        "dex": 0,
+        "dex": 2,
         "con": 0,
-        "int": 0,
-        "wis": 1,
-        "cha": 0
+        "int": 3,
+        "wis": 0,
+        "cha": 3
       },
       "affixes": [
         {
-          "affix_type": "DamageReduction",
-          "value": 2.0
+          "affix_type": "AttackSpeed",
+          "value": 1.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 4.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 3.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 4.0
         }
       ],
       "god_item_id": null
@@ -131,23 +143,39 @@
     },
     "gloves": {
       "slot": "Gloves",
-      "rarity": "Magic",
-      "ilvl": 20,
-      "tier": 0,
-      "base_name": "Fine Mitts",
-      "display_name": "Fine Mitts",
+      "rarity": "Legendary",
+      "ilvl": 30,
+      "tier": 3,
+      "base_name": "Gloves of Precision",
+      "display_name": "Gloves of Precision",
       "attributes": {
         "str": 0,
-        "dex": 0,
+        "dex": 4,
         "con": 0,
         "int": 0,
-        "wis": 0,
-        "cha": 1
+        "wis": 6,
+        "cha": 0
       },
       "affixes": [
         {
-          "affix_type": "HPBonus",
-          "value": 9.0
+          "affix_type": "CritChance",
+          "value": 10.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 2.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 8.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 10.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 7.0
         }
       ],
       "god_item_id": null
@@ -272,12 +300,12 @@
   },
   "fishing": {
     "rank": 35,
-    "total_fish_caught": 61370,
-    "fish_toward_next_rank": 1852,
+    "total_fish_caught": 61378,
+    "fish_toward_next_rank": 1860,
     "legendary_catches": 1236
   },
   "zone_progression": {
-    "current_zone_id": 3,
+    "current_zone_id": 4,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -303,6 +331,18 @@
       [
         2,
         3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
       ]
     ],
     "unlocked_zones": [
@@ -315,7 +355,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 26663,
+  "stormglass": 27587,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 3,
