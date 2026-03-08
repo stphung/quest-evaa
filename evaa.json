@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 42,
-  "character_xp": 22349,
+  "character_level": 46,
+  "character_xp": 11955,
   "attributes": {
     "values": [
-      28,
-      29,
       30,
-      31,
       33,
-      32
+      31,
+      32,
+      35,
+      34
     ]
   },
   "prestige_rank": 12,
   "total_prestige_count": 198,
-  "last_save_time": 1772965363,
-  "play_time_seconds": 1302897,
+  "last_save_time": 1772965448,
+  "play_time_seconds": 1302976,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 2690,
-    "player_max_hp": 2690,
+    "player_current_hp": 2724,
+    "player_max_hp": 2724,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -108,39 +108,31 @@
     },
     "helmet": {
       "slot": "Helmet",
-      "rarity": "Legendary",
-      "ilvl": 10,
-      "tier": 0,
-      "base_name": "Coif of Haste",
-      "display_name": "Coif of Haste",
+      "rarity": "Epic",
+      "ilvl": 40,
+      "tier": 1,
+      "base_name": "Armored Cap",
+      "display_name": "Armored Cap",
       "attributes": {
         "str": 0,
         "dex": 0,
-        "con": 4,
-        "int": 0,
+        "con": 0,
+        "int": 6,
         "wis": 0,
-        "cha": 2
+        "cha": 0
       },
       "affixes": [
         {
-          "affix_type": "AttackSpeed",
-          "value": 1.0
-        },
-        {
-          "affix_type": "DamagePercent",
-          "value": 3.0
-        },
-        {
           "affix_type": "DamageReduction",
-          "value": 3.0
+          "value": 5.0
         },
         {
-          "affix_type": "XPGain",
-          "value": 2.0
+          "affix_type": "HPBonus",
+          "value": 42.0
         },
         {
-          "affix_type": "DamagePercent",
-          "value": 3.0
+          "affix_type": "HPRegen",
+          "value": 4.0
         }
       ],
       "god_item_id": null
@@ -300,12 +292,12 @@
   },
   "fishing": {
     "rank": 35,
-    "total_fish_caught": 63176,
-    "fish_toward_next_rank": 3658,
+    "total_fish_caught": 63182,
+    "fish_toward_next_rank": 3664,
     "legendary_catches": 1274
   },
   "zone_progression": {
-    "current_zone_id": 4,
+    "current_zone_id": 5,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -343,6 +335,18 @@
       [
         3,
         3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
       ]
     ],
     "unlocked_zones": [
@@ -357,7 +361,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 61797,
+  "stormglass": 61830,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 3,
