@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 56,
-  "character_xp": 11924,
+  "character_level": 61,
+  "character_xp": 4687,
   "attributes": {
     "values": [
-      29,
-      35,
       33,
+      37,
       35,
+      39,
       46,
-      47
+      50
     ]
   },
   "prestige_rank": 16,
   "total_prestige_count": 202,
-  "last_save_time": 1772988133,
-  "play_time_seconds": 1349938,
+  "last_save_time": 1772988281,
+  "play_time_seconds": 1350075,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 2698,
-    "player_max_hp": 3244,
+    "player_current_hp": 2526,
+    "player_max_hp": 3331,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -108,31 +108,31 @@
     },
     "helmet": {
       "slot": "Helmet",
-      "rarity": "Epic",
-      "ilvl": 50,
+      "rarity": "Rare",
+      "ilvl": 70,
       "tier": 0,
-      "base_name": "Regenerating Coif",
-      "display_name": "Regenerating Coif",
+      "base_name": "Swift Helm",
+      "display_name": "Swift Helm",
       "attributes": {
         "str": 0,
         "dex": 0,
-        "con": 0,
-        "int": 4,
+        "con": 4,
+        "int": 2,
         "wis": 0,
-        "cha": 4
+        "cha": 0
       },
       "affixes": [
         {
-          "affix_type": "HPRegen",
-          "value": 6.0
+          "affix_type": "AttackSpeed",
+          "value": 1.0
         },
         {
-          "affix_type": "DamagePercent",
-          "value": 5.0
+          "affix_type": "HPBonus",
+          "value": 28.0
         },
         {
-          "affix_type": "CritMultiplier",
-          "value": 0.18
+          "affix_type": "CritChance",
+          "value": 4.0
         }
       ],
       "god_item_id": null
@@ -140,34 +140,30 @@
     "gloves": {
       "slot": "Gloves",
       "rarity": "Epic",
-      "ilvl": 10,
+      "ilvl": 70,
       "tier": 1,
-      "base_name": "Wise Gauntlets",
-      "display_name": "Wise Gauntlets",
+      "base_name": "Gauntlets of Carnage",
+      "display_name": "Gauntlets of Carnage",
       "attributes": {
         "str": 0,
         "dex": 0,
-        "con": 4,
-        "int": 0,
+        "con": 10,
+        "int": 6,
         "wis": 0,
-        "cha": 2
+        "cha": 0
       },
       "affixes": [
         {
-          "affix_type": "XPGain",
-          "value": 2.0
-        },
-        {
-          "affix_type": "HPBonus",
-          "value": 15.0
+          "affix_type": "CritMultiplier",
+          "value": 0.33
         },
         {
           "affix_type": "AttackSpeed",
-          "value": 1.0
+          "value": 3.0
         },
         {
-          "affix_type": "CritChance",
-          "value": 3.0
+          "affix_type": "XPGain",
+          "value": 6.0
         }
       ],
       "god_item_id": null
@@ -292,12 +288,12 @@
   },
   "fishing": {
     "rank": 35,
-    "total_fish_caught": 66274,
-    "fish_toward_next_rank": 6756,
+    "total_fish_caught": 66278,
+    "fish_toward_next_rank": 6760,
     "legendary_catches": 1340
   },
   "zone_progression": {
-    "current_zone_id": 7,
+    "current_zone_id": 8,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -379,6 +375,22 @@
       [
         6,
         4
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        4
       ]
     ],
     "unlocked_zones": [
@@ -395,7 +407,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 92165,
+  "stormglass": 92189,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 3,
