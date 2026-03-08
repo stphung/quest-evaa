@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 32,
-  "character_xp": 10328,
+  "character_level": 42,
+  "character_xp": 14419,
   "attributes": {
     "values": [
-      26,
-      27,
-      23,
-      25,
-      27,
-      25
+      28,
+      34,
+      28,
+      30,
+      29,
+      34
     ]
   },
   "prestige_rank": 10,
   "total_prestige_count": 196,
-  "last_save_time": 1772939499,
-  "play_time_seconds": 1284298,
+  "last_save_time": 1772939790,
+  "play_time_seconds": 1284577,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 2682,
-    "player_max_hp": 2687,
+    "player_current_hp": 2641,
+    "player_max_hp": 2697,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -143,23 +143,31 @@
     },
     "gloves": {
       "slot": "Gloves",
-      "rarity": "Magic",
-      "ilvl": 30,
-      "tier": 3,
-      "base_name": "Fine Gauntlets",
-      "display_name": "Fine Gauntlets",
+      "rarity": "Epic",
+      "ilvl": 40,
+      "tier": 4,
+      "base_name": "Handwraps of Precision",
+      "display_name": "Handwraps of Precision",
       "attributes": {
-        "str": 0,
+        "str": 4,
         "dex": 0,
-        "con": 2,
-        "int": 1,
+        "con": 0,
+        "int": 9,
         "wis": 0,
         "cha": 0
       },
       "affixes": [
         {
-          "affix_type": "HPRegen",
+          "affix_type": "CritChance",
+          "value": 6.0
+        },
+        {
+          "affix_type": "AttackSpeed",
           "value": 3.0
+        },
+        {
+          "affix_type": "CritMultiplier",
+          "value": 0.29
         }
       ],
       "god_item_id": null
@@ -284,12 +292,12 @@
   },
   "fishing": {
     "rank": 35,
-    "total_fish_caught": 61928,
-    "fish_toward_next_rank": 2410,
+    "total_fish_caught": 61932,
+    "fish_toward_next_rank": 2414,
     "legendary_catches": 1245
   },
   "zone_progression": {
-    "current_zone_id": 4,
+    "current_zone_id": 5,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -327,6 +335,18 @@
       [
         3,
         3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
       ]
     ],
     "unlocked_zones": [
@@ -341,7 +361,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 24022,
+  "stormglass": 25008,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 3,
