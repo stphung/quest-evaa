@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 44,
-  "character_xp": 18191,
+  "character_level": 50,
+  "character_xp": 22601,
   "attributes": {
     "values": [
-      23,
-      28,
-      31,
-      29,
+      26,
+      30,
+      33,
+      34,
       40,
-      38
+      44
     ]
   },
   "prestige_rank": 16,
   "total_prestige_count": 202,
-  "last_save_time": 1772987805,
-  "play_time_seconds": 1349635,
+  "last_save_time": 1772987946,
+  "play_time_seconds": 1349764,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 3190,
-    "player_max_hp": 3252,
+    "player_current_hp": 2976,
+    "player_max_hp": 3244,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -108,31 +108,31 @@
     },
     "helmet": {
       "slot": "Helmet",
-      "rarity": "Rare",
-      "ilvl": 20,
+      "rarity": "Epic",
+      "ilvl": 50,
       "tier": 0,
-      "base_name": "Cap of Learning",
-      "display_name": "Cap of Learning",
+      "base_name": "Regenerating Coif",
+      "display_name": "Regenerating Coif",
       "attributes": {
         "str": 0,
-        "dex": 1,
+        "dex": 0,
         "con": 0,
-        "int": 1,
-        "wis": 2,
-        "cha": 0
+        "int": 4,
+        "wis": 0,
+        "cha": 4
       },
       "affixes": [
         {
-          "affix_type": "XPGain",
-          "value": 1.0
+          "affix_type": "HPRegen",
+          "value": 6.0
         },
         {
-          "affix_type": "XPGain",
-          "value": 2.0
+          "affix_type": "DamagePercent",
+          "value": 5.0
         },
         {
-          "affix_type": "HPBonus",
-          "value": 14.0
+          "affix_type": "CritMultiplier",
+          "value": 0.18
         }
       ],
       "god_item_id": null
@@ -292,12 +292,12 @@
   },
   "fishing": {
     "rank": 35,
-    "total_fish_caught": 66234,
-    "fish_toward_next_rank": 6716,
+    "total_fish_caught": 66248,
+    "fish_toward_next_rank": 6730,
     "legendary_catches": 1340
   },
   "zone_progression": {
-    "current_zone_id": 5,
+    "current_zone_id": 6,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -347,6 +347,22 @@
       [
         4,
         3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        4
       ]
     ],
     "unlocked_zones": [
@@ -363,7 +379,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 92128,
+  "stormglass": 92144,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 3,
