@@ -2,28 +2,34 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 14,
+  "character_xp": 3075,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      17,
+      16,
+      19,
+      15,
+      15,
+      17
     ]
   },
-  "prestige_rank": 18,
-  "total_prestige_count": 204,
-  "last_save_time": 1773606942,
-  "play_time_seconds": 1365010,
+  "prestige_rank": 17,
+  "total_prestige_count": 203,
+  "last_save_time": 1773004559,
+  "play_time_seconds": 1365003,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Field Beetle",
+      "max_hp": 60,
+      "current_hp": 60,
+      "damage": 7,
+      "defense": 0
+    },
+    "player_current_hp": 3137,
+    "player_max_hp": 3137,
+    "player_attack_timer": 0.7999999999999999,
+    "enemy_attack_timer": 0.7999999999999999,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -106,7 +112,24 @@
       ],
       "god_item_id": null
     },
-    "helmet": null,
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Common",
+      "ilvl": 10,
+      "tier": 3,
+      "base_name": "Cap",
+      "display_name": "Cap",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 1,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [],
+      "god_item_id": null
+    },
     "gloves": null,
     "boots": {
       "slot": "Boots",
@@ -246,7 +269,7 @@
       7,
       8
     ],
-    "kills_in_subzone": 0,
+    "kills_in_subzone": 7,
     "fighting_boss": false,
     "has_stormbreaker": false
   },
