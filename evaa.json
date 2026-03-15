@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 37,
-  "character_xp": 13395,
+  "character_level": 64,
+  "character_xp": 3433,
   "attributes": {
     "values": [
-      23,
-      27,
-      28,
-      34,
-      27,
-      29
+      32,
+      39,
+      41,
+      46,
+      50,
+      41
     ]
   },
   "prestige_rank": 18,
   "total_prestige_count": 204,
-  "last_save_time": 1773607224,
-  "play_time_seconds": 1365274,
+  "last_save_time": 1773608255,
+  "play_time_seconds": 1366104,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 3230,
-    "player_max_hp": 3234,
+    "player_current_hp": 3401,
+    "player_max_hp": 3408,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -108,58 +108,74 @@
     },
     "helmet": {
       "slot": "Helmet",
-      "rarity": "Epic",
-      "ilvl": 30,
-      "tier": 0,
-      "base_name": "Wise Coif",
-      "display_name": "Wise Coif",
+      "rarity": "Legendary",
+      "ilvl": 40,
+      "tier": 1,
+      "base_name": "Thorned Helm",
+      "display_name": "Thorned Helm",
       "attributes": {
         "str": 0,
-        "dex": 0,
+        "dex": 4,
         "con": 0,
-        "int": 0,
-        "wis": 2,
-        "cha": 0
-      },
-      "affixes": [
-        {
-          "affix_type": "XPGain",
-          "value": 3.0
-        },
-        {
-          "affix_type": "XPGain",
-          "value": 3.0
-        },
-        {
-          "affix_type": "HPBonus",
-          "value": 25.0
-        }
-      ],
-      "god_item_id": null
-    },
-    "gloves": {
-      "slot": "Gloves",
-      "rarity": "Rare",
-      "ilvl": 20,
-      "tier": 0,
-      "base_name": "Gloves of Renewal",
-      "display_name": "Gloves of Renewal",
-      "attributes": {
-        "str": 0,
-        "dex": 0,
-        "con": 1,
         "int": 0,
         "wis": 0,
         "cha": 0
       },
       "affixes": [
         {
-          "affix_type": "HPRegen",
-          "value": 1.0
+          "affix_type": "DamageReflection",
+          "value": 7.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 3.0
         },
         {
           "affix_type": "HPBonus",
-          "value": 17.0
+          "value": 68.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 6.0
+        },
+        {
+          "affix_type": "AttackSpeed",
+          "value": 3.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Legendary",
+      "ilvl": 40,
+      "tier": 0,
+      "base_name": "Sturdy Mitts",
+      "display_name": "Sturdy Mitts",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 8,
+        "wis": 0,
+        "cha": 3
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 62.0
+        },
+        {
+          "affix_type": "DamageReduction",
+          "value": 8.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 6.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 8.0
         }
       ],
       "god_item_id": null
@@ -284,12 +300,12 @@
   },
   "fishing": {
     "rank": 35,
-    "total_fish_caught": 67252,
-    "fish_toward_next_rank": 7734,
+    "total_fish_caught": 67260,
+    "fish_toward_next_rank": 7742,
     "legendary_catches": 1359
   },
   "zone_progression": {
-    "current_zone_id": 4,
+    "current_zone_id": 5,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -327,6 +343,18 @@
       [
         3,
         3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
       ]
     ],
     "unlocked_zones": [
@@ -343,7 +371,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 22568,
+  "stormglass": 26117,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 3,
