@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 39,
-  "character_xp": 97,
+  "character_level": 49,
+  "character_xp": 2605,
   "attributes": {
     "values": [
-      28,
-      29,
-      30,
+      33,
       31,
-      25,
-      31
+      38,
+      33,
+      26,
+      43
     ]
   },
   "prestige_rank": 19,
   "total_prestige_count": 205,
-  "last_save_time": 1773622344,
-  "play_time_seconds": 1378923,
+  "last_save_time": 1773622621,
+  "play_time_seconds": 1379188,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 2906,
-    "player_max_hp": 2907,
+    "player_current_hp": 3149,
+    "player_max_hp": 3151,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -109,73 +109,73 @@
     "helmet": {
       "slot": "Helmet",
       "rarity": "Legendary",
-      "ilvl": 20,
-      "tier": 2,
-      "base_name": "Crown of Learning",
-      "display_name": "Crown of Learning",
+      "ilvl": 30,
+      "tier": 0,
+      "base_name": "Cap of Renewal",
+      "display_name": "Cap of Renewal",
       "attributes": {
         "str": 0,
         "dex": 0,
-        "con": 0,
-        "int": 4,
+        "con": 3,
+        "int": 0,
         "wis": 0,
         "cha": 0
       },
       "affixes": [
         {
-          "affix_type": "XPGain",
-          "value": 5.0
+          "affix_type": "HPRegen",
+          "value": 7.0
         },
         {
-          "affix_type": "DamageReflection",
-          "value": 4.0
-        },
-        {
-          "affix_type": "DamageReduction",
-          "value": 5.0
+          "affix_type": "HPBonus",
+          "value": 51.0
         },
         {
           "affix_type": "DamagePercent",
+          "value": 6.0
+        },
+        {
+          "affix_type": "HPRegen",
           "value": 5.0
         },
         {
-          "affix_type": "CritMultiplier",
-          "value": 0.23
+          "affix_type": "HPBonus",
+          "value": 52.0
         }
       ],
       "god_item_id": null
     },
     "gloves": {
       "slot": "Gloves",
-      "rarity": "Epic",
-      "ilvl": 20,
-      "tier": 0,
-      "base_name": "Mitts of Precision",
-      "display_name": "Mitts of Precision",
+      "rarity": "Legendary",
+      "ilvl": 30,
+      "tier": 3,
+      "base_name": "Handwraps of Precision",
+      "display_name": "Handwraps of Precision",
       "attributes": {
         "str": 0,
         "dex": 0,
-        "con": 2,
+        "con": 10,
         "int": 0,
-        "wis": 0,
-        "cha": 2
+        "wis": 5,
+        "cha": 0
       },
       "affixes": [
         {
           "affix_type": "CritChance",
-          "value": 3.0
-        },
-        {
-          "affix_type": "AttackSpeed",
-          "value": 1.0
+          "value": 10.0
         },
         {
           "affix_type": "DamagePercent",
-          "value": 3.0
+          "value": 9.0
         },
         {
-          "affix_type": "CritMultiplier",
-          "value": 0.11
+          "affix_type": "CritChance",
+          "value": 7.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 10.0
         }
       ],
       "god_item_id": null
@@ -300,12 +300,12 @@
   },
   "fishing": {
     "rank": 35,
-    "total_fish_caught": 68138,
-    "fish_toward_next_rank": 8620,
+    "total_fish_caught": 68142,
+    "fish_toward_next_rank": 8624,
     "legendary_catches": 1379
   },
   "zone_progression": {
-    "current_zone_id": 3,
+    "current_zone_id": 4,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -331,6 +331,18 @@
       [
         2,
         3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
       ]
     ],
     "unlocked_zones": [
@@ -347,7 +359,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 52953,
+  "stormglass": 53647,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 3,
