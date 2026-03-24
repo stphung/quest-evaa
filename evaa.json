@@ -2,30 +2,30 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 1,
-  "character_xp": 0,
+  "character_level": 17,
+  "character_xp": 5161,
   "attributes": {
     "values": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      20,
+      20,
+      14,
+      16,
+      23,
+      15
     ]
   },
   "prestige_rank": 2,
   "total_prestige_count": 207,
-  "last_save_time": 1774379187,
-  "play_time_seconds": 1387517,
+  "last_save_time": 1774379359,
+  "play_time_seconds": 1387677,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 50,
-    "player_max_hp": 50,
+    "player_current_hp": 2662,
+    "player_max_hp": 2663,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": false
+    "is_regenerating": true
   },
   "equipment": {
     "weapon": {
@@ -106,8 +106,72 @@
       ],
       "god_item_id": null
     },
-    "helmet": null,
-    "gloves": null,
+    "helmet": {
+      "slot": "Helmet",
+      "rarity": "Epic",
+      "ilvl": 10,
+      "tier": 5,
+      "base_name": "Crown of Vitality",
+      "display_name": "Crown of Vitality",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 3,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "HPBonus",
+          "value": 36.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 3.0
+        },
+        {
+          "affix_type": "DamageReflection",
+          "value": 4.0
+        },
+        {
+          "affix_type": "CritChance",
+          "value": 4.0
+        }
+      ],
+      "god_item_id": null
+    },
+    "gloves": {
+      "slot": "Gloves",
+      "rarity": "Rare",
+      "ilvl": 10,
+      "tier": 5,
+      "base_name": "Gauntlets of Precision",
+      "display_name": "Gauntlets of Precision",
+      "attributes": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 2,
+        "wis": 0,
+        "cha": 0
+      },
+      "affixes": [
+        {
+          "affix_type": "CritChance",
+          "value": 3.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 3.0
+        },
+        {
+          "affix_type": "HPRegen",
+          "value": 2.0
+        }
+      ],
+      "god_item_id": null
+    },
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -224,14 +288,27 @@
   },
   "fishing": {
     "rank": 35,
-    "total_fish_caught": 68588,
-    "fish_toward_next_rank": 9070,
+    "total_fish_caught": 68592,
+    "fish_toward_next_rank": 9074,
     "legendary_catches": 1387
   },
   "zone_progression": {
-    "current_zone_id": 1,
+    "current_zone_id": 2,
     "current_subzone_id": 1,
-    "defeated_bosses": [],
+    "defeated_bosses": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ],
     "unlocked_zones": [
       1,
       2
@@ -240,7 +317,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 71515,
+  "stormglass": 71597,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 3,
