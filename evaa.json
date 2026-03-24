@@ -14,16 +14,22 @@
       113
     ]
   },
-  "prestige_rank": 14,
+  "prestige_rank": 8,
   "total_prestige_count": 206,
-  "last_save_time": 1774379180,
-  "play_time_seconds": 1387511,
+  "last_save_time": 1774379181,
+  "play_time_seconds": 1387512,
   "combat_state": {
-    "current_enemy": null,
-    "player_current_hp": 3584,
-    "player_max_hp": 3584,
-    "player_attack_timer": 0.0,
-    "enemy_attack_timer": 0.0,
+    "current_enemy": {
+      "name": "Grimclaw Beast",
+      "max_hp": 833,
+      "current_hp": 833,
+      "damage": 105,
+      "defense": 52
+    },
+    "player_current_hp": 3567,
+    "player_max_hp": 3567,
+    "player_attack_timer": 0.2,
+    "enemy_attack_timer": 0.2,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -491,7 +497,7 @@
         },
         {
           "room_type": "Treasure",
-          "state": "Current",
+          "state": "Cleared",
           "position": [
             5,
             2
@@ -545,7 +551,7 @@
         null,
         {
           "room_type": "Combat",
-          "state": "Revealed",
+          "state": "Current",
           "position": [
             5,
             3
@@ -559,7 +565,7 @@
         },
         {
           "room_type": "Combat",
-          "state": "Hidden",
+          "state": "Revealed",
           "position": [
             6,
             3
@@ -1275,7 +1281,7 @@
     ],
     "player_position": [
       5,
-      2
+      3
     ],
     "entrance_position": [
       1,
@@ -1286,7 +1292,7 @@
       6
     ],
     "has_key": true,
-    "move_timer": 1.7000000000000004,
+    "move_timer": 0.0,
     "collected_items": [
       {
         "slot": "Weapon",
@@ -1496,8 +1502,8 @@
       }
     ],
     "xp_earned": 315559,
-    "rooms_cleared": 30,
-    "current_room_cleared": true,
+    "rooms_cleared": 31,
+    "current_room_cleared": false,
     "zone_id": 10
   },
   "fishing": {
