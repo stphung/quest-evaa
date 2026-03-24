@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 79,
-  "character_xp": 34897,
+  "character_level": 83,
+  "character_xp": 10837,
   "attributes": {
     "values": [
-      52,
-      51,
-      41,
-      43,
-      46,
-      61
+      55,
+      54,
+      42,
+      44,
+      47,
+      64
     ]
   },
   "prestige_rank": 20,
   "total_prestige_count": 206,
-  "last_save_time": 1774372111,
-  "play_time_seconds": 1380942,
+  "last_save_time": 1774372307,
+  "play_time_seconds": 1381123,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 2846,
-    "player_max_hp": 3276,
+    "player_current_hp": 1980,
+    "player_max_hp": 3163,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -147,35 +147,35 @@
     },
     "gloves": {
       "slot": "Gloves",
-      "rarity": "Legendary",
-      "ilvl": 30,
-      "tier": 6,
-      "base_name": "Sturdy Gauntlets",
-      "display_name": "Sturdy Gauntlets",
+      "rarity": "Epic",
+      "ilvl": 90,
+      "tier": 1,
+      "base_name": "Mitts of Power",
+      "display_name": "Mitts of Power",
       "attributes": {
         "str": 0,
         "dex": 0,
-        "con": 16,
+        "con": 0,
         "int": 0,
-        "wis": 5,
+        "wis": 12,
         "cha": 0
       },
       "affixes": [
         {
-          "affix_type": "HPBonus",
-          "value": 70.0
+          "affix_type": "DamagePercent",
+          "value": 9.0
+        },
+        {
+          "affix_type": "DamagePercent",
+          "value": 8.0
         },
         {
           "affix_type": "XPGain",
-          "value": 12.0
-        },
-        {
-          "affix_type": "CritMultiplier",
-          "value": 0.46
-        },
-        {
-          "affix_type": "DamageReduction",
           "value": 8.0
+        },
+        {
+          "affix_type": "HPBonus",
+          "value": 60.0
         }
       ],
       "god_item_id": null
@@ -300,12 +300,12 @@
   },
   "fishing": {
     "rank": 35,
-    "total_fish_caught": 68196,
-    "fish_toward_next_rank": 8678,
+    "total_fish_caught": 68216,
+    "fish_toward_next_rank": 8698,
     "legendary_catches": 1380
   },
   "zone_progression": {
-    "current_zone_id": 9,
+    "current_zone_id": 10,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -419,6 +419,22 @@
       [
         8,
         4
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        9,
+        4
       ]
     ],
     "unlocked_zones": [
@@ -437,7 +453,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 57505,
+  "stormglass": 57528,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 3,
