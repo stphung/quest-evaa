@@ -2,26 +2,26 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 63,
-  "character_xp": 32790,
+  "character_level": 72,
+  "character_xp": 3959,
   "attributes": {
     "values": [
-      46,
-      38,
-      36,
-      36,
-      41,
-      49
+      50,
+      43,
+      39,
+      40,
+      44,
+      57
     ]
   },
   "prestige_rank": 20,
   "total_prestige_count": 206,
-  "last_save_time": 1774371495,
-  "play_time_seconds": 1380369,
+  "last_save_time": 1774371841,
+  "play_time_seconds": 1380692,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 3177,
-    "player_max_hp": 3246,
+    "player_current_hp": 3091,
+    "player_max_hp": 3256,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
@@ -300,12 +300,12 @@
   },
   "fishing": {
     "rank": 35,
-    "total_fish_caught": 68178,
-    "fish_toward_next_rank": 8660,
+    "total_fish_caught": 68184,
+    "fish_toward_next_rank": 8666,
     "legendary_catches": 1380
   },
   "zone_progression": {
-    "current_zone_id": 6,
+    "current_zone_id": 7,
     "current_subzone_id": 1,
     "defeated_bosses": [
       [
@@ -371,6 +371,22 @@
       [
         5,
         4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        4
       ]
     ],
     "unlocked_zones": [
@@ -389,7 +405,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 56155,
+  "stormglass": 57454,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 3,
