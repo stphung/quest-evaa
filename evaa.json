@@ -3,7 +3,7 @@
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
   "character_level": 182,
-  "character_xp": 202395,
+  "character_xp": 210667,
   "attributes": {
     "values": [
       112,
@@ -14,22 +14,16 @@
       113
     ]
   },
-  "prestige_rank": 8,
+  "prestige_rank": 1,
   "total_prestige_count": 206,
-  "last_save_time": 1774379181,
-  "play_time_seconds": 1387512,
+  "last_save_time": 1774379183,
+  "play_time_seconds": 1387514,
   "combat_state": {
-    "current_enemy": {
-      "name": "Grimclaw Beast",
-      "max_hp": 833,
-      "current_hp": 833,
-      "damage": 105,
-      "defense": 52
-    },
-    "player_current_hp": 3567,
-    "player_max_hp": 3567,
-    "player_attack_timer": 0.2,
-    "enemy_attack_timer": 0.2,
+    "current_enemy": null,
+    "player_current_hp": 3546,
+    "player_max_hp": 3546,
+    "player_attack_timer": 0.0,
+    "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
     "is_regenerating": false
   },
@@ -1292,7 +1286,7 @@
       6
     ],
     "has_key": true,
-    "move_timer": 0.0,
+    "move_timer": 0.30000000000000004,
     "collected_items": [
       {
         "slot": "Weapon",
@@ -1501,9 +1495,9 @@
         "god_item_id": null
       }
     ],
-    "xp_earned": 315559,
+    "xp_earned": 323831,
     "rooms_cleared": 31,
-    "current_room_cleared": false,
+    "current_room_cleared": true,
     "zone_id": 10
   },
   "fishing": {
