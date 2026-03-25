@@ -2,30 +2,30 @@
   "version": 2,
   "character_id": "e3c33b09-1e50-40fd-a65a-bb4f472ffaa1",
   "character_name": "Evaa",
-  "character_level": 30,
-  "character_xp": 8131,
+  "character_level": 1,
+  "character_xp": 0,
   "attributes": {
     "values": [
-      23,
-      27,
-      25,
-      29,
-      19,
-      24
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
     ]
   },
-  "prestige_rank": 5,
-  "total_prestige_count": 210,
-  "last_save_time": 1774418482,
-  "play_time_seconds": 1419424,
+  "prestige_rank": 6,
+  "total_prestige_count": 211,
+  "last_save_time": 1774454460,
+  "play_time_seconds": 1427128,
   "combat_state": {
     "current_enemy": null,
-    "player_current_hp": 2662,
-    "player_max_hp": 2663,
+    "player_current_hp": 50,
+    "player_max_hp": 50,
     "player_attack_timer": 0.0,
     "enemy_attack_timer": 0.0,
     "regen_timer": 0.0,
-    "is_regenerating": true
+    "is_regenerating": false
   },
   "equipment": {
     "weapon": {
@@ -106,64 +106,8 @@
       ],
       "god_item_id": null
     },
-    "helmet": {
-      "slot": "Helmet",
-      "rarity": "Rare",
-      "ilvl": 30,
-      "tier": 5,
-      "base_name": "Thorned Cap",
-      "display_name": "Thorned Cap",
-      "attributes": {
-        "str": 0,
-        "dex": 4,
-        "con": 0,
-        "int": 2,
-        "wis": 0,
-        "cha": 0
-      },
-      "affixes": [
-        {
-          "affix_type": "DamageReflection",
-          "value": 4.0
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 5.0
-        },
-        {
-          "affix_type": "CritChance",
-          "value": 3.0
-        }
-      ],
-      "god_item_id": null
-    },
-    "gloves": {
-      "slot": "Gloves",
-      "rarity": "Rare",
-      "ilvl": 30,
-      "tier": 3,
-      "base_name": "Handwraps of Precision",
-      "display_name": "Handwraps of Precision",
-      "attributes": {
-        "str": 0,
-        "dex": 0,
-        "con": 0,
-        "int": 5,
-        "wis": 0,
-        "cha": 3
-      },
-      "affixes": [
-        {
-          "affix_type": "CritChance",
-          "value": 4.0
-        },
-        {
-          "affix_type": "DamageReduction",
-          "value": 2.0
-        }
-      ],
-      "god_item_id": null
-    },
+    "helmet": null,
+    "gloves": null,
     "boots": {
       "slot": "Boots",
       "rarity": "Legendary",
@@ -280,51 +224,14 @@
   },
   "fishing": {
     "rank": 35,
-    "total_fish_caught": 70786,
-    "fish_toward_next_rank": 11268,
-    "legendary_catches": 1437
+    "total_fish_caught": 71338,
+    "fish_toward_next_rank": 11820,
+    "legendary_catches": 1444
   },
   "zone_progression": {
-    "current_zone_id": 4,
+    "current_zone_id": 1,
     "current_subzone_id": 1,
-    "defeated_bosses": [
-      [
-        1,
-        1
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        3,
-        3
-      ]
-    ],
+    "defeated_bosses": [],
     "unlocked_zones": [
       1,
       2,
@@ -335,7 +242,7 @@
     "fighting_boss": false,
     "has_stormbreaker": false
   },
-  "stormglass": 117356,
+  "stormglass": 131673,
   "stormglass_discovered": true,
   "storm_sigils": {
     "slots_unlocked": 3,
