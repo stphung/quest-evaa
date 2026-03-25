@@ -271,7 +271,7 @@
   },
   "progress": {
     "DungeonMasterVII": {
-      "current": 1929,
+      "current": 1964,
       "target": 25000
     },
     "BossHunterI": {
@@ -283,15 +283,15 @@
       "target": 5000
     },
     "FishCatcherVIII": {
-      "current": 78984,
+      "current": 80126,
       "target": 10000000
     },
     "PrestigeXXV": {
-      "current": 4,
+      "current": 5,
       "target": 25
     },
     "SlayerVIII": {
-      "current": 278874,
+      "current": 283792,
       "target": 500000
     },
     "DeepMissionsX": {
@@ -323,7 +323,7 @@
       "target": 10
     },
     "Level5000": {
-      "current": 16,
+      "current": 166,
       "target": 5000
     },
     "GuildRank5": {
@@ -339,11 +339,11 @@
       "target": 200
     },
     "Eternal": {
-      "current": 4,
+      "current": 5,
       "target": 100
     },
     "BossHunterXV": {
-      "current": 23303,
+      "current": 23696,
       "target": 10000000
     },
     "DeepMissionsC": {
@@ -351,19 +351,19 @@
       "target": 100
     },
     "SlayerXV": {
-      "current": 278874,
+      "current": 283792,
       "target": 1000000000
     },
     "PrestigeL": {
-      "current": 4,
+      "current": 5,
       "target": 50
     },
     "Prestige700": {
-      "current": 4,
+      "current": 5,
       "target": 700
     },
     "FishCatcherV": {
-      "current": 78984,
+      "current": 80126,
       "target": 500000
     },
     "BossHunterIV": {
@@ -375,7 +375,7 @@
       "target": 25
     },
     "Level750": {
-      "current": 16,
+      "current": 166,
       "target": 750
     },
     "FishCatcherII": {
@@ -383,7 +383,7 @@
       "target": 1000
     },
     "FishCatcherIV": {
-      "current": 78984,
+      "current": 80126,
       "target": 100000
     },
     "SlayerV": {
@@ -403,7 +403,7 @@
       "target": 25
     },
     "FishCatcherVII": {
-      "current": 78984,
+      "current": 80126,
       "target": 5000000
     },
     "SlayerVI": {
@@ -435,27 +435,27 @@
       "target": 500
     },
     "DungeonMasterIX": {
-      "current": 1929,
+      "current": 1964,
       "target": 500000
     },
     "PrestigeXC": {
-      "current": 4,
+      "current": 5,
       "target": 90
     },
     "SlayerIX": {
-      "current": 278874,
+      "current": 283792,
       "target": 1000000
     },
     "SlayerXII": {
-      "current": 278874,
+      "current": 283792,
       "target": 50000000
     },
     "SlayerXIII": {
-      "current": 278874,
+      "current": 283792,
       "target": 100000000
     },
     "DungeonMasterV": {
-      "current": 1929,
+      "current": 1964,
       "target": 5000
     },
     "FishermanIV": {
@@ -467,11 +467,11 @@
       "target": 20
     },
     "BossHunterXII": {
-      "current": 23303,
+      "current": 23696,
       "target": 750000
     },
     "Prestige10000": {
-      "current": 4,
+      "current": 5,
       "target": 10000
     },
     "DungeonDiver": {
@@ -483,11 +483,11 @@
       "target": 30
     },
     "SlayerX": {
-      "current": 278874,
+      "current": 283792,
       "target": 2500000
     },
     "BossHunterXIV": {
-      "current": 23303,
+      "current": 23696,
       "target": 5000000
     },
     "SlayerVII": {
@@ -495,7 +495,7 @@
       "target": 100000
     },
     "Level10000": {
-      "current": 16,
+      "current": 166,
       "target": 10000
     },
     "BossHunterVI": {
@@ -507,15 +507,15 @@
       "target": 5000
     },
     "BossHunterX": {
-      "current": 23303,
+      "current": 23696,
       "target": 75000
     },
     "SlayerXI": {
-      "current": 278874,
+      "current": 283792,
       "target": 10000000
     },
     "DungeonMasterVI": {
-      "current": 1929,
+      "current": 1964,
       "target": 10000
     },
     "FirstPrestige": {
@@ -527,7 +527,7 @@
       "target": 500
     },
     "Level20000": {
-      "current": 16,
+      "current": 166,
       "target": 20000
     },
     "GoneFishing": {
@@ -535,11 +535,11 @@
       "target": 1
     },
     "FishCatcherX": {
-      "current": 78984,
+      "current": 80126,
       "target": 100000000
     },
     "Level500": {
-      "current": 16,
+      "current": 166,
       "target": 500
     },
     "BossHunterVIII": {
@@ -551,7 +551,7 @@
       "target": 100
     },
     "Prestige1000": {
-      "current": 4,
+      "current": 5,
       "target": 1000
     },
     "GuildRank3": {
@@ -567,19 +567,19 @@
       "target": 1000
     },
     "Level2000": {
-      "current": 16,
+      "current": 166,
       "target": 2000
     },
     "PrestigeXL": {
-      "current": 4,
+      "current": 5,
       "target": 40
     },
     "BossHunterXI": {
-      "current": 23303,
+      "current": 23696,
       "target": 250000
     },
     "DungeonMasterVIII": {
-      "current": 1929,
+      "current": 1964,
       "target": 100000
     },
     "Level50": {
@@ -591,7 +591,7 @@
       "target": 20
     },
     "Prestige200": {
-      "current": 4,
+      "current": 5,
       "target": 200
     },
     "DungeonMasterIII": {
@@ -611,27 +611,27 @@
       "target": 10
     },
     "PrestigeXXX": {
-      "current": 4,
+      "current": 5,
       "target": 30
     },
     "Prestige300": {
-      "current": 4,
+      "current": 5,
       "target": 300
     },
     "Level100000": {
-      "current": 16,
+      "current": 166,
       "target": 100000
     },
     "DungeonMasterX": {
-      "current": 1929,
+      "current": 1964,
       "target": 1000000
     },
     "Level3000": {
-      "current": 16,
+      "current": 166,
       "target": 3000
     },
     "Prestige500": {
-      "current": 4,
+      "current": 5,
       "target": 500
     },
     "Layer5Cleared": {
@@ -639,19 +639,19 @@
       "target": 5
     },
     "Level1500": {
-      "current": 16,
+      "current": 166,
       "target": 1500
     },
     "BossHunterIX": {
-      "current": 23303,
+      "current": 23696,
       "target": 25000
     },
     "FishCatcherIX": {
-      "current": 78984,
+      "current": 80126,
       "target": 50000000
     },
     "SlayerXIV": {
-      "current": 278874,
+      "current": 283792,
       "target": 500000000
     },
     "DungeonMasterII": {
@@ -667,19 +667,19 @@
       "target": 10
     },
     "Prestige150": {
-      "current": 4,
+      "current": 5,
       "target": 150
     },
     "Level1000": {
-      "current": 16,
+      "current": 166,
       "target": 1000
     },
     "Level7500": {
-      "current": 16,
+      "current": 166,
       "target": 7500
     },
     "FishCatcherVI": {
-      "current": 78984,
+      "current": 80126,
       "target": 1000000
     },
     "PrestigeX": {
@@ -691,11 +691,11 @@
       "target": 50
     },
     "BossHunterXIII": {
-      "current": 23303,
+      "current": 23696,
       "target": 2500000
     },
     "PrestigeLXX": {
-      "current": 4,
+      "current": 5,
       "target": 70
     },
     "VoidExplorer": {
@@ -707,15 +707,15 @@
       "target": 10
     }
   },
-  "total_kills": 278874,
-  "total_bosses_defeated": 23303,
-  "total_fish_caught": 78984,
-  "total_dungeons_completed": 1929,
+  "total_kills": 283792,
+  "total_bosses_defeated": 23696,
+  "total_fish_caught": 80126,
+  "total_dungeons_completed": 1964,
   "total_minigame_wins": 12,
   "highest_prestige_rank": 20,
   "highest_level": 457,
   "highest_fishing_rank": 35,
-  "zones_fully_cleared": 18811,
+  "zones_fully_cleared": 19132,
   "expanse_cycles_completed": 0,
   "total_deep_missions_completed": 0,
   "highest_deep_layer": 0,
